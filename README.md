@@ -2,4 +2,4 @@
 Just trying to explain on the lists that are alredy out there WITH EVEN MORE DATA
 
 
-![0x434D0010] (https://raw.githubusercontent.com/MobCat/MobCats-original-xbox-game-list/main/icon/434d0010-TitleImage.png)
+![434D0010](https://raw.githubusercontent.com/MobCat/MobCats-original-xbox-game-list/main/icon/434d0010-TitleImage.png)
