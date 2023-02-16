@@ -1,2 +1,2 @@
-# xbox-title-image-database
-A database of og xbox title icons aka TitleImage.xbx
+# MobCat's origial xbox game ID list
+Just trying to explain on the lists that are alredy out there WITH EVEN MORE DATA
