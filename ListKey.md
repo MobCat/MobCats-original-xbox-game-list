@@ -10,7 +10,7 @@ You also get some weird things like carve was published by Global Star Software 
 **Region** - This table is set to the US ESRB rating, a rating number is also included so a table can be built for your region.  
 (0) RP - ALL is a little bit of a misnomer. RP does stand for Rating Pending, However in this case, it just means no rating was set for this xbe. So this game is not affected by xbox parental controls.  
 **Version** \- This info may not be that useful or arbitrary as it was developer set. So they can set it to whatever they want. Or not set it to anything at all.  
-**Media Type** - The media the xbe is set to be allowed to run off. Chihiro media pack appears to be a default setting of later XDKs and all of these flags can be bypassed with a modded xbox or emulator.  
+**Media Type** - The media the xbe is set to be allowed to run off. Chihiro media board appears to be a default setting of later XDKs and all of these flags can be bypassed with a modded xbox or emulator.  
 **Init Flags** - Initialization flags for the xbe. So when the xbe boots it knows to format and mount the cache drive, or not use the extra ram of a devkit.  
 **Entry Point** - A rough idea of where the xbe is loaded to and ran from memory. It's only really meant to tell you if the xbe is compiled as a retail or debug xbe.  
 **Cert Timestamp** - A timestamp of when the xbe's certificate was generated, this is not a release date, but it's close enough.  
