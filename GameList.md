@@ -2,7 +2,9 @@
 Og xbox Title ID list
 Last Updated 20230306
 A *very* long key for this table can be found [Here](https://github.com/MobCat/MobCats-original-xbox-game-list/blob/main/ListKey.md).
-Please note: Not all Time names converted for Unicode to ASCII correctly, like 0x58500001. And not all icons converted correctly like 0x4D570005These are limitations of XbeTool.exe and xprextract2.exe respectively. If you know of better tools, please let me know.
+Please note: Not all Time names converted for Unicode to ASCII correctly, like 0x58500001. And not all icons converted correctly like 0x4D570005
+These are limitations of XbeTool.exe and xprextract2.exe respectively. If you know of better tools, please let me know.
+
 | Title Image | Title ID HEX | Title ID DEX | Serial Number | Title Name | Publisher | Region | Rating | Version | Media Type | Init Flags | Entry Point | Cert Timestamp | MD5 Checksum |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![0x4541038B](https://raw.githubusercontent.com/MobCat/MobCats-original-xbox-game-list/main/icon/4541038b-TitleImage.png) | 0x4541038B | 1161888651 | EA-907 |  | Electronic Arts (EA) | (1) USA / Canada | (3) T - Teen | 0x00000002 | (0x00000202) MEDIA_BOARD? + XBOX DVD | (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive | (0xA8DDE8CD) Retail | Fri Sep 23 03:21:41 2005 | 2DA64A90F21A33E1D0E9956B877F99C7 |
