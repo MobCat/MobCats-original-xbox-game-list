@@ -2,11 +2,11 @@ Placeholder ish.
 
 \*\*Title Image\*\* - Icon of the game converted from save data on the xbox. This has some issues and bugs dew to old tools...  
 
-\*\*Title ID HEX -\*\*  The hex converted Serial Number\<br>  
-We brake the SN into 2 parts and remove the -\<br>  
-The front half, the letters are simple ascii to hex converted.\<br>  
-The back half is decimal to hex converted.\<br>  
-So MS-074 would become 4D53-004A then we drop the - and add the 0x to denote it is a hex code 0x4D53004A\<br>
+\*\*Title ID HEX -\*\*  The hex converted Serial Number  
+We brake the SN into 2 parts and remove the -  
+The front half, the letters are simple ascii to hex converted.  
+The back half is decimal to hex converted.  
+So MS-074 would become 4D53-004A then we drop the - and add the 0x to denote it is a hex code 0x4D53004A
 
 \*\*Title ID DEX -\*\*  The integer of the hex ID number, this is used for some dev things, but most of the time you can just enter the hex by prefixing it with 0x
 
@@ -23,12 +23,12 @@ You also get some weird things like carve was published by Global Star Software 
 So the game has been marked as TT, even know it wasn't really published by them, just someone they own.
 
 \*\*Region\*\* -  The region the xbe is set to run in. If these flags are not set correctly then your xbe may not boot on your xbox. However this can be bypassed with mods of course.  
-The number at the start in an int convert from the hex flag, and is intended to make searching for regions easier.\<br/>  
-0 = No region set.\<br/>  
-1 = USA / Canada\<br/>  
-2 = Japan\<br/>  
-4 = PAL\<br/>  
-So 3 would be USA / Canada + Japan, 5 would be USA + PAL, 7 would be all of them and so on.\<br/>
+The number at the start in an int convert from the hex flag, and is intended to make searching for regions easier.  
+0 = No region set.  
+1 = USA / Canada  
+2 = Japan  
+4 = PAL  
+So 3 would be USA / Canada + Japan, 5 would be USA + PAL, 7 would be all of them and so on.
 
 \*\*Rating\*\* - This table is set to the US ESRB rating, a rating number is also included so a table can be built for your region.    
 (0) RP - ALL is a little bit of a misnomer. RP does stand for Rating Pending, However in this case, it just means no rating was set for this xbe. So this game is not affected by xbox parental controls.
