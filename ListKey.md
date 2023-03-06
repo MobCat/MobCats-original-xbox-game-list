@@ -2,11 +2,11 @@ Placeholder ish.
 
 \*\*Title Image\*\* - Icon of the game converted from save data on the xbox. This has some issues and bugs dew to old tools...  
 
-\*\*Title ID HEX -\*\*  The hex converted Serial Number\<br />  
-We brake the SN into 2 parts and remove the -\<br />  
-The front half, the letters are simple ascii to hex converted.\<br />  
-The back half is decimal to hex converted.\<br />  
-So MS-074 would become 4D53-004A then we drop the - and add the 0x to denote it is a hex code 0x4D53004A\<br />
+\*\*Title ID HEX -\*\*  The hex converted Serial Number\<br>  
+We brake the SN into 2 parts and remove the -\<br>  
+The front half, the letters are simple ascii to hex converted.\<br>  
+The back half is decimal to hex converted.\<br>  
+So MS-074 would become 4D53-004A then we drop the - and add the 0x to denote it is a hex code 0x4D53004A\<br>
 
 \*\*Title ID DEX -\*\*  The integer of the hex ID number, this is used for some dev things, but most of the time you can just enter the hex by prefixing it with 0x
 
