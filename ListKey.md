@@ -2,11 +2,11 @@ Placeholder ish.
 
 \*\*Title Image\*\* - Icon of the game converted from save data on the xbox. This has some issues and bugs dew to old tools...  
 
-\*\*Title ID HEX -\*\*  The hex converted Serial Number\<br/>  
-We brake the SN into 2 parts and remove the -\<br/>  
-The front half, the letters are simple ascii to hex converted.\<br/>  
-The back half is decimal to hex converted.\<br/>  
-So MS-074 would become 4D53-004A then we drop the - and add the 0x to denote it is a hex code 0x4D53004A\<br/>
+\*\*Title ID HEX -\*\*  The hex converted Serial Number\<br />  
+We brake the SN into 2 parts and remove the -\<br />  
+The front half, the letters are simple ascii to hex converted.\<br />  
+The back half is decimal to hex converted.\<br />  
+So MS-074 would become 4D53-004A then we drop the - and add the 0x to denote it is a hex code 0x4D53004A\<br />
 
 \*\*Title ID DEX -\*\*  The integer of the hex ID number, this is used for some dev things, but most of the time you can just enter the hex by prefixing it with 0x
 
@@ -39,8 +39,8 @@ So 3 would be USA / Canada + Japan, 5 would be USA + PAL, 7 would be all of them
 
 \*\*Init Flags\*\* - Initialization flags for the xbe. So when the xbe boots it knows to format and mount the cache drive, or not use the extra ram of a devkit.  
 
-\*\*Entry Point\*\* - A rough idea of where the xbe is loaded to and ran from memory. It's only really meant to tell you if the xbe is compiled as a retail or debug xbe.   
-  
-\*\*Cert Timestamp\*\* - A timestamp of when the xbe's certificate was generated, this is not a release date, but it's close enough.   
-  
+\*\*Entry Point\*\* - A rough idea of where the xbe is loaded to and ran from memory. It's only really meant to tell you if the xbe is compiled as a retail or debug xbe. 
+
+\*\*Cert Timestamp\*\* - A timestamp of when the xbe's certificate was generated, this is not a release date, but it's close enough. 
+
 \*\*MD5 Checksum\*\* - This is a unique MD5 checksum of the xbe this info was pulled from. If your xbe has the same checksum but not the same info, we have issues...
