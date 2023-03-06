@@ -11,14 +11,17 @@ Because of this I'm not documenting anything that's not a "default.xbe" for now,
 Like if I where also to dump and log all the save game icons, not just the title icons.  
 I do need to log TUs at some point, but just logging all the main games is going to be enough work.
 
-ListKey.md is well, the key for the table. It explains what the categories in the list are.
+# Lists in this repo
 
-GameList.md is the nice list, with icons and stuff.  
+**ListKey.md** is well, the key for the table. It explains what the categories in the list are.
+
+**GameList.md** is the nice list, with icons and stuff.  
 You can also find an alt copy of this list at [https://rentry.org/wpqaz](https://rentry.org/wpqaz)  
 And you can find all the icons in the icon folder in this GitHub.
 
-GameList.csv is the same as the markdown list, but no game icons. Just data.  
-It can be searched and easily viewed with GitHubs table viewer thing.
+**GameList.csv** is the same as the markdown list, but no game icons. Just data.  
+It can be searched and easily viewed with GitHubs table viewer thing.  
+Please note, some characters like " had to be removed from the title names to keep GitHub happy.
 
-GameList.txt is a raw text dump from my "tools".  
+**GameList.txt** is a raw text dump from my "tools".  
 Might be useful if for some reason you can't ingest the csv into your project.
