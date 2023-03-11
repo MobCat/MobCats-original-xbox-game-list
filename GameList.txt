@@ -1,1524 +1,4 @@
-Processing 103303083.xbe [1/194]
-Title ID HEX: 0x41560030
-Title ID DEC: 1096155184
-Serial Num: AV-048
-Title Name: Deer Hunt 2004 Season
-Publisher guess: Activision
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00001101
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FDA368) Retail
-Cert Timestamp: Fri Aug 15 06:14:08 2003
-MD5: 80fd9168846c3fa9ee3eee6c849c4d2c
-
-
-Processing 104827165.xbe [2/194]
-Title ID HEX: 0x53450023
-Title ID DEC: 1397030947
-Serial Num: SE-035
-Title Name: ESPN NBA BASKETBALL
-Publisher guess: SEGA
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000002
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8D5EAAC) Retail
-Cert Timestamp: Sat Oct 11 06:01:57 2003
-MD5: 5aac81e07686171a3054e7c31dcfbe06
-
-
-Processing 115666663.xbe [3/194]
-Title ID HEX: 0x4D570005
-Title ID DEC: 1297547269
-Serial Num: MW-005
-Title Name: Area51
-Publisher guess: Midway Games
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000002
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8D9024A) Retail
-Cert Timestamp: Mon Apr 11 20:40:15 2005
-MD5: 22f3a0e204c8b998ef8aefbfde08397e
-
-
-Processing 115831957.xbe [4/194]
-Title ID HEX: 0x4D570017
-Title ID DEC: 1297547287
-Serial Num: MW-023
-Title Name: Freestyle MetalX
-Publisher guess: Midway Games
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8EA3B98) Retail
-Cert Timestamp: Wed Jul 16 06:53:13 2003
-MD5: a7d4bee0fb89e5f70ca91da5c4133711
-
-
-Processing 117788621.xbe [5/194]
-Title ID HEX: 0x54540010
-Title ID DEC: 1414791184
-Serial Num: TT-016
-Title Name: Carve
-Publisher guess: Take-Two Interactive Software
-Region: (5) PAL + USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000003
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F8E9D0) Retail
-Cert Timestamp: Tue Jan 06 22:55:41 2004
-MD5: 7dd34b5c03b76d650102e93582f9ba9c
-
-
-Processing 126306746.xbe [6/194]
-Title ID HEX: 0x54510004
-Title ID DEC: 1414594564
-Serial Num: TQ-004
-Title Name: Dark Summit
-Publisher guess: THQ
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F43DD7) Retail
-Cert Timestamp: Sun Oct 28 02:49:21 2001
-MD5: 023cafa4dfa946d6f5222d5a86ac91fb
-
-
-Processing 130059092.xbe [7/194]
-Title ID HEX: 0x4D570022
-Title ID DEC: 1297547298
-Serial Num: MW-034
-Title Name: Gauntlet: Seven Sorrows
-Publisher guess: Midway Games
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F3FDA2) Retail
-Cert Timestamp: Wed Nov 16 07:07:49 2005
-MD5: 71c6383df03f52a42e7bc314f51988ba
-
-
-Processing 131870139.xbe [8/194]
-Title ID HEX: 0x434D0011
-Title ID DEC: 1129119761
-Serial Num: CM-017
-Title Name: Race Driver 2
-Publisher guess: Codemasters
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000002
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E7E5B7) Retail
-Cert Timestamp: Fri Feb 27 07:56:34 2004
-MD5: 02adcdc3bb9d918d5f0762d99b72d568
-
-
-Processing 136383516.xbe [9/194]
-Title ID HEX: 0x4D530036
-Title ID DEC: 1297285174
-Serial Num: MS-054
-Title Name: Counter-Strike
-Publisher guess: Microsoft Game Studios
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000002
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8DC7B97) Retail
-Cert Timestamp: Tue Oct 28 23:10:17 2003
-MD5: 6e007eb9c2779a1c54cb2625ac7d7aa9
-
-
-Processing 149622462.xbe [10/194]
-Title ID HEX: 0x41540001
-Title ID DEC: 1096024065
-Serial Num: AT-001
-Title Name: Touge R (JPN)
-Publisher guess: Atlus
-Region: (7) PAL + Japan + USA / Canada
-Rating: (0) RP - ALL
-Version: 0x00000001
-Media Type: (0x400001FF) Unlock HDD + USB Dongle? + DVD_9_RW + DVD_5_RW + DVD_9_RO + DVD_5_RO + CD + Any CD / DVD + XBOX DVD + HDD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F094C1) Retail
-Cert Timestamp: Thu Oct 03 11:49:38 2002
-MD5: 61612633078681b4f34b316f32f33995
-
-
-Processing 152000552.xbe [11/194]
-Title ID HEX: 0x5451000B
-Title ID DEC: 1414594571
-Serial Num: TQ-011
-Title Name: Evil Dead: A Fistful Of Boomstick
-Publisher guess: THQ
-Region: (5) PAL + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000003
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F76099) Retail
-Cert Timestamp: Fri May 09 18:39:35 2003
-MD5: ea90637681808cca8ef0285e5b99b345
-
-
-Processing 154082193.xbe [12/194]
-Title ID HEX: 0x55530015
-Title ID DEC: 1431502869
-Serial Num: US-021
-Title Name: Morrowind
-Publisher guess: Ubisoft
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000002
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x80000001) Unused high bit (8)? + Mount Utility Drive
-Entry Point: (0xA8FDE10B) Retail
-Cert Timestamp: Fri Oct 25 19:06:57 2002
-MD5: 118ad1cf0e3cebbefbbaa313d68a6825
-
-
-Processing 173084933.xbe [13/194]
-Title ID HEX: 0x53450088
-Title ID DEC: 1397031048
-Serial Num: SE-136
-Title Name: OutRun 2006: Coast 2 Coast
-Publisher guess: SEGA
-Region: (7) PAL + Japan + USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F80375) Retail
-Cert Timestamp: Fri Mar 03 22:35:29 2006
-MD5: e97913b618884f5b26a73a005e72320e
-
-
-Processing 174182448.xbe [14/194]
-Title ID HEX: 0x4D4A0002
-Title ID DEC: 1296695298
-Serial Num: MJ-002
-Title Name: Totaled
-Publisher guess: Majesco Entertainment
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000002
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FB3B6F) Retail
-Cert Timestamp: Thu Jul 25 06:10:12 2002
-MD5: ccf45cdbc10160da8bcffe31070d24d7
-
-
-Processing 176872472.xbe [15/194]
-Title ID HEX: 0x4A410005
-Title ID DEC: 1245773829
-Serial Num: JA-005
-Title Name: Goblin Commander
-Publisher guess: Jaleco
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FD47DF) Retail
-Cert Timestamp: Wed Feb 11 01:16:40 2004
-MD5: 3d085db0049bf4c2d390132d56c63146
-
-
-Processing 177146151.xbe [16/194]
-Title ID HEX: 0x53450021
-Title ID DEC: 1397030945
-Serial Num: SE-033
-Title Name: segaGTOnline
-Publisher guess: SEGA
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000008
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E4CCB7) Retail
-Cert Timestamp: Thu Dec 11 09:05:36 2003
-MD5: b3030a508c963ed329a49d3de9639bad
-
-
-Processing 178785616.xbe [17/194]
-Title ID HEX: 0x4E4D0009
-Title ID DEC: 1313669129
-Serial Num: NM-009
-Title Name: BREAKDOWN
-Publisher guess: Namco
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8E6C0FD) Retail
-Cert Timestamp: Wed Apr 21 22:03:33 2004
-MD5: a484bec2b82fcb4cdb6b8e9cb08bc5ed
-
-
-Processing 183833280.xbe [18/194]
-Title ID HEX: 0x54510007
-Title ID DEC: 1414594567
-Serial Num: TQ-007
-Title Name: Toxic Grind
-Publisher guess: THQ
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F2CEA1) Retail
-Cert Timestamp: Wed Sep 18 05:49:41 2002
-MD5: 353be97db6942d6ec8352cf9614aa493
-
-
-Processing 187353011.xbe [19/194]
-Title ID HEX: 0x49470004
-Title ID DEC: 1229389828
-Serial Num: IG-004
-Title Name: TransWorld Snowboarding
-Publisher guess: Infogrames
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000003
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FD6DF8) Retail
-Cert Timestamp: Tue Oct 01 07:48:38 2002
-MD5: 27a1d4a0332f2a2104ed995367fd702b
-
-
-Processing 187841464.xbe [20/194]
-Title ID HEX: 0x4D530041
-Title ID DEC: 1297285185
-Serial Num: MS-065
-Title Name: Amped 2
-Publisher guess: Microsoft Game Studios
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8D91F32) Retail
-Cert Timestamp: Wed Oct 08 07:13:27 2003
-MD5: c57e3d89d4821d967cec52c71f76ed61
-
-
-Processing 188646603.xbe [21/194]
-Title ID HEX: 0x41430007
-Title ID DEC: 1094909959
-Serial Num: AC-007
-Title Name: Aggressive Inline
-Publisher guess: Acclaim Entertainment
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8F34488) Retail
-Cert Timestamp: Tue Jul 16 07:09:38 2002
-MD5: 08edd09f4834c32f99badbffc42a8bc7
-
-
-Processing 192088560.xbe [22/194]
-Title ID HEX: 0x43430008
-Title ID DEC: 1128464392
-Serial Num: CC-008
-Title Name: CAPCOM VS. SNK2 EO
-Publisher guess: Capcom
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000002
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E460A0) Retail
-Cert Timestamp: Tue Dec 17 04:44:49 2002
-MD5: 610b6a32ad64943d3eecf4d609f08d8c
-
-
-Processing 197418819.xbe [23/194]
-Title ID HEX: 0x43430011
-Title ID DEC: 1128464401
-Serial Num: CC-017
-Title Name: Megaman Anniversary Collection
-Publisher guess: Capcom
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x80000005) Unused high bit (8)? + 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8A0C159) Retail
-Cert Timestamp: Thu Feb 17 06:58:47 2005
-MD5: 4c6e6b5c26444929fcb5395e445d4ced
-
-
-Processing 198815541.xbe [24/194]
-Title ID HEX: 0x4156004E
-Title ID DEC: 1096155214
-Serial Num: AV-078
-Title Name: DOOM 3 RoE
-Publisher guess: Activision
-Region: (7) PAL + Japan + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000002
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8C50C7A) Retail
-Cert Timestamp: Thu Sep 15 05:54:29 2005
-MD5: 908edf4b3f50f84db2d231d459f900a6
-
-
-Processing 201479973.xbe [25/194]
-Title ID HEX: 0x4B4E001D
-Title ID DEC: 1263403037
-Serial Num: KN-029
-Title Name: Dancing Stage Unleashed
-Publisher guess: Konami
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8F5BAFA) Retail
-Cert Timestamp: Thu Oct 23 20:19:02 2003
-MD5: ad3f6188c2b2a75d0261dffa7a50f506
-
-
-Processing 201813951.xbe [26/194]
-Title ID HEX: 0x4A410006
-Title ID DEC: 1245773830
-Serial Num: JA-006
-Title Name: Room Zoom - Race for Impact
-Publisher guess: Jaleco
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8F02092) Retail
-Cert Timestamp: Wed May 19 05:50:29 2004
-MD5: 075d30ea8857eb7a62d449ce814cf145
-
-
-Processing 208833278.xbe [27/194]
-Title ID HEX: 0x5553003F
-Title ID DEC: 1431502911
-Serial Num: US-063
-Title Name: CSI:
-Publisher guess: Ubisoft
-Region: (7) PAL + Japan + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000002
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x80000004) Unused high bit (8)? + 64MB RAM limit
-Entry Point: (0xA8FD9A26) Retail
-Cert Timestamp: Tue Nov 23 08:42:40 2004
-MD5: 85db3b13b808c6967caba0dad190850f
-
-
-Processing 219221794.xbe [28/194]
-Title ID HEX: 0x4541000D
-Title ID DEC: 1161887757
-Serial Num: EA-013
-Title Name: Agent Under Fire "
-Publisher guess: Electronic Arts (EA)
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FE799E) Retail
-Cert Timestamp: Fri Feb 22 08:02:51 2002
-MD5: ff55c0b0c86fe26a20926418b97b4ee7
-
-
-Processing 222628009.xbe [29/194]
-Title ID HEX: 0x4143000E
-Title ID DEC: 1094909966
-Serial Num: AC-014
-Title Name: BMX XXX
-Publisher guess: Acclaim Entertainment
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000002
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8ED910F) Retail
-Cert Timestamp: Mon Nov 11 21:16:23 2002
-MD5: 394c228dbb0873ab638d061a155a4a94
-
-
-Processing 223027163.xbe [30/194]
-Title ID HEX: 0x44430002
-Title ID DEC: 1145241602
-Serial Num: DC-002
-Title Name: Arx Fatalis
-Publisher guess: DreamCatcher Interactive
-Region: (2147483655) DEBUG + PAL + Japan + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000000
-Media Type: (0x00000207) MEDIA_BOARD? + Any CD / DVD + XBOX DVD + HDD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0x949471EA) Debug
-Cert Timestamp: Tue Sep 30 03:09:46 2003
-MD5: 0be432d67390007ea11f9aa661966d0f
-
-
-Processing 223677295.xbe [31/194]
-Title ID HEX: 0x41560042
-Title ID DEC: 1096155202
-Serial Num: AV-066
-Title Name: Greg Hastings' Tournament Paintball
-Publisher guess: Activision
-Region: (7) PAL + Japan + USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F2ADB3) Retail
-Cert Timestamp: Fri Nov 05 07:53:42 2004
-MD5: c7511fe9ec09828a8ffb7ba3c4fc0fef
-
-
-Processing 228869001.xbe [32/194]
-Title ID HEX: 0x41540003
-Title ID DEC: 1096024067
-Serial Num: AT-003
-Title Name: ProFishingChallenge
-Publisher guess: Atlus
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FFDEB4) Retail
-Cert Timestamp: Thu Aug 12 05:43:04 2004
-MD5: 90657e9e320ec9176637d7b59a2282bb
-
-
-Processing 237364314.xbe [33/194]
-Title ID HEX: 0x54430003
-Title ID DEC: 1413677059
-Serial Num: TC-003
-Title Name: NINJA GAIDEN
-Publisher guess: Tecmo
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00011005
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8CCFAD1) Retail
-Cert Timestamp: Wed Apr 07 02:08:52 2004
-MD5: ed996824597613648889965e05a56e0d
-
-
-Processing 237431052.xbe [34/194]
-Title ID HEX: 0x4D53006E
-Title ID DEC: 1297285230
-Serial Num: MS-110
-Title Name: Forza Motorsport
-Publisher guess: Microsoft Game Studios
-Region: (7) PAL + Japan + USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x80000004) Unused high bit (8)? + 64MB RAM limit
-Entry Point: (0xA8DAD91E) Retail
-Cert Timestamp: Thu Mar 31 07:55:17 2005
-MD5: f20e294c5da2619f55e93c6080f2a3b7
-
-
-Processing 241189407.xbe [35/194]
-Title ID HEX: 0x4D4A0012
-Title ID DEC: 1296695314
-Serial Num: MJ-018
-Title Name: Psychonauts
-Publisher guess: Majesco Entertainment
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E2FC7A) Retail
-Cert Timestamp: Thu Mar 31 05:12:13 2005
-MD5: 41855bb2700b5a56c3d89f5cff7877df
-
-
-Processing 246177538.xbe [36/194]
-Title ID HEX: 0x5345000B
-Title ID DEC: 1397030923
-Serial Num: SE-011
-Title Name: GUNVALKYRIE
-Publisher guess: SEGA
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8EFE8A1) Retail
-Cert Timestamp: Sat Feb 02 10:30:45 2002
-MD5: 279901e4f9dde20986964bc97ed9e18d
-
-
-Processing 246282006.xbe [37/194]
-Title ID HEX: 0x41560049
-Title ID DEC: 1096155209
-Serial Num: AV-073
-Title Name: American Wasteland
-Publisher guess: Activision
-Region: (7) PAL + Japan + USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000004) 64MB RAM limit
-Entry Point: (0xA8DA51B9) Retail
-Cert Timestamp: Thu Sep 15 06:35:19 2005
-MD5: 7267c67190f2078db47557dbfd32c019
-
-
-Processing 250049557.xbe [38/194]
-Title ID HEX: 0x4947003D
-Title ID DEC: 1229389885
-Serial Num: IG-061
-Title Name: Trivial Pursuit: Unhinged
-Publisher guess: Infogrames
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x80000005) Unused high bit (8)? + 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FACD17) Retail
-Cert Timestamp: Sat Mar 06 07:41:27 2004
-MD5: 0dc24bdd3b08dbcebb448f6820f66563
-
-
-Processing 256027050.xbe [39/194]
-Title ID HEX: 0x4947007D
-Title ID DEC: 1229389949
-Serial Num: IG-125
-Title Name: Getting Up: Contents Under Pressure
-Publisher guess: Infogrames
-Region: (7) PAL + Japan + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8FD4712) Retail
-Cert Timestamp: Wed Jan 11 20:36:00 2006
-MD5: c712aa68a1c8217e71d869393c8a5cb6
-
-
-Processing 258126018.xbe [40/194]
-Title ID HEX: 0x45530011
-Title ID DEC: 1163067409
-Serial Num: ES-017
-Title Name: Whiplash
-Publisher guess: Eidos Interactive
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8EF78B8) Retail
-Cert Timestamp: Tue Oct 28 07:58:20 2003
-MD5: d0c5314a77f827c7b55b371c752a8d68
-
-
-Processing 264322618.xbe [41/194]
-Title ID HEX: 0x45410086
-Title ID DEC: 1161887878
-Serial Num: EA-134
-Title Name: EA SPORTS FN 3
-Publisher guess: Electronic Arts (EA)
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000002
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8D1DFCE) Retail
-Cert Timestamp: Thu Feb 02 09:11:00 2006
-MD5: 2627bd30d8f9399526e0cd40631a86c7
-
-
-Processing 267519397.xbe [42/194]
-Title ID HEX: 0x49470034
-Title ID DEC: 1229389876
-Serial Num: IG-052
-Title Name: V-Rally 3
-Publisher guess: Infogrames
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000004
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F68D7E) Retail
-Cert Timestamp: Tue Mar 04 21:10:23 2003
-MD5: 52b83ce8bbf838159c421b92f7b5677b
-
-
-Processing 272760317.xbe [43/194]
-Title ID HEX: 0x4E4D0001
-Title ID DEC: 1313669121
-Serial Num: NM-001
-Title Name: Smashing Drive
-Publisher guess: Namco
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000002
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F57B1E) Retail
-Cert Timestamp: Sat Apr 20 10:20:29 2002
-MD5: 662d139bdc14cf5995bb10ba7cfb165c
-
-
-Processing 272932066.xbe [44/194]
-Title ID HEX: 0x45530001
-Title ID DEC: 1163067393
-Serial Num: ES-001
-Title Name: Mad Dash Racing
-Publisher guess: Eidos Interactive
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F6890D) Retail
-Cert Timestamp: Thu Nov 01 15:37:40 2001
-MD5: ff614676dc907dbd60e2caa24ff3cba9
-
-
-Processing 277522025.xbe [45/194]
-Title ID HEX: 0x4D57000D
-Title ID DEC: 1297547277
-Serial Num: MW-013
-Title Name: Gravity  Games
-Publisher guess: Midway Games
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000002
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000004) 64MB RAM limit
-Entry Point: (0xA8EE738E) Retail
-Cert Timestamp: Fri Aug 16 19:02:39 2002
-MD5: c370166cc491817bb7d731fb38c3b91b
-
-
-Processing 291582931.xbe [46/194]
-Title ID HEX: 0x56550049
-Title ID DEC: 1448411209
-Serial Num: VU-073
-Title Name: BPS Trophy Bass 2007
-Publisher guess: Vivendi Universal Games
-Region: (7) PAL + Japan + USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8FD6434) Retail
-Cert Timestamp: Fri Oct 06 03:44:48 2006
-MD5: e78d0a0f05c2a930f6d915d94fc56afa
-
-
-Processing 293073929.xbe [47/194]
-Title ID HEX: 0x56550015
-Title ID DEC: 1448411157
-Serial Num: VU-021
-Title Name: The Simpsons Hit & Run
-Publisher guess: Vivendi Universal Games
-Region: (3) Japan + USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8EE1E22) Retail
-Cert Timestamp: Wed Jul 30 04:58:42 2003
-MD5: 2e041d73315d2286fa2377a0303cc813
-
-
-Processing 294366809.xbe [48/194]
-Title ID HEX: 0x54510018
-Title ID DEC: 1414594584
-Serial Num: TQ-024
-Title Name: The Punisher
-Publisher guess: THQ
-Region: (3) Japan + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x80000005) Unused high bit (8)? + 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E0F8CF) Retail
-Cert Timestamp: Sat Dec 11 07:28:39 2004
-MD5: fc15d120ed3456bca528c97fc5861746
-
-
-Processing 301262836.xbe [49/194]
-Title ID HEX: 0x42530005
-Title ID DEC: 1112735749
-Serial Num: BS-005
-Title Name: Morrowind Game of the Year
-Publisher guess: Bethesda Softworks
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000103
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8FDEF46) Retail
-Cert Timestamp: Tue Oct 21 09:23:29 2003
-MD5: 17bd6ad53e4f1f91feb6e2a80d3e0772
-
-
-Processing 310973147.xbe [50/194]
-Title ID HEX: 0x41480002
-Title ID DEC: 1095237634
-Serial Num: AH-002
-Title Name: Playboy the Mansion
-Publisher guess: ARUSH Entertainment
-Region: (1) USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000003
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x80000007) Unused high bit (8)? + 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8ECCA88) Retail
-Cert Timestamp: Fri Jan 07 07:52:42 2005
-MD5: 6da8cb166895110ef39ae50c69614ea1
-
-
-Processing 315569305.xbe [51/194]
-Title ID HEX: 0x4143001A
-Title ID DEC: 1094909978
-Serial Num: AC-026
-Title Name: Gladiator: SoV
-Publisher guess: Acclaim Entertainment
-Region: (1) USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E84DDD) Retail
-Cert Timestamp: Sat Oct 11 06:43:01 2003
-MD5: d80f1e0f1795f8500987c244655577aa
-
-
-Processing 315696668.xbe [52/194]
-Title ID HEX: 0x4D53002D
-Title ID DEC: 1297285165
-Serial Num: MS-045
-Title Name: Dead or Alive 3
-Publisher guess: Microsoft Game Studios
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E48352) Retail
-Cert Timestamp: Sat Feb 16 03:44:02 2002
-MD5: 045481052505d9cc73f89d7d4ca41f3b
-
-
-Processing 321866178.xbe [53/194]
-Title ID HEX: 0x4D53000A
-Title ID DEC: 1297285130
-Serial Num: MS-010
-Title Name: Sudeki
-Publisher guess: Microsoft Game Studios
-Region: (7) PAL + Japan + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8DA90A8) Retail
-Cert Timestamp: Fri Jul 02 05:52:45 2004
-MD5: 227b190dbd1f517b237591ef88217cdf
-
-
-Processing 322176424.xbe [54/194]
-Title ID HEX: 0x4947007F
-Title ID DEC: 1229389951
-Serial Num: IG-127
-Title Name: Driver : Parallel Lines
-Publisher guess: Infogrames
-Region: (7) PAL + Japan + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000003
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8D87162) Retail
-Cert Timestamp: Tue Feb 21 21:03:37 2006
-MD5: 5ece5783c8345248db50ba8a658d19c9
-
-
-Processing 324021084.xbe [55/194]
-Title ID HEX: 0x55530019
-Title ID DEC: 1431502873
-Serial Num: US-025
-Title Name: Splinter Cell 2
-Publisher guess: Ubisoft
-Region: (7) PAL + Japan + USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000002
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000004) 64MB RAM limit
-Entry Point: (0xA8E2C711) Retail
-Cert Timestamp: Fri Feb 27 21:26:36 2004
-MD5: a2b7a02127d199717610991f44d16531
-
-
-Processing 331471071.xbe [56/194]
-Title ID HEX: 0x534E0004
-Title ID DEC: 1397620740
-Serial Num: SN-004
-Title Name: Samurai ShoDown V
-Publisher guess: SNK
-Region: (7) PAL + Japan + USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000003
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8DC0EDD) Retail
-Cert Timestamp: Thu Dec 29 08:16:36 2005
-MD5: 6501c81c71b4ebf09043a051483587f1
-
-
-Processing 334869189.xbe [57/194]
-Title ID HEX: 0x53570001
-Title ID DEC: 1398210561
-Serial Num: SW-001
-Title Name: Enclave
-Publisher guess: Swing! Deutschland
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E280AB) Retail
-Cert Timestamp: Wed Jun 12 20:04:29 2002
-MD5: f8cff757ee3e992cda1d0cfb11ca7595
-
-
-Processing 342543081.xbe [58/194]
-Title ID HEX: 0x4D57000E
-Title ID DEC: 1297547278
-Serial Num: MW-014
-Title Name: Gauntlet Dark Legacy
-Publisher guess: Midway Games
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000003
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8F76F30) Retail
-Cert Timestamp: Tue Mar 26 10:34:17 2002
-MD5: b57cd80dc90e0884beb1c465a31a35e6
-
-
-Processing 343831833.xbe [59/194]
-Title ID HEX: 0x56550017
-Title ID DEC: 1448411159
-Serial Num: VU-023
-Title Name: Seablade
-Publisher guess: Vivendi Universal Games
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000002
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FBA018) Retail
-Cert Timestamp: Fri Oct 18 07:21:39 2002
-MD5: a29ea18941b86413105ef84a1d23b96d
-
-
-Processing 344373134.xbe [60/194]
-Title ID HEX: 0x4343000E
-Title ID DEC: 1128464398
-Serial Num: CC-014
-Title Name: auto modellista
-Publisher guess: Capcom
-Region: (7) PAL + Japan + USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000002
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8EBF0FB) Retail
-Cert Timestamp: Thu Dec 04 08:34:01 2003
-MD5: 6d507f7c5775255f15be51f8b87545cd
-
-
-Processing 351012763.xbe [61/194]
-Title ID HEX: 0x4541023B
-Title ID DEC: 1161888315
-Serial Num: EA-571
-Title Name: Madden NFL 09
-Publisher guess: Electronic Arts (EA)
-Region: (3) Japan + USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000004) 64MB RAM limit
-Entry Point: (0xA8C831C7) Retail
-Cert Timestamp: Mon Jun 23 18:30:43 2008
-MD5: 95b0eb7b189a2b3583658effee406087
-
-
-Processing 358156765.xbe [62/194]
-Title ID HEX: 0x4D57002D
-Title ID DEC: 1297547309
-Serial Num: MW-045
-Title Name: Midway Arcade Treasures 3
-Publisher guess: Midway Games
-Region: (5) PAL + USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FDABDC) Retail
-Cert Timestamp: Mon Sep 05 18:30:04 2005
-MD5: 09235a714c2469dbd6c3738564aa6681
-
-
-Processing 358363165.xbe [63/194]
-Title ID HEX: 0x544D000B
-Title ID DEC: 1414332427
-Serial Num: TM-011
-Title Name: Corvette
-Publisher guess: TDK Mediactive
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F2CCD1) Retail
-Cert Timestamp: Fri Nov 07 07:59:04 2003
-MD5: b611aa252534fabee91f649f61fc8b44
-
-
-Processing 365108922.xbe [64/194]
-Title ID HEX: 0x4B4E001E
-Title ID DEC: 1263403038
-Serial Num: KN-030
-Title Name: Yu-Gi-Oh! The Dawn of Destiny
-Publisher guess: Konami
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000003
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8EE4BF5) Retail
-Cert Timestamp: Wed Feb 18 07:54:39 2004
-MD5: 29ba2d6212fdc5810896d69c81df47b6
-
-
-Processing 366382704.xbe [65/194]
-Title ID HEX: 0x56550021
-Title ID DEC: 1448411169
-Serial Num: VU-033
-Title Name: Jurassic Park: Operation Genesis
-Publisher guess: Vivendi Universal Games
-Region: (3) Japan + USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000002
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8FD7A4F) Retail
-Cert Timestamp: Tue Feb 04 07:38:22 2003
-MD5: dc92f9f76f7bcc7be661a8813b7f0400
-
-
-Processing 369995554.xbe [66/194]
-Title ID HEX: 0x45410062
-Title ID DEC: 1161887842
-Serial Num: EA-098
-Title Name: Battlefield 2 : Modern Combat
-Publisher guess: Electronic Arts (EA)
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8FD475F) Retail
-Cert Timestamp: Thu Oct 06 04:23:42 2005
-MD5: cf3c5506cd7f04ca3ba99d76bb340318
-
-
-Processing 372497381.xbe [67/194]
-Title ID HEX: 0x4541003C
-Title ID DEC: 1161887804
-Serial Num: EA-060
-Title Name: SSX 3
-Publisher guess: Electronic Arts (EA)
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E44D89) Retail
-Cert Timestamp: Sat Sep 27 06:13:09 2003
-MD5: cc1da3c044ee1160029e8596ed1b5233
-
-
-Processing 375870532.xbe [68/194]
-Title ID HEX: 0x54510020
-Title ID DEC: 1414594592
-Serial Num: TQ-032
-Title Name: Fairly OddParents
-Publisher guess: THQ
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8E07716) Retail
-Cert Timestamp: Sat Sep 27 06:13:55 2003
-MD5: 123158efb6e471a7f29eac891e141ab8
-
-
-Processing 375972678.xbe [69/194]
-Title ID HEX: 0x4C410007
-Title ID DEC: 1279328263
-Serial Num: LA-007
-Title Name: Indiana Jones
-Publisher guess: LucasArts
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000002
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8BBB4CE) Retail
-Cert Timestamp: Wed Feb 26 02:00:29 2003
-MD5: 38b6043a21d7a9ef40726403804bd127
-
-
-Processing 381268086.xbe [70/194]
-Title ID HEX: 0x41560051
-Title ID DEC: 1096155217
-Serial Num: AV-081
-Title Name: Call of Duty 2: Big Red One
-Publisher guess: Activision
-Region: (7) PAL + Japan + USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E22C68) Retail
-Cert Timestamp: Sat Oct 01 04:31:31 2005
-MD5: 96b46e06c8181e31800c97aa0c73a62f
-
-
-Processing 382805996.xbe [71/194]
-Title ID HEX: 0x54540008
-Title ID DEC: 1414791176
-Serial Num: TT-008
-Title Name: Midnight Club 2
-Publisher guess: Take-Two Interactive Software
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000003
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FD440F) Retail
-Cert Timestamp: Fri May 23 13:38:18 2003
-MD5: 4d61af6d234856a48f19ccba306d6d5b
-
-
-Processing 383002044.xbe [72/194]
-Title ID HEX: 0x49470018
-Title ID DEC: 1229389848
-Serial Num: IG-024
-Title Name: Jet Set Radio Future
-Publisher guess: Infogrames
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E8DD73) Retail
-Cert Timestamp: Tue Feb 19 01:59:21 2002
-MD5: 96f6cdae4a5f53b0b29598ad3c83938e
-
-
-Processing 393116879.xbe [73/194]
-Title ID HEX: 0x4D530017
-Title ID DEC: 1297285143
-Serial Num: MS-023
-Title Name: MechAssault
-Publisher guess: Microsoft Game Studios
-Region: (5) PAL + USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FD3A12) Retail
-Cert Timestamp: Fri Oct 18 07:21:40 2002
-MD5: 4bcd71fbdfd60c59a0f13dd1c842d327
-
-
-Processing 393143361.xbe [74/194]
-Title ID HEX: 0x534300FA
-Title ID DEC: 1396900090
-Serial Num: SC-250
-Title Name: Hitman Blood Money
-Publisher guess: SCi Games
-Region: (7) PAL + Japan + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8D683D1) Retail
-Cert Timestamp: Tue Mar 21 21:43:46 2006
-MD5: dacf63c93740a5b21a62e2c4b1ea69df
-
-
-Processing 396214997.xbe [75/194]
-Title ID HEX: 0x4553000A
-Title ID DEC: 1163067402
-Serial Num: ES-010
-Title Name: TimeSplitters 2
-Publisher guess: Eidos Interactive
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000002
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E0B832) Retail
-Cert Timestamp: Wed Oct 09 11:51:14 2002
-MD5: fe04e4e1ac98ad0c304f8a23abb4acad
-
-
-Processing 396805264.xbe [76/194]
-Title ID HEX: 0x4541038B
-Title ID DEC: 1161888651
-Serial Num: EA-907
-Title Name: 
-Publisher guess: Electronic Arts (EA)
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000002
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8DDE8CD) Retail
-Cert Timestamp: Fri Sep 23 03:21:41 2005
-MD5: 2da64a90f21a33e1d0e9956b877f99c7
-
-
-Processing 423940618.xbe [77/194]
-Title ID HEX: 0x544D0012
-Title ID DEC: 1414332434
-Serial Num: TM-018
-Title Name: World Racing 2
-Publisher guess: TDK Mediactive
-Region: (7) PAL + Japan + USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FF4893) Retail
-Cert Timestamp: Mon Aug 15 21:42:41 2005
-MD5: 419db8087c0d870afb2dc635299e2586
-
-
-Processing 427396090.xbe [78/194]
-Title ID HEX: 0x44430003
-Title ID DEC: 1145241603
-Serial Num: DC-003
-Title Name: Painkiller
-Publisher guess: DreamCatcher Interactive
-Region: (1) USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000004
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8FF9746) Retail
-Cert Timestamp: Fri Jun 30 05:00:03 2006
-MD5: c1594a5528cdf2a16424be571249f95f
-
-
-Processing 438546239.xbe [79/194]
-Title ID HEX: 0x45410011
-Title ID DEC: 1161887761
-Serial Num: EA-017
-Title Name: Cel Damage
-Publisher guess: Electronic Arts (EA)
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8F8D7C0) Retail
-Cert Timestamp: Sat Sep 29 07:10:21 2001
-MD5: 9813417ea9b8a5b180e2d3101ac5e20d
-
-
-Processing 445980065.xbe [80/194]
-Title ID HEX: 0x434D0011
-Title ID DEC: 1129119761
-Serial Num: CM-017
-Title Name: Race Driver 2
-Publisher guess: Codemasters
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000005
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E7E5B7) Retail
-Cert Timestamp: Fri Feb 27 01:12:42 2004
-MD5: 0801ecdf32c01811cefa714bf0768078
-
-
-Processing 451468125.xbe [81/194]
-Title ID HEX: 0x5655000E
-Title ID DEC: 1448411150
-Serial Num: VU-014
-Title Name: Enclave
-Publisher guess: Vivendi Universal Games
-Region: (1) USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E28FEB) Retail
-Cert Timestamp: Sat Jul 06 04:57:42 2002
-MD5: 58e2bf02680b464283de785fb4dba2bc
-
-
-Processing 456258056.xbe [82/194]
-Title ID HEX: 0x41590004
-Title ID DEC: 1096351748
-Serial Num: AY-004
-Title Name: Dreamfall
-Publisher guess: Aspyr Media
-Region: (3) Japan + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8F88371) Retail
-Cert Timestamp: Tue Mar 21 07:19:59 2006
-MD5: a6c95a8d34726ea21929b51b77740ed6
-
-
-Processing 457709961.xbe [83/194]
-Title ID HEX: 0x584B000A
-Title ID DEC: 1481310218
-Serial Num: XK-010
-Title Name: Kiosk OZ/NZ XMAS
-Publisher guess: Xbox kiosk disk
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000005
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000010) 
-Entry Point: (0xA8FD0786) Retail
-Cert Timestamp: Mon Jun 28 21:10:16 2004
-MD5: abf68e1a7ce19f4ff526788b734a5539
-
-
-Processing 471995152.xbe [84/194]
-Title ID HEX: 0x4D530021
-Title ID DEC: 1297285153
-Serial Num: MS-033
-Title Name: Crimson Skies
-Publisher guess: Microsoft Game Studios
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000003
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x80000005) Unused high bit (8)? + 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E02B02) Retail
-Cert Timestamp: Tue Sep 30 05:56:37 2003
-MD5: b817f6ef34ee97134ba0e08c03ace6bd
-
-
-Processing 472365103.xbe [85/194]
-Title ID HEX: 0x5454008C
-Title ID DEC: 1414791308
-Serial Num: TT-140
-Title Name: Zathura
-Publisher guess: Take-Two Interactive Software
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000101
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8EC24F7) Retail
-Cert Timestamp: Sat Sep 17 06:40:14 2005
-MD5: e4a66d22e4a7f25b782b6b0a851fe2b7
-
-
-Processing 477031115.xbe [86/194]
-Title ID HEX: 0x55530006
-Title ID DEC: 1431502854
-Serial Num: US-006
-Title Name: Ghost Recon
-Publisher guess: Ubisoft
-Region: (1) USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x80000005) Unused high bit (8)? + 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FD0751) Retail
-Cert Timestamp: Fri Oct 25 06:39:35 2002
-MD5: 13c74b967337d393b8500ed5a871968e
-
-
-Processing 477594875.xbe [87/194]
-Title ID HEX: 0x54510025
-Title ID DEC: 1414594597
-Serial Num: TQ-037
-Title Name: Evil Dead: Regeneration
-Publisher guess: THQ
-Region: (3) Japan + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000003) Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8F306E4) Retail
-Cert Timestamp: Fri Jul 15 07:10:55 2005
-MD5: 8353b67266754960e70f2590f450e7ed
-
-
-Processing 479285810.xbe [88/194]
-Title ID HEX: 0x4756000A
-Title ID DEC: 1196818442
-Serial Num: GV-010
-Title Name: Warpath
-Publisher guess: Groove Games
-Region: (7) PAL + Japan + USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000002
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8DC4A4B) Retail
-Cert Timestamp: Fri Dec 30 06:09:06 2005
-MD5: b73b1ae617b93d22ad2d18623288256c
-
-
-Processing 483386070.xbe [89/194]
-Title ID HEX: 0x4D53004A
-Title ID DEC: 1297285194
-Serial Num: MS-074
-Title Name: PSO
-Publisher guess: Microsoft Game Studios
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000004
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8CD4805) Retail
-Cert Timestamp: Tue Mar 18 08:12:32 2003
-MD5: a2100c6d5645ae62f621f5e273fcccbb
-
-
-Processing 489280653.xbe [90/194]
-Title ID HEX: 0x4D53004B
-Title ID DEC: 1297285195
-Serial Num: MS-075
-Title Name: Project Gotham Racing 2
-Publisher guess: Microsoft Game Studios
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000002
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x80000004) Unused high bit (8)? + 64MB RAM limit
-Entry Point: (0xA8E5739C) Retail
-Cert Timestamp: Thu Oct 16 10:05:59 2003
-MD5: 170b9966dd56a74607c488292e955eb0
-
-
-Processing 489802157.xbe [91/194]
-Title ID HEX: 0x52440001
-Title ID DEC: 1380188161
-Serial Num: RD-001
-Title Name: Yourself!Fitness
-Publisher guess: responDesign
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000302
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x80000004) Unused high bit (8)? + 64MB RAM limit
-Entry Point: (0xA8ED73FC) Retail
-Cert Timestamp: Fri Dec 03 12:34:14 2004
-MD5: fe7da66d339adca17396955eff928c0d
-
-
-Processing 493302831.xbe [92/194]
-Title ID HEX: 0x41560002
-Title ID DEC: 1096155138
-Serial Num: AV-002
-Title Name: Kelly Slater's Pro Surfer
-Publisher guess: Activision
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000003
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8E6BD72) Retail
-Cert Timestamp: Thu Sep 12 18:37:26 2002
-MD5: afa7becd84b56f174235bae60e2ba864
-
-
-Processing 493319386.xbe [93/194]
-Title ID HEX: 0x43430001
-Title ID DEC: 1128464385
-Serial Num: CC-001
-Title Name: GENMA ONIMUSHA
-Publisher guess: Capcom
-Region: (1) USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8EBDEA9) Retail
-Cert Timestamp: Fri Jan 11 06:50:11 2002
-MD5: f51f90705e15cf1d43ad8c4c258259e5
-
-
-Processing 496223660.xbe [94/194]
-Title ID HEX: 0x434D0010
-Title ID DEC: 1129119760
-Serial Num: CM-016
-Title Name: Colin McRae Rally 04
-Publisher guess: Codemasters
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000003
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8EE60EB) Retail
-Cert Timestamp: Wed Jan 14 12:28:12 2004
-MD5: 470f59de83e2d9ea4a6a7f48f6ee8ea3
-
-
-Processing 497109648.xbe [95/194]
-Title ID HEX: 0x434D000E
-Title ID DEC: 1129119758
-Serial Num: CM-014
-Title Name: V8 Super Cars Race Driver
-Publisher guess: Codemasters
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000005
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E38C88) Retail
-Cert Timestamp: Wed Sep 17 18:40:20 2003
-MD5: c4851d3ba7179a8e012a458c568a5911
-
-
-Processing 507192379.xbe [96/194]
+Processing 113917844.xbe [1/209]
 Title ID HEX: 0x4B420005
 Title ID DEC: 1262616581
 Serial Num: KB-005
@@ -1534,967 +14,23 @@ Cert Timestamp: Thu Feb 10 07:51:24 2005
 MD5: 979d3b46da4d371544192c7ca6d5f191
 
 
-Processing 508708977.xbe [97/194]
-Title ID HEX: 0x4947003C
-Title ID DEC: 1229389884
-Serial Num: IG-060
-Title Name: Unreal II
-Publisher guess: Infogrames
-Region: (3) Japan + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FFEF95) Retail
-Cert Timestamp: Wed Jan 21 07:49:32 2004
-MD5: d3dcb17f795e44cc8b782f966defd5f3
-
-
-Processing 508923980.xbe [98/194]
-Title ID HEX: 0x4D530064
-Title ID DEC: 1297285220
-Serial Num: MS-100
-Title Name: Halo 2
-Publisher guess: Microsoft Game Studios
-Region: (7) PAL + Japan + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000003
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x80000005) Unused high bit (8)? + 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8D15D45) Retail
-Cert Timestamp: Fri Oct 01 00:40:32 2004
-MD5: f87c933ec844f57ae9a9cebec7c31410
-
-
-Processing 515483519.xbe [99/194]
-Title ID HEX: 0x4D530010
-Title ID DEC: 1297285136
-Serial Num: MS-016
-Title Name: Blood Wake
-Publisher guess: Microsoft Game Studios
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F1B6F4) Retail
-Cert Timestamp: Thu Nov 29 06:08:18 2001
-MD5: 63877aabba68101e122194a289a36e3f
-
-
-Processing 516590874.xbe [100/194]
-Title ID HEX: 0x47450001
-Title ID DEC: 1195704321
-Serial Num: GE-001
-Title Name: Zan Kabuki
-Publisher guess: Genki Co.
-Region: (2) Japan
+Processing 128808983.xbe [2/209]
+Title ID HEX: 0x4D570005
+Title ID DEC: 1297547269
+Serial Num: MW-005
+Title Name: Area51
+Publisher guess: Midway Games
+Region: (4) PAL
 Rating: (0) RP - ALL
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FB307D) Retail
-Cert Timestamp: Fri Feb 01 09:45:38 2002
-MD5: 0228fbfa5551d0415f6c5325fa1e0df4
-
-
-Processing 522887024.xbe [101/194]
-Title ID HEX: 0x58500001
-Title ID DEC: 1481637889
-Serial Num: XP-001
-Title Name: <«
-Publisher guess: XPEC Entertainment
-Region: (2) Japan
-Rating: (0) RP - ALL
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8E01160) Retail
-Cert Timestamp: Sat Apr 03 08:07:07 2004
-MD5: 5b25b09445ac92845031981afa455143
-
-
-Processing 532285819.xbe [102/194]
-Title ID HEX: 0x4B420002
-Title ID DEC: 1262616578
-Serial Num: KB-002
-Title Name: Egg Mania
-Publisher guess: Kemco
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000003
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F94B13) Retail
-Cert Timestamp: Sat Aug 24 05:49:05 2002
-MD5: a8348b980103540579b4890945ede4ea
-
-
-Processing 533855293.xbe [103/194]
-Title ID HEX: 0x45410079
-Title ID DEC: 1161887865
-Serial Num: EA-121
-Title Name: FROM RUSSIA WITH LOVE (TM)
-Publisher guess: Electronic Arts (EA)
-Region: (1) USA / Canada
-Rating: (3) T - Teen
 Version: 0x00000002
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8CDDDC6) Retail
-Cert Timestamp: Sat Oct 08 07:39:27 2005
-MD5: 588cc20f2eda2a8f0df382b83fd42f28
-
-
-Processing 534679556.xbe [104/194]
-Title ID HEX: 0x4B420007
-Title ID DEC: 1262616583
-Serial Num: KB-007
-Title Name: RPM Tuning
-Publisher guess: Kemco
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000003
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8EFAC74) Retail
-Cert Timestamp: Wed Feb 02 07:51:22 2005
-MD5: e6c55648ce1d661cbd0e3fcc4d908a92
-
-
-Processing 537266193.xbe [105/194]
-Title ID HEX: 0x41560050
-Title ID DEC: 1096155216
-Serial Num: AV-080
-Title Name: Shamu's Deep Sea Adventures
-Publisher guess: Activision
-Region: (7) PAL + Japan + USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FD45A1) Retail
-Cert Timestamp: Thu Oct 06 05:04:05 2005
-MD5: ac694dd5379752d2716af8f1b644805d
-
-
-Processing 540040750.xbe [106/194]
-Title ID HEX: 0x49470012
-Title ID DEC: 1229389842
-Serial Num: IG-018
-Title Name: Zapper
-Publisher guess: Infogrames
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000003
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8F35A5D) Retail
-Cert Timestamp: Fri Sep 20 07:13:45 2002
-MD5: 9881ede9e7433a0a0040fa5ebeec60bd
-
-
-Processing 542384028.xbe [107/194]
-Title ID HEX: 0x54540015
-Title ID DEC: 1414791189
-Serial Num: TT-021
-Title Name: Motocross Mania 3
-Publisher guess: Take-Two Interactive Software
-Region: (5) PAL + USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F65DA6) Retail
-Cert Timestamp: Tue Feb 08 22:26:46 2005
-MD5: d49556035984a9cfd4bae6c57f42dc28
-
-
-Processing 556480423.xbe [108/194]
-Title ID HEX: 0x54510022
-Title ID DEC: 1414594594
-Serial Num: TQ-034
-Title Name: Full Spectrum Warrior
-Publisher guess: THQ
-Region: (4) PAL
-Rating: (2) M - Mature
-Version: 0x00000004
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x80000005) Unused high bit (8)? + 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8DCAB76) Retail
-Cert Timestamp: Mon Jun 07 00:13:15 2004
-MD5: b34c49ee249b757fdf9a37d933ec8ba9
-
-
-Processing 558185402.xbe [109/194]
-Title ID HEX: 0x45530009
-Title ID DEC: 1163067401
-Serial Num: ES-009
-Title Name: Hitman2: Silent Assassin
-Publisher guess: Eidos Interactive
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x0000000E
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FD31AA) Retail
-Cert Timestamp: Fri Nov 22 00:05:10 2002
-MD5: f18f50ee7b832488b51e972959c8422f
-
-
-Processing 560125635.xbe [110/194]
-Title ID HEX: 0x5454000F
-Title ID DEC: 1414791183
-Serial Num: TT-015
-Title Name: Grand Theft Auto: Vice City
-Publisher guess: Take-Two Interactive Software
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000005
 Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
 Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8E51AE2) Retail
-Cert Timestamp: Wed Dec 24 00:15:13 2003
-MD5: 996c29a41eb99c7877565110bc635e9b
+Entry Point: (0xA8D9024A) Retail
+Cert Timestamp: Mon Apr 11 20:40:15 2005
+MD5: 22f3a0e204c8b998ef8aefbfde08397e
 
 
-Processing 560225841.xbe [111/194]
-Title ID HEX: 0x41560018
-Title ID DEC: 1096155160
-Serial Num: AV-024
-Title Name: Pitfall: The Lost Expedition
-Publisher guess: Activision
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8EA6990) Retail
-Cert Timestamp: Thu Dec 11 08:23:33 2003
-MD5: 469a81727db8159755617abd7d41735d
-
-
-Processing 562827527.xbe [112/194]
-Title ID HEX: 0x4B420006
-Title ID DEC: 1262616582
-Serial Num: KB-006
-Title Name: Yager
-Publisher guess: Kemco
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8EE1A17) Retail
-Cert Timestamp: Fri Jul 16 06:16:57 2004
-MD5: f15dc3fc804f50bd6564c28195eebd8f
-
-
-Processing 563265692.xbe [113/194]
-Title ID HEX: 0x454D0007
-Title ID DEC: 1162674183
-Serial Num: EM-007
-Title Name: Ford Racing 2
-Publisher guess: Empire Interactive
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000002
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000000) No flags set
-Entry Point: (0xA8F18AE0) Retail
-Cert Timestamp: Wed Sep 24 06:14:04 2003
-MD5: ac69b95d11be8fa381e9f51130b88c48
-
-
-Processing 568553110.xbe [114/194]
-Title ID HEX: 0x54540083
-Title ID DEC: 1414791299
-Serial Num: TT-131
-Title Name: Shattered Union
-Publisher guess: Take-Two Interactive Software
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8EFA5A2) Retail
-Cert Timestamp: Tue Sep 20 06:37:59 2005
-MD5: d6d1c88cb5beb3f79d418174dcbea7ac
-
-
-Processing 589958623.xbe [115/194]
-Title ID HEX: 0x45410012
-Title ID DEC: 1161887762
-Serial Num: EA-018
-Title Name: Buffy: The Vampire Slayer
-Publisher guess: Electronic Arts (EA)
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8ABC909) Retail
-Cert Timestamp: Tue Jul 30 09:11:43 2002
-MD5: 55653c59a64388cfb0539f55e2c6edc0
-
-
-Processing 601351359.xbe [116/194]
-Title ID HEX: 0x45430004
-Title ID DEC: 1162018820
-Serial Num: EC-004
-Title Name: Heroes of the Pacific
-Publisher guess: Encore inc
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000002
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8E0CBEF) Retail
-Cert Timestamp: Wed Aug 03 19:45:42 2005
-MD5: 03d3b85cab03c23d40ccc044b3d0cd7c
-
-
-Processing 604885998.xbe [117/194]
-Title ID HEX: 0x53450026
-Title ID DEC: 1397030950
-Serial Num: SE-038
-Title Name: ESPN NHL Hockey
-Publisher guess: SEGA
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FD47DF) Retail
-Cert Timestamp: Thu Aug 21 05:48:41 2003
-MD5: 7b8935dd47160f37b1b10a31b859b40c
-
-
-Processing 608508610.xbe [118/194]
-Title ID HEX: 0x45410091
-Title ID DEC: 1161887889
-Serial Num: EA-145
-Title Name: Half - Life 2
-Publisher guess: Electronic Arts (EA)
-Region: (7) PAL + Japan + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FD2E4D) Retail
-Cert Timestamp: Wed Oct 19 06:03:34 2005
-MD5: 7ad6ab34add9ed4bcb6ab830c803c3c9
-
-
-Processing 610994785.xbe [119/194]
-Title ID HEX: 0x45410013
-Title ID DEC: 1161887763
-Serial Num: EA-019
-Title Name: The Simpsons Road Rage
-Publisher guess: Electronic Arts (EA)
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8F5D4C4) Retail
-Cert Timestamp: Fri Nov 02 11:03:05 2001
-MD5: a0f6dddbea7fef5154dc844d4674e4b8
-
-
-Processing 614574898.xbe [120/194]
-Title ID HEX: 0x54510109
-Title ID DEC: 1414594825
-Serial Num: TQ-265
-Title Name: Ratatouille
-Publisher guess: THQ
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000004) 64MB RAM limit
-Entry Point: (0xA8EAFEBC) Retail
-Cert Timestamp: Fri Mar 16 20:57:32 2007
-MD5: 720ea7f0a16b727cd98d717c6b87081a
-
-
-Processing 615705548.xbe [121/194]
-Title ID HEX: 0x4947001B
-Title ID DEC: 1229389851
-Serial Num: IG-027
-Title Name: Splashdown
-Publisher guess: Infogrames
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8EFFFA0) Retail
-Cert Timestamp: Fri May 31 05:24:08 2002
-MD5: 38f188b85d3a24427f6d1e16bc781116
-
-
-Processing 624389738.xbe [122/194]
-Title ID HEX: 0x56550042
-Title ID DEC: 1448411202
-Serial Num: VU-066
-Title Name: 50 Cent: Bulletproof
-Publisher guess: Vivendi Universal Games
-Region: (7) PAL + Japan + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8FD47DF) Retail
-Cert Timestamp: Sat Oct 08 06:54:21 2005
-MD5: 11818733452e3b981e4b9c28450237ad
-
-
-Processing 627780948.xbe [123/194]
-Title ID HEX: 0x5345000F
-Title ID DEC: 1397030927
-Serial Num: SE-015
-Title Name: ToeJam & Earl III
-Publisher guess: SEGA
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00001104
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000000) No flags set
-Entry Point: (0xA8FD6C66) Retail
-Cert Timestamp: Tue Dec 10 07:46:30 2002
-MD5: 59444859d5c47e491913f40474c0846b
-
-
-Processing 635218209.xbe [124/194]
-Title ID HEX: 0x58490004
-Title ID DEC: 1481179140
-Serial Num: XI-004
-Title Name: Black Stone
-Publisher guess: XPEC Entertainment and Idea Factory
-Region: (5) PAL + USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8EC7DF6) Retail
-Cert Timestamp: Sat Dec 14 07:38:11 2002
-MD5: c131ff28ab2785ed436ce5c86ca1af49
-
-
-Processing 639316811.xbe [125/194]
-Title ID HEX: 0x56550005
-Title ID DEC: 1448411141
-Serial Num: VU-005
-Title Name: Buffy : Chaos Bleeds
-Publisher guess: Vivendi Universal Games
-Region: (3) Japan + USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8EE2CAD) Retail
-Cert Timestamp: Sat Jul 12 06:11:23 2003
-MD5: eedaab01d2bde6102a78079d913bcfb0
-
-
-Processing 642557921.xbe [126/194]
-Title ID HEX: 0x54510105
-Title ID DEC: 1414594821
-Serial Num: TQ-261
-Title Name: Avatar  The Last Airbender
-Publisher guess: THQ
-Region: (3) Japan + USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8EBA7B2) Retail
-Cert Timestamp: Fri Aug 04 04:19:56 2006
-MD5: 9b392229c9ac2e9874d7852be49f3c21
-
-
-Processing 659649471.xbe [127/194]
-Title ID HEX: 0x45410028
-Title ID DEC: 1161887784
-Serial Num: EA-040
-Title Name: NFS Hot Pursuit 2
-Publisher guess: Electronic Arts (EA)
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000002
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8F12A9F) Retail
-Cert Timestamp: Thu Aug 29 06:06:55 2002
-MD5: 5a61d2a58a9520757282a6f41569c5e3
-
-
-Processing 660072654.xbe [128/194]
-Title ID HEX: 0x4D53002A
-Title ID DEC: 1297285162
-Serial Num: MS-042
-Title Name: Midtown Madness 3
-Publisher guess: Microsoft Game Studios
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000004
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F46BFE) Retail
-Cert Timestamp: Wed May 14 06:09:42 2003
-MD5: e4a13e3946f266272a766f2b672be6be
-
-
-Processing 667374342.xbe [129/194]
-Title ID HEX: 0x4D530051
-Title ID DEC: 1297285201
-Serial Num: MS-081
-Title Name: Conker: Live and Reloaded
-Publisher guess: Microsoft Game Studios
-Region: (1) USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000002
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x80000004) Unused high bit (8)? + 64MB RAM limit
-Entry Point: (0xA8BEA742) Retail
-Cert Timestamp: Wed May 04 05:35:51 2005
-MD5: bef7653560b9638667ea8f72ed63bfd4
-
-
-Processing 669641363.xbe [130/194]
-Title ID HEX: 0x4156005C
-Title ID DEC: 1096155228
-Serial Num: AV-092
-Title Name: Marvel: Ultimate Alliance
-Publisher guess: Activision
-Region: (7) PAL + Japan + USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8D4877A) Retail
-Cert Timestamp: Wed Aug 16 05:30:03 2006
-MD5: 315cbd8c7603ff32f80d6afdbfa0d9d4
-
-
-Processing 673526893.xbe [131/194]
-Title ID HEX: 0x5553003B
-Title ID DEC: 1431502907
-Serial Num: US-059
-Title Name: Prince of Persia WW
-Publisher guess: Ubisoft
-Region: (7) PAL + Japan + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8C130E7) Retail
-Cert Timestamp: Thu Nov 11 22:26:21 2004
-MD5: 32190bf112d1c51fdb093eeb85fb2ccf
-
-
-Processing 691063773.xbe [132/194]
-Title ID HEX: 0x56550043
-Title ID DEC: 1448411203
-Serial Num: VU-067
-Title Name: Eragon
-Publisher guess: Vivendi Universal Games
-Region: (7) PAL + Japan + USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000000) No flags set
-Entry Point: (0xA8F7206E) Retail
-Cert Timestamp: Thu Jun 22 04:52:18 2006
-MD5: 141e8b6fc680703a21280565016cdb91
-
-
-Processing 716879265.xbe [133/194]
-Title ID HEX: 0x56430001
-Title ID DEC: 1447231489
-Serial Num: VC-001
-Title Name: Muzzle Flash
-Publisher guess: Victor Interactive Software
-Region: (2) Japan
-Rating: (0) RP - ALL
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F145BC) Retail
-Cert Timestamp: Wed Feb 05 08:01:56 2003
-MD5: d83c4169537f1272947815eb58d5f1a1
-
-
-Processing 720243325.xbe [134/194]
-Title ID HEX: 0x54510008
-Title ID DEC: 1414594568
-Serial Num: TQ-008
-Title Name: MotoGP
-Publisher guess: THQ
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FDE812) Retail
-Cert Timestamp: Wed Apr 24 07:45:36 2002
-MD5: 9db641bf896fc4f04e5e59e73d628d07
-
-
-Processing 722187777.xbe [135/194]
-Title ID HEX: 0x545100F5
-Title ID DEC: 1414594805
-Serial Num: TQ-245
-Title Name: AFL Live Premiership Edition
-Publisher guess: THQ
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000002
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8DF5C59) Retail
-Cert Timestamp: Thu Aug 11 18:24:32 2005
-MD5: 2e0b7bf0ba953a911ecb1bf092f45faf
-
-
-Processing 725549603.xbe [136/194]
-Title ID HEX: 0x5454008A
-Title ID DEC: 1414791306
-Serial Num: TT-138
-Title Name: Codename: Kids Next Door
-Publisher guess: Take-Two Interactive Software
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8F404DE) Retail
-Cert Timestamp: Thu Sep 01 05:50:13 2005
-MD5: dbb5b827c6311e79ea2437eaaca27053
-
-
-Processing 730772950.xbe [137/194]
-Title ID HEX: 0x55530036
-Title ID DEC: 1431502902
-Serial Num: US-054
-Title Name: 187 Ride or Die
-Publisher guess: Ubisoft
-Region: (7) PAL + Japan + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8F3523E) Retail
-Cert Timestamp: Thu Jun 23 21:14:51 2005
-MD5: 3765060cc9e9f2363e44d98d60f4444d
-
-
-Processing 733846555.xbe [138/194]
-Title ID HEX: 0x4A410001
-Title ID DEC: 1245773825
-Serial Num: JA-001
-Title Name: Pulse Racer
-Publisher guess: Jaleco
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x001F4201
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x80000005) Unused high bit (8)? + 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F24F00) Retail
-Cert Timestamp: Tue Oct 22 07:03:34 2002
-MD5: f2c83f9a6960fdaa46cd6d9ee8b717b0
-
-
-Processing 738465801.xbe [139/194]
-Title ID HEX: 0x4D530005
-Title ID DEC: 1297285125
-Serial Num: MS-005
-Title Name: Amped
-Publisher guess: Microsoft Game Studios
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FD0C91) Retail
-Cert Timestamp: Fri Jan 18 23:07:21 2002
-MD5: fd39e26b316f1c449686be576b998f28
-
-
-Processing 739235727.xbe [140/194]
-Title ID HEX: 0x4947007B
-Title ID DEC: 1229389947
-Serial Num: IG-123
-Title Name: Fahrenheit
-Publisher guess: Infogrames
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000003
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FD7C4E) Retail
-Cert Timestamp: Tue Aug 23 23:28:34 2005
-MD5: 654c700327515b004e24b7e6078d7ba0
-
-
-Processing 745247039.xbe [141/194]
-Title ID HEX: 0x55530013
-Title ID DEC: 1431502867
-Serial Num: US-019
-Title Name: RainbowSix 3
-Publisher guess: Ubisoft
-Region: (7) PAL + Japan + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x80000001) Unused high bit (8)? + Mount Utility Drive
-Entry Point: (0xA8F5A7CC) Retail
-Cert Timestamp: Fri Oct 10 06:23:36 2003
-MD5: f50c1ad9a899c2f497d28bdb2ce7a2d2
-
-
-Processing 746298119.xbe [142/194]
-Title ID HEX: 0x54510023
-Title ID DEC: 1414594595
-Serial Num: TQ-035
-Title Name: Sphinx
-Publisher guess: THQ
-Region: (3) Japan + USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E07715) Retail
-Cert Timestamp: Fri Oct 10 05:30:18 2003
-MD5: 9307398210e34ad52153b58529959d25
-
-
-Processing 746638893.xbe [143/194]
-Title ID HEX: 0x5451001C
-Title ID DEC: 1414594588
-Serial Num: TQ-028
-Title Name: Tetris Worlds Live
-Publisher guess: THQ
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000021
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8F40B85) Retail
-Cert Timestamp: Thu Sep 04 02:51:23 2003
-MD5: d968b33a275852dc9b7dc1e89908423c
-
-
-Processing 756436506.xbe [144/194]
-Title ID HEX: 0x56550026
-Title ID DEC: 1448411174
-Serial Num: VU-038
-Title Name: Riddick
-Publisher guess: Vivendi Universal Games
-Region: (3) Japan + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8BDAC21) Retail
-Cert Timestamp: Fri Apr 23 05:48:45 2004
-MD5: b17e11cb89b52db0d76018ce0d33c03b
-
-
-Processing 760082854.xbe [145/194]
-Title ID HEX: 0x4D530031
-Title ID DEC: 1297285169
-Serial Num: MS-049
-Title Name: Kung Fu Chaos
-Publisher guess: Microsoft Game Studios
-Region: (2) Japan
-Rating: (0) RP - ALL
-Version: 0x00000004
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E1DB1B) Retail
-Cert Timestamp: Thu Mar 13 12:07:32 2003
-MD5: 973c8736effddb47d38af7c5b4abc0e2
-
-
-Processing 766025547.xbe [146/194]
-Title ID HEX: 0x4947000B
-Title ID DEC: 1229389835
-Serial Num: IG-011
-Title Name: Furious Karting
-Publisher guess: Infogrames
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000002
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000004) 64MB RAM limit
-Entry Point: (0xA8FDC56C) Retail
-Cert Timestamp: Mon Dec 16 22:46:54 2002
-MD5: c02ecbc8ce7fb0ee9e3f020620653eaf
-
-
-Processing 766342608.xbe [147/194]
-Title ID HEX: 0x4D530004
-Title ID DEC: 1297285124
-Serial Num: MS-004
-Title Name: Halo
-Publisher guess: Microsoft Game Studios
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FD08E6) Retail
-Cert Timestamp: Thu Jan 24 22:16:15 2002
-MD5: a3f43ea966047345d0d242eb63d604f2
-
-
-Processing 769445507.xbe [148/194]
-Title ID HEX: 0x4D530003
-Title ID DEC: 1297285123
-Serial Num: MS-003
-Title Name: Project Gotham Racing
-Publisher guess: Microsoft Game Studios
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000005
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F10E34) Retail
-Cert Timestamp: Sat Feb 23 00:16:44 2002
-MD5: fa70b435ce1104ae5e272d189fa11b96
-
-
-Processing 775144148.xbe [149/194]
-Title ID HEX: 0x4F580001
-Title ID DEC: 1331167233
-Serial Num: OX-001
-Title Name: Conspiracy: WoMD
-Publisher guess: Oxygen Interactive
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000002
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F131D7) Retail
-Cert Timestamp: Mon Jun 27 23:06:55 2005
-MD5: 463793689ab898508f6af63e2617dd8f
-
-
-Processing 776680662.xbe [150/194]
-Title ID HEX: 0x434D0050
-Title ID DEC: 1129119824
-Serial Num: CM-080
-Title Name: Race Driver 3
-Publisher guess: Codemasters
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000004
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8DCC1EF) Retail
-Cert Timestamp: Mon Jan 16 22:04:57 2006
-MD5: 672f369bbd989d76d90a7d72f0b1555e
-
-
-Processing 777996587.xbe [151/194]
-Title ID HEX: 0x4156002A
-Title ID DEC: 1096155178
-Serial Num: AV-042
-Title Name: Call of Duty: Finest Hour
-Publisher guess: Activision
-Region: (7) PAL + Japan + USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8EF68DA) Retail
-Cert Timestamp: Sat Oct 30 07:35:19 2004
-MD5: a6ffcb8503513094d57480362dee49a4
-
-
-Processing 778582052.xbe [152/194]
-Title ID HEX: 0x56560021
-Title ID DEC: 1448476705
-Serial Num: VV-033
-Title Name: BloodRayne
-Publisher guess: Vivendi Universal Games
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E80998) Retail
-Cert Timestamp: Fri Mar 21 20:19:30 2003
-MD5: 7f8a95ae8384923eecfa5e805d24d770
-
-
-Processing 778785980.xbe [153/194]
-Title ID HEX: 0x545100EF
-Title ID DEC: 1414594799
-Serial Num: TQ-239
-Title Name: Juiced
-Publisher guess: THQ
-Region: (7) PAL + Japan + USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E6A6E1) Retail
-Cert Timestamp: Thu Mar 31 23:26:05 2005
-MD5: 3f4399a5947e98b9681ddf4f08241a56
-
-
-Processing 787511177.xbe [154/194]
-Title ID HEX: 0x4D53005A
-Title ID DEC: 1297285210
-Serial Num: MS-090
-Title Name: Xbox Music Mixer
-Publisher guess: Microsoft Game Studios
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000102
-Media Type: (0x80000002) NONSECURE_MODE? + XBOX DVD
-Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8F1581D) Retail
-Cert Timestamp: Fri Sep 12 09:30:18 2003
-MD5: 952d7dca5a914ed6bd6b03881ba9c8ea
-
-
-Processing 789724210.xbe [155/194]
-Title ID HEX: 0x4D440003
-Title ID DEC: 1296302083
-Serial Num: MD-003
-Title Name: Dennou Taisen DroneZ (JPN)
-Publisher guess: Metro3D
-Region: (7) PAL + Japan + USA / Canada
-Rating: (0) RP - ALL
-Version: 0x00000003
-Media Type: (0x400001FF) Unlock HDD + USB Dongle? + DVD_9_RW + DVD_5_RW + DVD_9_RO + DVD_5_RO + CD + Any CD / DVD + XBOX DVD + HDD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F5F7B3) Retail
-Cert Timestamp: Sat Mar 20 07:51:24 2004
-MD5: 2d5ca1a38b738f81661c5143e7c014c2
-
-
-Processing 797862913.xbe [156/194]
-Title ID HEX: 0x4D530064
-Title ID DEC: 1297285220
-Serial Num: MS-100
-Title Name: Halo 2
-Publisher guess: Microsoft Game Studios
-Region: (7) PAL + Japan + USA / Canada
-Rating: (0) RP - ALL
-Version: 0x0000000A
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x80000005) Unused high bit (8)? + 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8D15D45) Retail
-Cert Timestamp: Fri Oct 01 03:40:10 2004
-MD5: 5c9df558f55d1e4b351911ae060b9a74
-
-
-Processing 798841575.xbe [157/194]
+Processing 128921197.xbe [3/209]
 Title ID HEX: 0x54540073
 Title ID DEC: 1414791283
 Serial Num: TT-115
@@ -2510,7 +46,7 @@ Cert Timestamp: Fri Mar 19 07:52:36 2004
 MD5: 8c38ecb257e550d930cf6de25edcb881
 
 
-Processing 807761978.xbe [158/194]
+Processing 130481105.xbe [4/209]
 Title ID HEX: 0x49470024
 Title ID DEC: 1229389860
 Serial Num: IG-036
@@ -2526,199 +62,135 @@ Cert Timestamp: Fri Nov 08 07:52:59 2002
 MD5: fbed1c0829691b9151eb429573f3a801
 
 
-Processing 809789869.xbe [159/194]
-Title ID HEX: 0x42530001
-Title ID DEC: 1112735745
-Serial Num: BS-001
-Title Name: Morrowind
-Publisher guess: Bethesda Softworks
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x80000001) Unused high bit (8)? + Mount Utility Drive
-Entry Point: (0xA8FDFA44) Retail
-Cert Timestamp: Fri May 31 05:21:30 2002
-MD5: 48f2ea5b92e846b548cfb98fabfdd74a
-
-
-Processing 811884008.xbe [160/194]
-Title ID HEX: 0x454D000D
-Title ID DEC: 1162674189
-Serial Num: EM-013
-Title Name: Ford Racing 3
-Publisher guess: Empire Interactive
-Region: (1) USA / Canada
+Processing 130784842.xbe [5/209]
+Title ID HEX: 0x54540010
+Title ID DEC: 1414791184
+Serial Num: TT-016
+Title Name: Carve
+Publisher guess: Take-Two Interactive Software
+Region: (5) PAL + USA / Canada
 Rating: (4) E - Everyone
 Version: 0x00000003
 Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000000) No flags set
-Entry Point: (0xA8EF58FE) Retail
-Cert Timestamp: Wed Dec 01 09:06:07 2004
-MD5: bed8c7b5c3a74d3e6f8bd383748a75a9
-
-
-Processing 816643099.xbe [161/194]
-Title ID HEX: 0x54540001
-Title ID DEC: 1414791169
-Serial Num: TT-001
-Title Name: 4X4 EVO 2
-Publisher guess: Take-Two Interactive Software
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
 Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8ED4E4F) Retail
-Cert Timestamp: Sat Oct 06 04:51:54 2001
-MD5: 98332fb86ce01370b242607322168672
+Entry Point: (0xA8F8E9D0) Retail
+Cert Timestamp: Tue Jan 06 22:55:41 2004
+MD5: 7dd34b5c03b76d650102e93582f9ba9c
 
 
-Processing 818451697.xbe [162/194]
-Title ID HEX: 0x4D570018
-Title ID DEC: 1297547288
-Serial Num: MW-024
-Title Name: RoadKill
-Publisher guess: Midway Games
-Region: (1) USA / Canada
+Processing 134199647.xbe [6/209]
+Title ID HEX: 0x5553003F
+Title ID DEC: 1431502911
+Serial Num: US-063
+Title Name: CSI:
+Publisher guess: Ubisoft
+Region: (7) PAL + Japan + USA / Canada
 Rating: (2) M - Mature
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8EBE6ED) Retail
-Cert Timestamp: Tue Sep 09 05:55:45 2003
-MD5: 717c931e6ece419ff48bf29fbe0b948f
-
-
-Processing 823138754.xbe [163/194]
-Title ID HEX: 0x4D570033
-Title ID DEC: 1297547315
-Serial Num: MW-051
-Title Name: Gauntlet: Seven Sorrows
-Publisher guess: Midway Games
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000001
+Version: 0x00000002
 Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F3FD32) Retail
-Cert Timestamp: Wed Dec 07 22:03:37 2005
-MD5: 1ee547f0cb807f817770aedc6cfdf8a0
+Init Flags: (0x80000004) Unused high bit (8)? + 64MB RAM limit
+Entry Point: (0xA8FD9A26) Retail
+Cert Timestamp: Tue Nov 23 08:42:40 2004
+MD5: 85db3b13b808c6967caba0dad190850f
 
 
-Processing 824613929.xbe [164/194]
-Title ID HEX: 0x4541002F
-Title ID DEC: 1161887791
-Serial Num: EA-047
-Title Name: The Sims"
+Processing 136110024.xbe [7/209]
+Title ID HEX: 0x45410062
+Title ID DEC: 1161887842
+Serial Num: EA-098
+Title Name: Battlefield 2 : Modern Combat
 Publisher guess: Electronic Arts (EA)
 Region: (1) USA / Canada
 Rating: (3) T - Teen
-Version: 0x00000004
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F02CB5) Retail
-Cert Timestamp: Fri Mar 14 08:55:15 2003
-MD5: d366f29127fb771107a64a9e581fb94a
-
-
-Processing 832647575.xbe [165/194]
-Title ID HEX: 0x4D530002
-Title ID DEC: 1297285122
-Serial Num: MS-002
-Title Name: Fuzion Frenzy
-Publisher guess: Microsoft Game Studios
-Region: (4) PAL
-Rating: (0) RP - ALL
 Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000004) 64MB RAM limit
-Entry Point: (0xA8FF58D4) Retail
-Cert Timestamp: Fri Dec 21 23:43:00 2001
-MD5: 291555e91954c5051c948837d75f7f66
-
-
-Processing 834734359.xbe [166/194]
-Title ID HEX: 0x42530005
-Title ID DEC: 1112735749
-Serial Num: BS-005
-Title Name: Morrowind Game of the Year
-Publisher guess: Bethesda Softworks
-Region: (4) PAL
-Rating: (0) RP - ALL
-Version: 0x00000005
 Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
 Init Flags: (0x00000001) Mount Utility Drive
-Entry Point: (0xA8FDEE34) Retail
-Cert Timestamp: Mon May 31 18:14:07 2004
-MD5: ece8aac7818e0c454fbe3c75a3b0c33b
+Entry Point: (0xA8FD475F) Retail
+Cert Timestamp: Thu Oct 06 04:23:42 2005
+MD5: cf3c5506cd7f04ca3ba99d76bb340318
 
 
-Processing 845685185.xbe [167/194]
-Title ID HEX: 0x4D530015
-Title ID DEC: 1297285141
-Serial Num: MS-021
-Title Name: Quantum Redshift
-Publisher guess: Microsoft Game Studios
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000004
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F2A6A9) Retail
-Cert Timestamp: Wed Aug 28 05:52:40 2002
-MD5: 6296bfa70f0b1582d2ba549ea8f8614a
-
-
-Processing 847376269.xbe [168/194]
-Title ID HEX: 0x5454000E
-Title ID DEC: 1414791182
-Serial Num: TT-014
-Title Name: Grand Theft Auto III
-Publisher guess: Take-Two Interactive Software
+Processing 141342693.xbe [8/209]
+Title ID HEX: 0x54430003
+Title ID DEC: 1413677059
+Serial Num: TC-003
+Title Name: NINJA GAIDEN
+Publisher guess: Tecmo
 Region: (4) PAL
 Rating: (0) RP - ALL
-Version: 0x00000005
+Version: 0x00011005
 Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8FE9DE3) Retail
-Cert Timestamp: Wed Dec 24 00:15:29 2003
-MD5: 5be4648d0ed1b0a9719a81129f1d5b8e
-
-
-Processing 850480004.xbe [169/194]
-Title ID HEX: 0x5655002A
-Title ID DEC: 1448411178
-Serial Num: VU-042
-Title Name: Barbie(tm) Horse
-Publisher guess: Vivendi Universal Games
-Region: (3) Japan + USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000005
-Media Type: (0x00000002) XBOX DVD
 Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F2F1A4) Retail
-Cert Timestamp: Sat Oct 04 06:47:49 2003
-MD5: a0976f2baafd48598568771ad4f229bf
+Entry Point: (0xA8CCFAD1) Retail
+Cert Timestamp: Wed Apr 07 02:08:52 2004
+MD5: ed996824597613648889965e05a56e0d
 
 
-Processing 852958475.xbe [170/194]
-Title ID HEX: 0x454D001E
-Title ID DEC: 1162674206
-Serial Num: EM-030
-Title Name: Jacked
-Publisher guess: Empire Interactive
+Processing 152888668.xbe [9/209]
+Title ID HEX: 0x49470018
+Title ID DEC: 1229389848
+Serial Num: IG-024
+Title Name: Jet Set Radio Future
+Publisher guess: Infogrames
 Region: (4) PAL
 Rating: (0) RP - ALL
 Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E8DD73) Retail
+Cert Timestamp: Tue Feb 19 01:59:21 2002
+MD5: 96f6cdae4a5f53b0b29598ad3c83938e
+
+
+Processing 153092616.xbe [10/209]
+Title ID HEX: 0x4756000A
+Title ID DEC: 1196818442
+Serial Num: GV-010
+Title Name: Warpath
+Publisher guess: Groove Games
+Region: (7) PAL + Japan + USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000002
 Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8E43728) Retail
-Cert Timestamp: Mon Oct 03 19:42:31 2005
-MD5: aa7e6f13aaa456f803c7c3eac6cfe828
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8DC4A4B) Retail
+Cert Timestamp: Fri Dec 30 06:09:06 2005
+MD5: b73b1ae617b93d22ad2d18623288256c
 
 
-Processing 853121991.xbe [171/194]
+Processing 164773449.xbe [11/209]
+Title ID HEX: 0x44430002
+Title ID DEC: 1145241602
+Serial Num: DC-002
+Title Name: Arx Fatalis
+Publisher guess: DreamCatcher Interactive
+Region: (2147483655) DEBUG + PAL + Japan + USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000000
+Media Type: (0x00000207) MEDIA_BOARD? + Any CD / DVD + XBOX DVD + HDD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0x949471EA) Debug
+Cert Timestamp: Tue Sep 30 03:09:46 2003
+MD5: 0be432d67390007ea11f9aa661966d0f
+
+
+Processing 167065099.xbe [12/209]
+Title ID HEX: 0x54510109
+Title ID DEC: 1414594825
+Serial Num: TQ-265
+Title Name: Ratatouille
+Publisher guess: THQ
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000004) 64MB RAM limit
+Entry Point: (0xA8EAFEBC) Retail
+Cert Timestamp: Fri Mar 16 20:57:32 2007
+MD5: 720ea7f0a16b727cd98d717c6b87081a
+
+
+Processing 170629755.xbe [13/209]
 Title ID HEX: 0x4947000E
 Title ID DEC: 1229389838
 Serial Num: IG-014
@@ -2734,311 +206,119 @@ Cert Timestamp: Thu Oct 30 07:51:40 2003
 MD5: 55de7fb25716d7f4a679fa1834fe9e70
 
 
-Processing 861373370.xbe [172/194]
-Title ID HEX: 0x534300FB
-Title ID DEC: 1396900091
-Serial Num: SC-251
-Title Name: Just Cause
-Publisher guess: SCi Games
-Region: (7) PAL + Japan + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000001
+Processing 171011278.xbe [14/209]
+Title ID HEX: 0x4553001A
+Title ID DEC: 1163067418
+Serial Num: ES-026
+Title Name: L'entraineur 5
+Publisher guess: Eidos Interactive
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000009
 Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
 Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FD6B7D) Retail
-Cert Timestamp: Tue Aug 01 21:48:04 2006
-MD5: f6d32d9768af8b91f28ff2745e03aa57
+Entry Point: (0xA8E4C4B6) Retail
+Cert Timestamp: Mon Apr 18 23:39:19 2005
+MD5: a997ea4883a016bc26b63d9035ff56aa
 
 
-Processing 866160871.xbe [173/194]
-Title ID HEX: 0x54540019
-Title ID DEC: 1414791193
-Serial Num: TT-025
-Title Name: Manhunt
+Processing 171411693.xbe [15/209]
+Title ID HEX: 0x4343000E
+Title ID DEC: 1128464398
+Serial Num: CC-014
+Title Name: auto modellista
+Publisher guess: Capcom
+Region: (7) PAL + Japan + USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000002
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8EBF0FB) Retail
+Cert Timestamp: Thu Dec 04 08:34:01 2003
+MD5: 6d507f7c5775255f15be51f8b87545cd
+
+
+Processing 171631844.xbe [16/209]
+Title ID HEX: 0x55530015
+Title ID DEC: 1431502869
+Serial Num: US-021
+Title Name: Morrowind
+Publisher guess: Ubisoft
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x80000001) Unused high bit (8)? + Mount Utility Drive
+Entry Point: (0xA8FDE10B) Retail
+Cert Timestamp: Fri Oct 25 19:06:57 2002
+MD5: 118ad1cf0e3cebbefbbaa313d68a6825
+
+
+Processing 174197100.xbe [17/209]
+Title ID HEX: 0x4B420002
+Title ID DEC: 1262616578
+Serial Num: KB-002
+Title Name: Egg Mania
+Publisher guess: Kemco
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000003
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F94B13) Retail
+Cert Timestamp: Sat Aug 24 05:49:05 2002
+MD5: a8348b980103540579b4890945ede4ea
+
+
+Processing 181564117.xbe [18/209]
+Title ID HEX: 0x54540001
+Title ID DEC: 1414791169
+Serial Num: TT-001
+Title Name: 4X4 EVO 2
 Publisher guess: Take-Two Interactive Software
 Region: (1) USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000003
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
 Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E3B363) Retail
-Cert Timestamp: Wed Mar 31 07:55:37 2004
-MD5: cee2271a50242c660d0ded4b00e19eff
+Entry Point: (0xA8ED4E4F) Retail
+Cert Timestamp: Sat Oct 06 04:51:54 2001
+MD5: 98332fb86ce01370b242607322168672
 
 
-Processing 867133655.xbe [174/194]
-Title ID HEX: 0x4541005B
-Title ID DEC: 1161887835
-Serial Num: EA-091
-Title Name: Burnout 3
-Publisher guess: Electronic Arts (EA)
+Processing 182245004.xbe [19/209]
+Title ID HEX: 0x41560049
+Title ID DEC: 1096155209
+Serial Num: AV-073
+Title Name: American Wasteland
+Publisher guess: Activision
+Region: (7) PAL + Japan + USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000004) 64MB RAM limit
+Entry Point: (0xA8DA51B9) Retail
+Cert Timestamp: Thu Sep 15 06:35:19 2005
+MD5: 7267c67190f2078db47557dbfd32c019
+
+
+Processing 183085520.xbe [20/209]
+Title ID HEX: 0x545100F5
+Title ID DEC: 1414594805
+Serial Num: TQ-245
+Title Name: AFL Live Premiership Edition
+Publisher guess: THQ
 Region: (4) PAL
 Rating: (0) RP - ALL
 Version: 0x00000002
 Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
 Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E17C6C) Retail
-Cert Timestamp: Thu Aug 12 18:10:21 2004
-MD5: 3019a18243b6c79519a504f8e2df22a1
+Entry Point: (0xA8DF5C59) Retail
+Cert Timestamp: Thu Aug 11 18:24:32 2005
+MD5: 2e0b7bf0ba953a911ecb1bf092f45faf
 
 
-Processing 870491618.xbe [175/194]
-Title ID HEX: 0x54510106
-Title ID DEC: 1414594822
-Serial Num: TQ-262
-Title Name: Destroy All Humans! 2
-Publisher guess: THQ
-Region: (7) PAL + Japan + USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F3F890) Retail
-Cert Timestamp: Tue Sep 12 05:14:07 2006
-MD5: 0f2725f5e89184523f6d4a901632a0c0
-
-
-Processing 888212747.xbe [176/194]
-Title ID HEX: 0x54540011
-Title ID DEC: 1414791185
-Serial Num: TT-017
-Title Name: Pure Pinball
-Publisher guess: Take-Two Interactive Software
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8F4CD67) Retail
-Cert Timestamp: Thu Jul 08 05:48:48 2004
-MD5: 48a6a4462db63a7f595aaedb07891834
-
-
-Processing 889023238.xbe [177/194]
-Title ID HEX: 0x4E4D0013
-Title ID DEC: 1313669139
-Serial Num: NM-019
-Title Name: Street Racing Syndicate
-Publisher guess: Namco
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000004) 64MB RAM limit
-Entry Point: (0xA8DF197D) Retail
-Cert Timestamp: Thu Aug 05 03:14:18 2004
-MD5: 7dc49476bc24514db7a18c67f66b6116
-
-
-Processing 898114874.xbe [178/194]
-Title ID HEX: 0x4D53000C
-Title ID DEC: 1297285132
-Serial Num: MS-012
-Title Name: Kakuto Chojin
-Publisher guess: Microsoft Game Studios
-Region: (2) Japan
-Rating: (0) RP - ALL
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F39F66) Retail
-Cert Timestamp: Wed Dec 04 13:06:08 2002
-MD5: 2aa21f8c693bd00b237b3c226fdf73a7
-
-
-Processing 906384806.xbe [179/194]
-Title ID HEX: 0x55530008
-Title ID DEC: 1431502856
-Serial Num: US-008
-Title Name: FarCry Instincts
-Publisher guess: Ubisoft
-Region: (7) PAL + Japan + USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x80000005) Unused high bit (8)? + 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8B6E04B) Retail
-Cert Timestamp: Sat Sep 10 10:22:59 2005
-MD5: 5c5074ac7d75b764393cf7ac4cb34169
-
-
-Processing 907529102.xbe [180/194]
-Title ID HEX: 0x45410039
-Title ID DEC: 1161887801
-Serial Num: EA-057
-Title Name: BIONICLE®
-Publisher guess: Electronic Arts (EA)
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000002
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FBF4BC) Retail
-Cert Timestamp: Tue Sep 23 06:24:03 2003
-MD5: 0bb94b80532e0603a3a5223ca8b2105f
-
-
-Processing 919487212.xbe [181/194]
-Title ID HEX: 0x42530011
-Title ID DEC: 1112735761
-Serial Num: BS-017
-Title Name: IHRA Sportsman
-Publisher guess: Bethesda Softworks
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8E65C14) Retail
-Cert Timestamp: Sat Aug 13 06:03:12 2005
-MD5: e0001ec7f297a566ec9aa2c7e64fcdba
-
-
-Processing 923867882.xbe [182/194]
-Title ID HEX: 0x54510089
-Title ID DEC: 1414594697
-Serial Num: TQ-137
-Title Name: Hot Wheels Stunt Track Challenge
-Publisher guess: THQ
-Region: (3) Japan + USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000003
-Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8DFCF07) Retail
-Cert Timestamp: Mon Sep 27 21:56:31 2004
-MD5: fba39421ae10260c85f4d1281f12f96a
-
-
-Processing 930108657.xbe [183/194]
-Title ID HEX: 0x53450022
-Title ID DEC: 1397030946
-Serial Num: SE-034
-Title Name: ESPN NFL FOOTBALL
-Publisher guess: SEGA
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8D0A43C) Retail
-Cert Timestamp: Thu Aug 07 06:07:30 2003
-MD5: 6357b36a6bf39fa94c74b6984ecd39b9
-
-
-Processing 932033454.xbe [184/194]
-Title ID HEX: 0x4C41000B
-Title ID DEC: 1279328267
-Serial Num: LA-011
-Title Name: Jedi Knight: Jedi Academy
-Publisher guess: LucasArts
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F070CE) Retail
-Cert Timestamp: Fri Oct 24 07:33:34 2003
-MD5: 220067ccbd93c2b119f7521c2ca348e9
-
-
-Processing 942083437.xbe [185/194]
-Title ID HEX: 0x4D530023
-Title ID DEC: 1297285155
-Serial Num: MS-035
-Title Name: Sneakers
-Publisher guess: Microsoft Game Studios
-Region: (1) USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000002
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F51232) Retail
-Cert Timestamp: Sat Jul 27 05:38:49 2002
-MD5: 14d108bdd21368a38cdf8e4dc7f6063d
-
-
-Processing 958397986.xbe [186/194]
-Title ID HEX: 0x43430005
-Title ID DEC: 1128464389
-Serial Num: CC-005
-Title Name: GROUP-S
-Publisher guess: Capcom
-Region: (3) Japan + USA / Canada
-Rating: (4) E - Everyone
-Version: 0x00000005
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000004) 64MB RAM limit
-Entry Point: (0xA8FD6934) Retail
-Cert Timestamp: Thu Aug 14 05:50:08 2003
-MD5: bb3c54691936c28ae665e1679b2d9c23
-
-
-Processing 964039638.xbe [187/194]
-Title ID HEX: 0x45410026
-Title ID DEC: 1161887782
-Serial Num: EA-038
-Title Name: 007": NightFire"
-Publisher guess: Electronic Arts (EA)
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8F2E507) Retail
-Cert Timestamp: Thu Oct 24 07:19:50 2002
-MD5: bca5f7cccd764e02dbe7e724904827bb
-
-
-Processing 968420912.xbe [188/194]
-Title ID HEX: 0x4B4F0002
-Title ID DEC: 1263468546
-Serial Num: KO-002
-Title Name: CrimsonSea
-Publisher guess: KOEI
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000003
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
-Entry Point: (0xA8D4C44A) Retail
-Cert Timestamp: Thu Nov 28 08:15:04 2002
-MD5: f4ea15e9ae313178a0b12baee44b94c7
-
-
-Processing 975728829.xbe [189/194]
-Title ID HEX: 0x544D0002
-Title ID DEC: 1414332418
-Serial Num: TM-002
-Title Name: Robotech: Battlecry
-Publisher guess: TDK Mediactive
-Region: (1) USA / Canada
-Rating: (3) T - Teen
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FD6634) Retail
-Cert Timestamp: Sat Aug 17 06:00:37 2002
-MD5: d947afa881e084ee5f7c8255b754a2f1
-
-
-Processing 976294987.xbe [190/194]
-Title ID HEX: 0x54540004
-Title ID DEC: 1414791172
-Serial Num: TT-004
-Title Name: Serious Sam
-Publisher guess: Take-Two Interactive Software
-Region: (1) USA / Canada
-Rating: (2) M - Mature
-Version: 0x00000001
-Media Type: (0x00000002) XBOX DVD
-Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FF80FE) Retail
-Cert Timestamp: Wed Oct 09 07:00:55 2002
-MD5: 1d250f8d41736180c5979223d4d332b6
-
-
-Processing 979790719.xbe [191/194]
+Processing 184971042.xbe [21/209]
 Title ID HEX: 0x54540081
 Title ID DEC: 1414791297
 Serial Num: TT-129
@@ -3054,23 +334,215 @@ Cert Timestamp: Wed May 25 05:37:35 2005
 MD5: be0f24111f664c34bbd63dbd1f280eb5
 
 
-Processing 983832698.xbe [192/194]
-Title ID HEX: 0x4D530058
-Title ID DEC: 1297285208
-Serial Num: MS-088
-Title Name: Halo
-Publisher guess: Microsoft Game Studios
-Region: (2) Japan
+Processing 185418061.xbe [22/209]
+Title ID HEX: 0x41430007
+Title ID DEC: 1094909959
+Serial Num: AC-007
+Title Name: Aggressive Inline
+Publisher guess: Acclaim Entertainment
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8F34488) Retail
+Cert Timestamp: Tue Jul 16 07:09:38 2002
+MD5: 08edd09f4834c32f99badbffc42a8bc7
+
+
+Processing 191051318.xbe [23/209]
+Title ID HEX: 0x4D49000B
+Title ID DEC: 1296629771
+Serial Num: MI-011
+Title Name: StillLife
+Publisher guess: MicroÃ¯ds
+Region: (1) USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000002
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8F34CF2) Retail
+Cert Timestamp: Sat Mar 05 08:47:38 2005
+MD5: 87925a4f45c86c2eb59760b09c16d4af
+
+
+Processing 196853835.xbe [24/209]
+Title ID HEX: 0x55530036
+Title ID DEC: 1431502902
+Serial Num: US-054
+Title Name: 187 Ride or Die
+Publisher guess: Ubisoft
+Region: (7) PAL + Japan + USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8F3523E) Retail
+Cert Timestamp: Thu Jun 23 21:14:51 2005
+MD5: 3765060cc9e9f2363e44d98d60f4444d
+
+
+Processing 202392476.xbe [25/209]
+Title ID HEX: 0x54540004
+Title ID DEC: 1414791172
+Serial Num: TT-004
+Title Name: Serious Sam
+Publisher guess: Take-Two Interactive Software
+Region: (1) USA / Canada
 Rating: (2) M - Mature
 Version: 0x00000001
 Media Type: (0x00000002) XBOX DVD
 Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
-Entry Point: (0xA8FD37BA) Retail
-Cert Timestamp: Fri Dec 20 08:01:10 2002
-MD5: fd7026e096e66ef5dc44f22561a79f4a
+Entry Point: (0xA8FF80FE) Retail
+Cert Timestamp: Wed Oct 09 07:00:55 2002
+MD5: 1d250f8d41736180c5979223d4d332b6
 
 
-Processing 990624185.xbe [193/194]
+Processing 204637591.xbe [26/209]
+Title ID HEX: 0x53450088
+Title ID DEC: 1397031048
+Serial Num: SE-136
+Title Name: OutRun 2006: Coast 2 Coast
+Publisher guess: SEGA
+Region: (7) PAL + Japan + USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F80375) Retail
+Cert Timestamp: Fri Mar 03 22:35:29 2006
+MD5: e97913b618884f5b26a73a005e72320e
+
+
+Processing 208783379.xbe [27/209]
+Title ID HEX: 0x534E0004
+Title ID DEC: 1397620740
+Serial Num: SN-004
+Title Name: Samurai ShoDown V
+Publisher guess: SNK
+Region: (7) PAL + Japan + USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000003
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8DC0EDD) Retail
+Cert Timestamp: Thu Dec 29 08:16:36 2005
+MD5: 6501c81c71b4ebf09043a051483587f1
+
+
+Processing 210223151.xbe [28/209]
+Title ID HEX: 0x4D53002D
+Title ID DEC: 1297285165
+Serial Num: MS-045
+Title Name: Dead or Alive 3
+Publisher guess: Microsoft Game Studios
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E48352) Retail
+Cert Timestamp: Sat Feb 16 03:44:02 2002
+MD5: 045481052505d9cc73f89d7d4ca41f3b
+
+
+Processing 213477799.xbe [29/209]
+Title ID HEX: 0x4D53002A
+Title ID DEC: 1297285162
+Serial Num: MS-042
+Title Name: Midtown Madness 3
+Publisher guess: Microsoft Game Studios
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000004
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F46BFE) Retail
+Cert Timestamp: Wed May 14 06:09:42 2003
+MD5: e4a13e3946f266272a766f2b672be6be
+
+
+Processing 216127770.xbe [30/209]
+Title ID HEX: 0x4D570017
+Title ID DEC: 1297547287
+Serial Num: MW-023
+Title Name: Freestyle MetalX
+Publisher guess: Midway Games
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8EA3B98) Retail
+Cert Timestamp: Wed Jul 16 06:53:13 2003
+MD5: a7d4bee0fb89e5f70ca91da5c4133711
+
+
+Processing 217398534.xbe [31/209]
+Title ID HEX: 0x41480002
+Title ID DEC: 1095237634
+Serial Num: AH-002
+Title Name: Playboy the Mansion
+Publisher guess: ARUSH Entertainment
+Region: (1) USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000003
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x80000007) Unused high bit (8)? + 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8ECCA88) Retail
+Cert Timestamp: Fri Jan 07 07:52:42 2005
+MD5: 6da8cb166895110ef39ae50c69614ea1
+
+
+Processing 219774935.xbe [32/209]
+Title ID HEX: 0x58500001
+Title ID DEC: 1481637889
+Serial Num: XP-001
+Title Name: <«
+Publisher guess: XPEC Entertainment
+Region: (2) Japan
+Rating: (0) RP - ALL
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8E01160) Retail
+Cert Timestamp: Sat Apr 03 08:07:07 2004
+MD5: 5b25b09445ac92845031981afa455143
+
+
+Processing 220070024.xbe [33/209]
+Title ID HEX: 0x4D530064
+Title ID DEC: 1297285220
+Serial Num: MS-100
+Title Name: Halo 2
+Publisher guess: Microsoft Game Studios
+Region: (7) PAL + Japan + USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000003
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x80000005) Unused high bit (8)? + 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8D15D45) Retail
+Cert Timestamp: Fri Oct 01 00:40:32 2004
+MD5: f87c933ec844f57ae9a9cebec7c31410
+
+
+Processing 220580769.xbe [34/209]
+Title ID HEX: 0x53450026
+Title ID DEC: 1397030950
+Serial Num: SE-038
+Title Name: ESPN NHL Hockey
+Publisher guess: SEGA
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FD47DF) Retail
+Cert Timestamp: Thu Aug 21 05:48:41 2003
+MD5: 7b8935dd47160f37b1b10a31b859b40c
+
+
+Processing 234389585.xbe [35/209]
 Title ID HEX: 0x454C0001
 Title ID DEC: 1162608641
 Serial Num: EL-001
@@ -3086,7 +558,2759 @@ Cert Timestamp: Fri Nov 12 07:57:48 2004
 MD5: a40640b3a23ce730b59293f90ac41838
 
 
-Processing 993174004.xbe [194/194]
+Processing 236184234.xbe [36/209]
+Title ID HEX: 0x4156005C
+Title ID DEC: 1096155228
+Serial Num: AV-092
+Title Name: Marvel: Ultimate Alliance
+Publisher guess: Activision
+Region: (7) PAL + Japan + USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8D4877A) Retail
+Cert Timestamp: Wed Aug 16 05:30:03 2006
+MD5: 315cbd8c7603ff32f80d6afdbfa0d9d4
+
+
+Processing 236920192.xbe [37/209]
+Title ID HEX: 0x5454008A
+Title ID DEC: 1414791306
+Serial Num: TT-138
+Title Name: Codename: Kids Next Door
+Publisher guess: Take-Two Interactive Software
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8F404DE) Retail
+Cert Timestamp: Thu Sep 01 05:50:13 2005
+MD5: dbb5b827c6311e79ea2437eaaca27053
+
+
+Processing 244252889.xbe [38/209]
+Title ID HEX: 0x4E4D0001
+Title ID DEC: 1313669121
+Serial Num: NM-001
+Title Name: Smashing Drive
+Publisher guess: Namco
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F57B1E) Retail
+Cert Timestamp: Sat Apr 20 10:20:29 2002
+MD5: 662d139bdc14cf5995bb10ba7cfb165c
+
+
+Processing 246497320.xbe [39/209]
+Title ID HEX: 0x45410028
+Title ID DEC: 1161887784
+Serial Num: EA-040
+Title Name: NFS Hot Pursuit 2
+Publisher guess: Electronic Arts (EA)
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8F12A9F) Retail
+Cert Timestamp: Thu Aug 29 06:06:55 2002
+MD5: 5a61d2a58a9520757282a6f41569c5e3
+
+
+Processing 247944674.xbe [40/209]
+Title ID HEX: 0x41540003
+Title ID DEC: 1096024067
+Serial Num: AT-003
+Title Name: ProFishingChallenge
+Publisher guess: Atlus
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FFDEB4) Retail
+Cert Timestamp: Thu Aug 12 05:43:04 2004
+MD5: 90657e9e320ec9176637d7b59a2282bb
+
+
+Processing 249535807.xbe [41/209]
+Title ID HEX: 0x4C41000B
+Title ID DEC: 1279328267
+Serial Num: LA-011
+Title Name: Jedi Knight: Jedi Academy
+Publisher guess: LucasArts
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F070CE) Retail
+Cert Timestamp: Fri Oct 24 07:33:34 2003
+MD5: 220067ccbd93c2b119f7521c2ca348e9
+
+
+Processing 250087221.xbe [42/209]
+Title ID HEX: 0x5345000B
+Title ID DEC: 1397030923
+Serial Num: SE-011
+Title Name: GUNVALKYRIE
+Publisher guess: SEGA
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8EFE8A1) Retail
+Cert Timestamp: Sat Feb 02 10:30:45 2002
+MD5: 279901e4f9dde20986964bc97ed9e18d
+
+
+Processing 251897524.xbe [43/209]
+Title ID HEX: 0x49470004
+Title ID DEC: 1229389828
+Serial Num: IG-004
+Title Name: TransWorld Snowboarding
+Publisher guess: Infogrames
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000003
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FD6DF8) Retail
+Cert Timestamp: Tue Oct 01 07:48:38 2002
+MD5: 27a1d4a0332f2a2104ed995367fd702b
+
+
+Processing 253911122.xbe [44/209]
+Title ID HEX: 0x4D530017
+Title ID DEC: 1297285143
+Serial Num: MS-023
+Title Name: MechAssault
+Publisher guess: Microsoft Game Studios
+Region: (5) PAL + USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FD3A12) Retail
+Cert Timestamp: Fri Oct 18 07:21:40 2002
+MD5: 4bcd71fbdfd60c59a0f13dd1c842d327
+
+
+Processing 258888513.xbe [45/209]
+Title ID HEX: 0x4D530015
+Title ID DEC: 1297285141
+Serial Num: MS-021
+Title Name: Quantum Redshift
+Publisher guess: Microsoft Game Studios
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000004
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F2A6A9) Retail
+Cert Timestamp: Wed Aug 28 05:52:40 2002
+MD5: 6296bfa70f0b1582d2ba549ea8f8614a
+
+
+Processing 267004677.xbe [46/209]
+Title ID HEX: 0x41540001
+Title ID DEC: 1096024065
+Serial Num: AT-001
+Title Name: Touge R (JPN)
+Publisher guess: Atlus
+Region: (7) PAL + Japan + USA / Canada
+Rating: (0) RP - ALL
+Version: 0x00000001
+Media Type: (0x400001FF) Unlock HDD + USB Dongle? + DVD_9_RW + DVD_5_RW + DVD_9_RO + DVD_5_RO + CD + Any CD / DVD + XBOX DVD + HDD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F094C1) Retail
+Cert Timestamp: Thu Oct 03 11:49:38 2002
+MD5: 61612633078681b4f34b316f32f33995
+
+
+Processing 270257017.xbe [47/209]
+Title ID HEX: 0x4D530036
+Title ID DEC: 1297285174
+Serial Num: MS-054
+Title Name: Counter-Strike
+Publisher guess: Microsoft Game Studios
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8DC7B97) Retail
+Cert Timestamp: Tue Oct 28 23:10:17 2003
+MD5: 6e007eb9c2779a1c54cb2625ac7d7aa9
+
+
+Processing 280597580.xbe [48/209]
+Title ID HEX: 0x454D000D
+Title ID DEC: 1162674189
+Serial Num: EM-013
+Title Name: Ford Racing 3
+Publisher guess: Empire Interactive
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000003
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000000) No flags set
+Entry Point: (0xA8EF58FE) Retail
+Cert Timestamp: Wed Dec 01 09:06:07 2004
+MD5: bed8c7b5c3a74d3e6f8bd383748a75a9
+
+
+Processing 281238825.xbe [49/209]
+Title ID HEX: 0x4541002F
+Title ID DEC: 1161887791
+Serial Num: EA-047
+Title Name: The Sims"
+Publisher guess: Electronic Arts (EA)
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000004
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F02CB5) Retail
+Cert Timestamp: Fri Mar 14 08:55:15 2003
+MD5: d366f29127fb771107a64a9e581fb94a
+
+
+Processing 281989771.xbe [50/209]
+Title ID HEX: 0x56550049
+Title ID DEC: 1448411209
+Serial Num: VU-073
+Title Name: BPS Trophy Bass 2007
+Publisher guess: Vivendi Universal Games
+Region: (7) PAL + Japan + USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8FD6434) Retail
+Cert Timestamp: Fri Oct 06 03:44:48 2006
+MD5: e78d0a0f05c2a930f6d915d94fc56afa
+
+
+Processing 282494574.xbe [51/209]
+Title ID HEX: 0x49470022
+Title ID DEC: 1229389858
+Serial Num: IG-034
+Title Name: Enter The Matrix
+Publisher guess: Infogrames
+Region: (2) Japan
+Rating: (0) RP - ALL
+Version: 0x00006709
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8DBA90C) Retail
+Cert Timestamp: Sat Jun 28 05:59:20 2003
+MD5: 0d143d3f090b0035442b6b5e0be1928c
+
+
+Processing 282873278.xbe [52/209]
+Title ID HEX: 0x45410011
+Title ID DEC: 1161887761
+Serial Num: EA-017
+Title Name: Cel Damage
+Publisher guess: Electronic Arts (EA)
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8F8D7C0) Retail
+Cert Timestamp: Sat Sep 29 07:10:21 2001
+MD5: 9813417ea9b8a5b180e2d3101ac5e20d
+
+
+Processing 287872089.xbe [53/209]
+Title ID HEX: 0x4D530031
+Title ID DEC: 1297285169
+Serial Num: MS-049
+Title Name: Kung Fu Chaos
+Publisher guess: Microsoft Game Studios
+Region: (2) Japan
+Rating: (0) RP - ALL
+Version: 0x00000004
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E1DB1B) Retail
+Cert Timestamp: Thu Mar 13 12:07:32 2003
+MD5: 973c8736effddb47d38af7c5b4abc0e2
+
+
+Processing 288255421.xbe [54/209]
+Title ID HEX: 0x4D530002
+Title ID DEC: 1297285122
+Serial Num: MS-002
+Title Name: Fuzion Frenzy
+Publisher guess: Microsoft Game Studios
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000004) 64MB RAM limit
+Entry Point: (0xA8FF58D4) Retail
+Cert Timestamp: Fri Dec 21 23:43:00 2001
+MD5: 291555e91954c5051c948837d75f7f66
+
+
+Processing 290319353.xbe [55/209]
+Title ID HEX: 0x42530001
+Title ID DEC: 1112735745
+Serial Num: BS-001
+Title Name: Morrowind
+Publisher guess: Bethesda Softworks
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x80000001) Unused high bit (8)? + Mount Utility Drive
+Entry Point: (0xA8FDFA44) Retail
+Cert Timestamp: Fri May 31 05:21:30 2002
+MD5: 48f2ea5b92e846b548cfb98fabfdd74a
+
+
+Processing 302786910.xbe [56/209]
+Title ID HEX: 0x54510008
+Title ID DEC: 1414594568
+Serial Num: TQ-008
+Title Name: MotoGP
+Publisher guess: THQ
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FDE812) Retail
+Cert Timestamp: Wed Apr 24 07:45:36 2002
+MD5: 9db641bf896fc4f04e5e59e73d628d07
+
+
+Processing 305445853.xbe [57/209]
+Title ID HEX: 0x54510023
+Title ID DEC: 1414594595
+Serial Num: TQ-035
+Title Name: Sphinx
+Publisher guess: THQ
+Region: (3) Japan + USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E07715) Retail
+Cert Timestamp: Fri Oct 10 05:30:18 2003
+MD5: 9307398210e34ad52153b58529959d25
+
+
+Processing 315026627.xbe [58/209]
+Title ID HEX: 0x434D000E
+Title ID DEC: 1129119758
+Serial Num: CM-014
+Title Name: V8 Super Cars Race Driver
+Publisher guess: Codemasters
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000005
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E38C88) Retail
+Cert Timestamp: Wed Sep 17 18:40:20 2003
+MD5: c4851d3ba7179a8e012a458c568a5911
+
+
+Processing 317848770.xbe [59/209]
+Title ID HEX: 0x56550008
+Title ID DEC: 1448411144
+Serial Num: VU-008
+Title Name: Futurama
+Publisher guess: Vivendi Universal Games
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F3D2C6) Retail
+Cert Timestamp: Thu Jul 10 06:21:15 2003
+MD5: 079bd46806ab03a94d4d935c5d102aaf
+
+
+Processing 317881946.xbe [60/209]
+Title ID HEX: 0x4947007B
+Title ID DEC: 1229389947
+Serial Num: IG-123
+Title Name: Fahrenheit
+Publisher guess: Infogrames
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000003
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FD7C4E) Retail
+Cert Timestamp: Tue Aug 23 23:28:34 2005
+MD5: 654c700327515b004e24b7e6078d7ba0
+
+
+Processing 328878178.xbe [61/209]
+Title ID HEX: 0x54510022
+Title ID DEC: 1414594594
+Serial Num: TQ-034
+Title Name: Full Spectrum Warrior
+Publisher guess: THQ
+Region: (4) PAL
+Rating: (2) M - Mature
+Version: 0x00000004
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x80000005) Unused high bit (8)? + 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8DCAB76) Retail
+Cert Timestamp: Mon Jun 07 00:13:15 2004
+MD5: b34c49ee249b757fdf9a37d933ec8ba9
+
+
+Processing 331430482.xbe [62/209]
+Title ID HEX: 0x53450087
+Title ID DEC: 1397031047
+Serial Num: SE-135
+Title Name: SONIC RIDERS
+Publisher guess: SEGA
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000009
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8EFD682) Retail
+Cert Timestamp: Tue Feb 07 06:49:04 2006
+MD5: 82708caf5fb1910c9cfc366c3ea0b0bc
+
+
+Processing 331756427.xbe [63/209]
+Title ID HEX: 0x434D0050
+Title ID DEC: 1129119824
+Serial Num: CM-080
+Title Name: Race Driver 3
+Publisher guess: Codemasters
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000004
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8DCC1EF) Retail
+Cert Timestamp: Mon Jan 16 22:04:57 2006
+MD5: 672f369bbd989d76d90a7d72f0b1555e
+
+
+Processing 333807962.xbe [64/209]
+Title ID HEX: 0x54510105
+Title ID DEC: 1414594821
+Serial Num: TQ-261
+Title Name: Avatar  The Last Airbender
+Publisher guess: THQ
+Region: (3) Japan + USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8EBA7B2) Retail
+Cert Timestamp: Fri Aug 04 04:19:56 2006
+MD5: 9b392229c9ac2e9874d7852be49f3c21
+
+
+Processing 335402543.xbe [65/209]
+Title ID HEX: 0x54540011
+Title ID DEC: 1414791185
+Serial Num: TT-017
+Title Name: Pure Pinball
+Publisher guess: Take-Two Interactive Software
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8F4CD67) Retail
+Cert Timestamp: Thu Jul 08 05:48:48 2004
+MD5: 48a6a4462db63a7f595aaedb07891834
+
+
+Processing 336959292.xbe [66/209]
+Title ID HEX: 0x5345003C
+Title ID DEC: 1397030972
+Serial Num: SE-060
+Title Name: SONIC MEGACOLLECTION PLUS
+Publisher guess: SEGA
+Region: (7) PAL + Japan + USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000002
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8F8532B) Retail
+Cert Timestamp: Sat Sep 25 04:55:05 2004
+MD5: 25a90bb64d6ac49539a1778d5081aa77
+
+
+Processing 339092119.xbe [67/209]
+Title ID HEX: 0x43430008
+Title ID DEC: 1128464392
+Serial Num: CC-008
+Title Name: CAPCOM VS. SNK2 EO
+Publisher guess: Capcom
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E460A0) Retail
+Cert Timestamp: Tue Dec 17 04:44:49 2002
+MD5: 610b6a32ad64943d3eecf4d609f08d8c
+
+
+Processing 341927901.xbe [68/209]
+Title ID HEX: 0x45410039
+Title ID DEC: 1161887801
+Serial Num: EA-057
+Title Name: BIONICLE®
+Publisher guess: Electronic Arts (EA)
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FBF4BC) Retail
+Cert Timestamp: Tue Sep 23 06:24:03 2003
+MD5: 0bb94b80532e0603a3a5223ca8b2105f
+
+
+Processing 342628866.xbe [69/209]
+Title ID HEX: 0x45530001
+Title ID DEC: 1163067393
+Serial Num: ES-001
+Title Name: Mad Dash Racing
+Publisher guess: Eidos Interactive
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F6890D) Retail
+Cert Timestamp: Thu Nov 01 15:37:40 2001
+MD5: ff614676dc907dbd60e2caa24ff3cba9
+
+
+Processing 343189665.xbe [70/209]
+Title ID HEX: 0x4553000A
+Title ID DEC: 1163067402
+Serial Num: ES-010
+Title Name: TimeSplitters 2
+Publisher guess: Eidos Interactive
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E0B832) Retail
+Cert Timestamp: Wed Oct 09 11:51:14 2002
+MD5: fe04e4e1ac98ad0c304f8a23abb4acad
+
+
+Processing 359794400.xbe [71/209]
+Title ID HEX: 0x45410013
+Title ID DEC: 1161887763
+Serial Num: EA-019
+Title Name: The Simpsons Road Rage
+Publisher guess: Electronic Arts (EA)
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8F5D4C4) Retail
+Cert Timestamp: Fri Nov 02 11:03:05 2001
+MD5: a0f6dddbea7fef5154dc844d4674e4b8
+
+
+Processing 361330908.xbe [72/209]
+Title ID HEX: 0x45410091
+Title ID DEC: 1161887889
+Serial Num: EA-145
+Title Name: Half - Life 2
+Publisher guess: Electronic Arts (EA)
+Region: (7) PAL + Japan + USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FD2E4D) Retail
+Cert Timestamp: Wed Oct 19 06:03:34 2005
+MD5: 7ad6ab34add9ed4bcb6ab830c803c3c9
+
+
+Processing 368430635.xbe [73/209]
+Title ID HEX: 0x45530011
+Title ID DEC: 1163067409
+Serial Num: ES-017
+Title Name: Whiplash
+Publisher guess: Eidos Interactive
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8EF78B8) Retail
+Cert Timestamp: Tue Oct 28 07:58:20 2003
+MD5: d0c5314a77f827c7b55b371c752a8d68
+
+
+Processing 371208235.xbe [74/209]
+Title ID HEX: 0x4947007F
+Title ID DEC: 1229389951
+Serial Num: IG-127
+Title Name: Driver : Parallel Lines
+Publisher guess: Infogrames
+Region: (7) PAL + Japan + USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000003
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8D87162) Retail
+Cert Timestamp: Tue Feb 21 21:03:37 2006
+MD5: 5ece5783c8345248db50ba8a658d19c9
+
+
+Processing 372902884.xbe [75/209]
+Title ID HEX: 0x4D57000E
+Title ID DEC: 1297547278
+Serial Num: MW-014
+Title Name: Gauntlet Dark Legacy
+Publisher guess: Midway Games
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000003
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8F76F30) Retail
+Cert Timestamp: Tue Mar 26 10:34:17 2002
+MD5: b57cd80dc90e0884beb1c465a31a35e6
+
+
+Processing 374045392.xbe [76/209]
+Title ID HEX: 0x56550005
+Title ID DEC: 1448411141
+Serial Num: VU-005
+Title Name: Buffy : Chaos Bleeds
+Publisher guess: Vivendi Universal Games
+Region: (3) Japan + USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8EE2CAD) Retail
+Cert Timestamp: Sat Jul 12 06:11:23 2003
+MD5: eedaab01d2bde6102a78079d913bcfb0
+
+
+Processing 375165537.xbe [77/209]
+Title ID HEX: 0x54510007
+Title ID DEC: 1414594567
+Serial Num: TQ-007
+Title Name: Toxic Grind
+Publisher guess: THQ
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F2CEA1) Retail
+Cert Timestamp: Wed Sep 18 05:49:41 2002
+MD5: 353be97db6942d6ec8352cf9614aa493
+
+
+Processing 380326737.xbe [78/209]
+Title ID HEX: 0x5451000B
+Title ID DEC: 1414594571
+Serial Num: TQ-011
+Title Name: Evil Dead: A Fistful Of Boomstick
+Publisher guess: THQ
+Region: (5) PAL + USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000003
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F76099) Retail
+Cert Timestamp: Fri May 09 18:39:35 2003
+MD5: ea90637681808cca8ef0285e5b99b345
+
+
+Processing 387172988.xbe [79/209]
+Title ID HEX: 0x4D530041
+Title ID DEC: 1297285185
+Serial Num: MS-065
+Title Name: Amped 2
+Publisher guess: Microsoft Game Studios
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8D91F32) Retail
+Cert Timestamp: Wed Oct 08 07:13:27 2003
+MD5: c57e3d89d4821d967cec52c71f76ed61
+
+
+Processing 390971211.xbe [80/209]
+Title ID HEX: 0x4D530003
+Title ID DEC: 1297285123
+Serial Num: MS-003
+Title Name: Project Gotham Racing
+Publisher guess: Microsoft Game Studios
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000005
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F10E34) Retail
+Cert Timestamp: Sat Feb 23 00:16:44 2002
+MD5: fa70b435ce1104ae5e272d189fa11b96
+
+
+Processing 393725231.xbe [81/209]
+Title ID HEX: 0x56550015
+Title ID DEC: 1448411157
+Serial Num: VU-021
+Title Name: The Simpsons Hit & Run
+Publisher guess: Vivendi Universal Games
+Region: (3) Japan + USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8EE1E22) Retail
+Cert Timestamp: Wed Jul 30 04:58:42 2003
+MD5: 2e041d73315d2286fa2377a0303cc813
+
+
+Processing 395712173.xbe [82/209]
+Title ID HEX: 0x49470022
+Title ID DEC: 1229389858
+Serial Num: IG-034
+Title Name: Enter The Matrix
+Publisher guess: Infogrames
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00006703
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8D4DBD4) Retail
+Cert Timestamp: Fri Apr 11 06:00:25 2003
+MD5: 6101a5950a83687848842dc98d172e9c
+
+
+Processing 396018534.xbe [83/209]
+Title ID HEX: 0x4D530058
+Title ID DEC: 1297285208
+Serial Num: MS-088
+Title Name: Halo
+Publisher guess: Microsoft Game Studios
+Region: (2) Japan
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FD37BA) Retail
+Cert Timestamp: Fri Dec 20 08:01:10 2002
+MD5: fd7026e096e66ef5dc44f22561a79f4a
+
+
+Processing 399389574.xbe [84/209]
+Title ID HEX: 0x4D530021
+Title ID DEC: 1297285153
+Serial Num: MS-033
+Title Name: Crimson Skies
+Publisher guess: Microsoft Game Studios
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000003
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x80000005) Unused high bit (8)? + 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E02B02) Retail
+Cert Timestamp: Tue Sep 30 05:56:37 2003
+MD5: b817f6ef34ee97134ba0e08c03ace6bd
+
+
+Processing 404462138.xbe [85/209]
+Title ID HEX: 0x534300FA
+Title ID DEC: 1396900090
+Serial Num: SC-250
+Title Name: Hitman Blood Money
+Publisher guess: SCi Games
+Region: (7) PAL + Japan + USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8D683D1) Retail
+Cert Timestamp: Tue Mar 21 21:43:46 2006
+MD5: dacf63c93740a5b21a62e2c4b1ea69df
+
+
+Processing 410178832.xbe [86/209]
+Title ID HEX: 0x4947000B
+Title ID DEC: 1229389835
+Serial Num: IG-011
+Title Name: Furious Karting
+Publisher guess: Infogrames
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000004) 64MB RAM limit
+Entry Point: (0xA8FDC56C) Retail
+Cert Timestamp: Mon Dec 16 22:46:54 2002
+MD5: c02ecbc8ce7fb0ee9e3f020620653eaf
+
+
+Processing 413175789.xbe [87/209]
+Title ID HEX: 0x56430001
+Title ID DEC: 1447231489
+Serial Num: VC-001
+Title Name: Muzzle Flash
+Publisher guess: Victor Interactive Software
+Region: (2) Japan
+Rating: (0) RP - ALL
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F145BC) Retail
+Cert Timestamp: Wed Feb 05 08:01:56 2003
+MD5: d83c4169537f1272947815eb58d5f1a1
+
+
+Processing 413870735.xbe [88/209]
+Title ID HEX: 0x54510025
+Title ID DEC: 1414594597
+Serial Num: TQ-037
+Title Name: Evil Dead: Regeneration
+Publisher guess: THQ
+Region: (3) Japan + USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000003) Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8F306E4) Retail
+Cert Timestamp: Fri Jul 15 07:10:55 2005
+MD5: 8353b67266754960e70f2590f450e7ed
+
+
+Processing 415493399.xbe [89/209]
+Title ID HEX: 0x4D53005A
+Title ID DEC: 1297285210
+Serial Num: MS-090
+Title Name: Xbox Music Mixer
+Publisher guess: Microsoft Game Studios
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000102
+Media Type: (0x80000002) NONSECURE_MODE? + XBOX DVD
+Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8F1581D) Retail
+Cert Timestamp: Fri Sep 12 09:30:18 2003
+MD5: 952d7dca5a914ed6bd6b03881ba9c8ea
+
+
+Processing 428139638.xbe [90/209]
+Title ID HEX: 0x4D570018
+Title ID DEC: 1297547288
+Serial Num: MW-024
+Title Name: RoadKill
+Publisher guess: Midway Games
+Region: (1) USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8EBE6ED) Retail
+Cert Timestamp: Tue Sep 09 05:55:45 2003
+MD5: 717c931e6ece419ff48bf29fbe0b948f
+
+
+Processing 429104506.xbe [91/209]
+Title ID HEX: 0x54540083
+Title ID DEC: 1414791299
+Serial Num: TT-131
+Title Name: Shattered Union
+Publisher guess: Take-Two Interactive Software
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8EFA5A2) Retail
+Cert Timestamp: Tue Sep 20 06:37:59 2005
+MD5: d6d1c88cb5beb3f79d418174dcbea7ac
+
+
+Processing 443193697.xbe [92/209]
+Title ID HEX: 0x4E4D0001
+Title ID DEC: 1313669121
+Serial Num: NM-001
+Title Name: Smashing Drive
+Publisher guess: Namco
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F57B1E) Retail
+Cert Timestamp: Sat Apr 20 10:20:29 2002
+MD5: 662d139bdc14cf5995bb10ba7cfb165c
+
+
+Processing 446042666.xbe [93/209]
+Title ID HEX: 0x42530005
+Title ID DEC: 1112735749
+Serial Num: BS-005
+Title Name: Morrowind Game of the Year
+Publisher guess: Bethesda Softworks
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000103
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8FDEF46) Retail
+Cert Timestamp: Tue Oct 21 09:23:29 2003
+MD5: 17bd6ad53e4f1f91feb6e2a80d3e0772
+
+
+Processing 447200857.xbe [94/209]
+Title ID HEX: 0x56550026
+Title ID DEC: 1448411174
+Serial Num: VU-038
+Title Name: Riddick
+Publisher guess: Vivendi Universal Games
+Region: (3) Japan + USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8BDAC21) Retail
+Cert Timestamp: Fri Apr 23 05:48:45 2004
+MD5: b17e11cb89b52db0d76018ce0d33c03b
+
+
+Processing 450086090.xbe [95/209]
+Title ID HEX: 0x4D570007
+Title ID DEC: 1297547271
+Serial Num: MW-007
+Title Name: Freaky Flyers
+Publisher guess: Midway Games
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000201
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FD4093) Retail
+Cert Timestamp: Sat Jun 07 06:16:49 2003
+MD5: aaa83dd0545e50a62ca87fa5067dcdc0
+
+
+Processing 451745732.xbe [96/209]
+Title ID HEX: 0x4A410001
+Title ID DEC: 1245773825
+Serial Num: JA-001
+Title Name: Pulse Racer
+Publisher guess: Jaleco
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x001F4201
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x80000005) Unused high bit (8)? + 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F24F00) Retail
+Cert Timestamp: Tue Oct 22 07:03:34 2002
+MD5: f2c83f9a6960fdaa46cd6d9ee8b717b0
+
+
+Processing 453221360.xbe [97/209]
+Title ID HEX: 0x56560021
+Title ID DEC: 1448476705
+Serial Num: VV-033
+Title Name: BloodRayne
+Publisher guess: Vivendi Universal Games
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E80998) Retail
+Cert Timestamp: Fri Mar 21 20:19:30 2003
+MD5: 7f8a95ae8384923eecfa5e805d24d770
+
+
+Processing 454826779.xbe [98/209]
+Title ID HEX: 0x4D530064
+Title ID DEC: 1297285220
+Serial Num: MS-100
+Title Name: Halo 2
+Publisher guess: Microsoft Game Studios
+Region: (7) PAL + Japan + USA / Canada
+Rating: (0) RP - ALL
+Version: 0x0000000A
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x80000005) Unused high bit (8)? + 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8D15D45) Retail
+Cert Timestamp: Fri Oct 01 03:40:10 2004
+MD5: 5c9df558f55d1e4b351911ae060b9a74
+
+
+Processing 456777388.xbe [99/209]
+Title ID HEX: 0x54540019
+Title ID DEC: 1414791193
+Serial Num: TT-025
+Title Name: Manhunt
+Publisher guess: Take-Two Interactive Software
+Region: (1) USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000003
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E3B363) Retail
+Cert Timestamp: Wed Mar 31 07:55:37 2004
+MD5: cee2271a50242c660d0ded4b00e19eff
+
+
+Processing 459946789.xbe [100/209]
+Title ID HEX: 0x454D001E
+Title ID DEC: 1162674206
+Serial Num: EM-030
+Title Name: Jacked
+Publisher guess: Empire Interactive
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8E43728) Retail
+Cert Timestamp: Mon Oct 03 19:42:31 2005
+MD5: aa7e6f13aaa456f803c7c3eac6cfe828
+
+
+Processing 464484838.xbe [101/209]
+Title ID HEX: 0x53450021
+Title ID DEC: 1397030945
+Serial Num: SE-033
+Title Name: segaGTOnline
+Publisher guess: SEGA
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000008
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E4CCB7) Retail
+Cert Timestamp: Thu Dec 11 09:05:36 2003
+MD5: b3030a508c963ed329a49d3de9639bad
+
+
+Processing 464700105.xbe [102/209]
+Title ID HEX: 0x45410079
+Title ID DEC: 1161887865
+Serial Num: EA-121
+Title Name: FROM RUSSIA WITH LOVE (TM)
+Publisher guess: Electronic Arts (EA)
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000002
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8CDDDC6) Retail
+Cert Timestamp: Sat Oct 08 07:39:27 2005
+MD5: 588cc20f2eda2a8f0df382b83fd42f28
+
+
+Processing 466503814.xbe [103/209]
+Title ID HEX: 0x584B000A
+Title ID DEC: 1481310218
+Serial Num: XK-010
+Title Name: Kiosk OZ/NZ XMAS
+Publisher guess: Xbox kiosk disk
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000005
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000010) 
+Entry Point: (0xA8FD0786) Retail
+Cert Timestamp: Mon Jun 28 21:10:16 2004
+MD5: abf68e1a7ce19f4ff526788b734a5539
+
+
+Processing 466604064.xbe [104/209]
+Title ID HEX: 0x4B4F0002
+Title ID DEC: 1263468546
+Serial Num: KO-002
+Title Name: CrimsonSea
+Publisher guess: KOEI
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000003
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8D4C44A) Retail
+Cert Timestamp: Thu Nov 28 08:15:04 2002
+MD5: f4ea15e9ae313178a0b12baee44b94c7
+
+
+Processing 470330989.xbe [105/209]
+Title ID HEX: 0x54540015
+Title ID DEC: 1414791189
+Serial Num: TT-021
+Title Name: Motocross Mania 3
+Publisher guess: Take-Two Interactive Software
+Region: (5) PAL + USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F65DA6) Retail
+Cert Timestamp: Tue Feb 08 22:26:46 2005
+MD5: d49556035984a9cfd4bae6c57f42dc28
+
+
+Processing 482601047.xbe [106/209]
+Title ID HEX: 0x4B4E001D
+Title ID DEC: 1263403037
+Serial Num: KN-029
+Title Name: Dancing Stage Unleashed
+Publisher guess: Konami
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8F5BAFA) Retail
+Cert Timestamp: Thu Oct 23 20:19:02 2003
+MD5: ad3f6188c2b2a75d0261dffa7a50f506
+
+
+Processing 484325125.xbe [107/209]
+Title ID HEX: 0x4A410005
+Title ID DEC: 1245773829
+Serial Num: JA-005
+Title Name: Goblin Commander
+Publisher guess: Jaleco
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FD47DF) Retail
+Cert Timestamp: Wed Feb 11 01:16:40 2004
+MD5: 3d085db0049bf4c2d390132d56c63146
+
+
+Processing 484409583.xbe [108/209]
+Title ID HEX: 0x53450023
+Title ID DEC: 1397030947
+Serial Num: SE-035
+Title Name: ESPN NBA BASKETBALL
+Publisher guess: SEGA
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8D5EAAC) Retail
+Cert Timestamp: Sat Oct 11 06:01:57 2003
+MD5: 5aac81e07686171a3054e7c31dcfbe06
+
+
+Processing 488552840.xbe [109/209]
+Title ID HEX: 0x544D0002
+Title ID DEC: 1414332418
+Serial Num: TM-002
+Title Name: Robotech: Battlecry
+Publisher guess: TDK Mediactive
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FD6634) Retail
+Cert Timestamp: Sat Aug 17 06:00:37 2002
+MD5: d947afa881e084ee5f7c8255b754a2f1
+
+
+Processing 496920600.xbe [110/209]
+Title ID HEX: 0x5655002A
+Title ID DEC: 1448411178
+Serial Num: VU-042
+Title Name: Barbie(tm) Horse
+Publisher guess: Vivendi Universal Games
+Region: (3) Japan + USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000005
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F2F1A4) Retail
+Cert Timestamp: Sat Oct 04 06:47:49 2003
+MD5: a0976f2baafd48598568771ad4f229bf
+
+
+Processing 498109551.xbe [111/209]
+Title ID HEX: 0x4D570033
+Title ID DEC: 1297547315
+Serial Num: MW-051
+Title Name: Gauntlet: Seven Sorrows
+Publisher guess: Midway Games
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F3FD32) Retail
+Cert Timestamp: Wed Dec 07 22:03:37 2005
+MD5: 1ee547f0cb807f817770aedc6cfdf8a0
+
+
+Processing 504681388.xbe [112/209]
+Title ID HEX: 0x53450022
+Title ID DEC: 1397030946
+Serial Num: SE-034
+Title Name: ESPN NFL FOOTBALL
+Publisher guess: SEGA
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8D0A43C) Retail
+Cert Timestamp: Thu Aug 07 06:07:30 2003
+MD5: 6357b36a6bf39fa94c74b6984ecd39b9
+
+
+Processing 523635950.xbe [113/209]
+Title ID HEX: 0x56550017
+Title ID DEC: 1448411159
+Serial Num: VU-023
+Title Name: Seablade
+Publisher guess: Vivendi Universal Games
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FBA018) Retail
+Cert Timestamp: Fri Oct 18 07:21:39 2002
+MD5: a29ea18941b86413105ef84a1d23b96d
+
+
+Processing 530803945.xbe [114/209]
+Title ID HEX: 0x4541005B
+Title ID DEC: 1161887835
+Serial Num: EA-091
+Title Name: Burnout 3
+Publisher guess: Electronic Arts (EA)
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000002
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E17C6C) Retail
+Cert Timestamp: Thu Aug 12 18:10:21 2004
+MD5: 3019a18243b6c79519a504f8e2df22a1
+
+
+Processing 534817497.xbe [115/209]
+Title ID HEX: 0x49470034
+Title ID DEC: 1229389876
+Serial Num: IG-052
+Title Name: V-Rally 3
+Publisher guess: Infogrames
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000004
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F68D7E) Retail
+Cert Timestamp: Tue Mar 04 21:10:23 2003
+MD5: 52b83ce8bbf838159c421b92f7b5677b
+
+
+Processing 538808703.xbe [116/209]
+Title ID HEX: 0x56550043
+Title ID DEC: 1448411203
+Serial Num: VU-067
+Title Name: Eragon
+Publisher guess: Vivendi Universal Games
+Region: (7) PAL + Japan + USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000000) No flags set
+Entry Point: (0xA8F7206E) Retail
+Cert Timestamp: Thu Jun 22 04:52:18 2006
+MD5: 141e8b6fc680703a21280565016cdb91
+
+
+Processing 543031522.xbe [117/209]
+Title ID HEX: 0x56550021
+Title ID DEC: 1448411169
+Serial Num: VU-033
+Title Name: Jurassic Park: Operation Genesis
+Publisher guess: Vivendi Universal Games
+Region: (3) Japan + USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8FD7A4F) Retail
+Cert Timestamp: Tue Feb 04 07:38:22 2003
+MD5: dc92f9f76f7bcc7be661a8813b7f0400
+
+
+Processing 544879137.xbe [118/209]
+Title ID HEX: 0x434D0011
+Title ID DEC: 1129119761
+Serial Num: CM-017
+Title Name: Race Driver 2
+Publisher guess: Codemasters
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000002
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E7E5B7) Retail
+Cert Timestamp: Fri Feb 27 07:56:34 2004
+MD5: 02adcdc3bb9d918d5f0762d99b72d568
+
+
+Processing 545830276.xbe [119/209]
+Title ID HEX: 0x4156002A
+Title ID DEC: 1096155178
+Serial Num: AV-042
+Title Name: Call of Duty: Finest Hour
+Publisher guess: Activision
+Region: (7) PAL + Japan + USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8EF68DA) Retail
+Cert Timestamp: Sat Oct 30 07:35:19 2004
+MD5: a6ffcb8503513094d57480362dee49a4
+
+
+Processing 554231965.xbe [120/209]
+Title ID HEX: 0x47450001
+Title ID DEC: 1195704321
+Serial Num: GE-001
+Title Name: Zan Kabuki
+Publisher guess: Genki Co.
+Region: (2) Japan
+Rating: (0) RP - ALL
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FB307D) Retail
+Cert Timestamp: Fri Feb 01 09:45:38 2002
+MD5: 0228fbfa5551d0415f6c5325fa1e0df4
+
+
+Processing 556052539.xbe [121/209]
+Title ID HEX: 0x4E4D0009
+Title ID DEC: 1313669129
+Serial Num: NM-009
+Title Name: BREAKDOWN
+Publisher guess: Namco
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8E6C0FD) Retail
+Cert Timestamp: Wed Apr 21 22:03:33 2004
+MD5: a484bec2b82fcb4cdb6b8e9cb08bc5ed
+
+
+Processing 562331285.xbe [122/209]
+Title ID HEX: 0x4143000E
+Title ID DEC: 1094909966
+Serial Num: AC-014
+Title Name: BMX XXX
+Publisher guess: Acclaim Entertainment
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8ED910F) Retail
+Cert Timestamp: Mon Nov 11 21:16:23 2002
+MD5: 394c228dbb0873ab638d061a155a4a94
+
+
+Processing 566047300.xbe [123/209]
+Title ID HEX: 0x4D570022
+Title ID DEC: 1297547298
+Serial Num: MW-034
+Title Name: Gauntlet: Seven Sorrows
+Publisher guess: Midway Games
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F3FDA2) Retail
+Cert Timestamp: Wed Nov 16 07:07:49 2005
+MD5: 71c6383df03f52a42e7bc314f51988ba
+
+
+Processing 566990628.xbe [124/209]
+Title ID HEX: 0x5345002B
+Title ID DEC: 1397030955
+Serial Num: SE-043
+Title Name: SONICHEROES
+Publisher guess: SEGA
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8DBC080) Retail
+Cert Timestamp: Sat Dec 06 06:23:57 2003
+MD5: 0bd679140b0b2723e0d12a100b232653
+
+
+Processing 568020104.xbe [125/209]
+Title ID HEX: 0x54540008
+Title ID DEC: 1414791176
+Serial Num: TT-008
+Title Name: Midnight Club 2
+Publisher guess: Take-Two Interactive Software
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000003
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FD440F) Retail
+Cert Timestamp: Fri May 23 13:38:18 2003
+MD5: 4d61af6d234856a48f19ccba306d6d5b
+
+
+Processing 570961943.xbe [126/209]
+Title ID HEX: 0x434D0011
+Title ID DEC: 1129119761
+Serial Num: CM-017
+Title Name: Race Driver 2
+Publisher guess: Codemasters
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000005
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E7E5B7) Retail
+Cert Timestamp: Fri Feb 27 01:12:42 2004
+MD5: 0801ecdf32c01811cefa714bf0768078
+
+
+Processing 572475785.xbe [127/209]
+Title ID HEX: 0x54510020
+Title ID DEC: 1414594592
+Serial Num: TQ-032
+Title Name: Fairly OddParents
+Publisher guess: THQ
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8E07716) Retail
+Cert Timestamp: Sat Sep 27 06:13:55 2003
+MD5: 123158efb6e471a7f29eac891e141ab8
+
+
+Processing 579884615.xbe [128/209]
+Title ID HEX: 0x54510004
+Title ID DEC: 1414594564
+Serial Num: TQ-004
+Title Name: Dark Summit
+Publisher guess: THQ
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F43DD7) Retail
+Cert Timestamp: Sun Oct 28 02:49:21 2001
+MD5: 023cafa4dfa946d6f5222d5a86ac91fb
+
+
+Processing 587257086.xbe [129/209]
+Title ID HEX: 0x45410086
+Title ID DEC: 1161887878
+Serial Num: EA-134
+Title Name: EA SPORTS FN 3
+Publisher guess: Electronic Arts (EA)
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000002
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8D1DFCE) Retail
+Cert Timestamp: Thu Feb 02 09:11:00 2006
+MD5: 2627bd30d8f9399526e0cd40631a86c7
+
+
+Processing 591751860.xbe [130/209]
+Title ID HEX: 0x434D0010
+Title ID DEC: 1129119760
+Serial Num: CM-016
+Title Name: Colin McRae Rally 04
+Publisher guess: Codemasters
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000003
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8EE60EB) Retail
+Cert Timestamp: Wed Jan 14 12:28:12 2004
+MD5: 470f59de83e2d9ea4a6a7f48f6ee8ea3
+
+
+Processing 595461390.xbe [131/209]
+Title ID HEX: 0x454D0007
+Title ID DEC: 1162674183
+Serial Num: EM-007
+Title Name: Ford Racing 2
+Publisher guess: Empire Interactive
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000000) No flags set
+Entry Point: (0xA8F18AE0) Retail
+Cert Timestamp: Wed Sep 24 06:14:04 2003
+MD5: ac69b95d11be8fa381e9f51130b88c48
+
+
+Processing 602545006.xbe [132/209]
+Title ID HEX: 0x4F580001
+Title ID DEC: 1331167233
+Serial Num: OX-001
+Title Name: Conspiracy: WoMD
+Publisher guess: Oxygen Interactive
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000002
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F131D7) Retail
+Cert Timestamp: Mon Jun 27 23:06:55 2005
+MD5: 463793689ab898508f6af63e2617dd8f
+
+
+Processing 608747495.xbe [133/209]
+Title ID HEX: 0x4541003C
+Title ID DEC: 1161887804
+Serial Num: EA-060
+Title Name: SSX 3
+Publisher guess: Electronic Arts (EA)
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E44D89) Retail
+Cert Timestamp: Sat Sep 27 06:13:09 2003
+MD5: cc1da3c044ee1160029e8596ed1b5233
+
+
+Processing 611459205.xbe [134/209]
+Title ID HEX: 0x43430001
+Title ID DEC: 1128464385
+Serial Num: CC-001
+Title Name: GENMA ONIMUSHA
+Publisher guess: Capcom
+Region: (1) USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8EBDEA9) Retail
+Cert Timestamp: Fri Jan 11 06:50:11 2002
+MD5: f51f90705e15cf1d43ad8c4c258259e5
+
+
+Processing 643865613.xbe [135/209]
+Title ID HEX: 0x54510018
+Title ID DEC: 1414594584
+Serial Num: TQ-024
+Title Name: The Punisher
+Publisher guess: THQ
+Region: (3) Japan + USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x80000005) Unused high bit (8)? + 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E0F8CF) Retail
+Cert Timestamp: Sat Dec 11 07:28:39 2004
+MD5: fc15d120ed3456bca528c97fc5861746
+
+
+Processing 644353285.xbe [136/209]
+Title ID HEX: 0x49470022
+Title ID DEC: 1229389858
+Serial Num: IG-034
+Title Name: Enter The Matrix
+Publisher guess: Infogrames
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00006708
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8DBABFC) Retail
+Cert Timestamp: Thu May 01 04:48:30 2003
+MD5: 874fdd6147babf2b1fce995f08d1ee94
+
+
+Processing 656543525.xbe [137/209]
+Title ID HEX: 0x4C410007
+Title ID DEC: 1279328263
+Serial Num: LA-007
+Title Name: Indiana Jones
+Publisher guess: LucasArts
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8BBB4CE) Retail
+Cert Timestamp: Wed Feb 26 02:00:29 2003
+MD5: 38b6043a21d7a9ef40726403804bd127
+
+
+Processing 669879281.xbe [138/209]
+Title ID HEX: 0x4B420007
+Title ID DEC: 1262616583
+Serial Num: KB-007
+Title Name: RPM Tuning
+Publisher guess: Kemco
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000003
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8EFAC74) Retail
+Cert Timestamp: Wed Feb 02 07:51:22 2005
+MD5: e6c55648ce1d661cbd0e3fcc4d908a92
+
+
+Processing 670941660.xbe [139/209]
+Title ID HEX: 0x41560050
+Title ID DEC: 1096155216
+Serial Num: AV-080
+Title Name: Shamu's Deep Sea Adventures
+Publisher guess: Activision
+Region: (7) PAL + Japan + USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FD45A1) Retail
+Cert Timestamp: Thu Oct 06 05:04:05 2005
+MD5: ac694dd5379752d2716af8f1b644805d
+
+
+Processing 694802752.xbe [140/209]
+Title ID HEX: 0x41560051
+Title ID DEC: 1096155217
+Serial Num: AV-081
+Title Name: Call of Duty 2: Big Red One
+Publisher guess: Activision
+Region: (7) PAL + Japan + USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E22C68) Retail
+Cert Timestamp: Sat Oct 01 04:31:31 2005
+MD5: 96b46e06c8181e31800c97aa0c73a62f
+
+
+Processing 699051157.xbe [141/209]
+Title ID HEX: 0x4D440003
+Title ID DEC: 1296302083
+Serial Num: MD-003
+Title Name: Dennou Taisen DroneZ (JPN)
+Publisher guess: Metro3D
+Region: (7) PAL + Japan + USA / Canada
+Rating: (0) RP - ALL
+Version: 0x00000003
+Media Type: (0x400001FF) Unlock HDD + USB Dongle? + DVD_9_RW + DVD_5_RW + DVD_9_RO + DVD_5_RO + CD + Any CD / DVD + XBOX DVD + HDD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F5F7B3) Retail
+Cert Timestamp: Sat Mar 20 07:51:24 2004
+MD5: 2d5ca1a38b738f81661c5143e7c014c2
+
+
+Processing 701606247.xbe [142/209]
+Title ID HEX: 0x4A410006
+Title ID DEC: 1245773830
+Serial Num: JA-006
+Title Name: Room Zoom - Race for Impact
+Publisher guess: Jaleco
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8F02092) Retail
+Cert Timestamp: Wed May 19 05:50:29 2004
+MD5: 075d30ea8857eb7a62d449ce814cf145
+
+
+Processing 710461376.xbe [143/209]
+Title ID HEX: 0x4947001B
+Title ID DEC: 1229389851
+Serial Num: IG-027
+Title Name: Splashdown
+Publisher guess: Infogrames
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8EFFFA0) Retail
+Cert Timestamp: Fri May 31 05:24:08 2002
+MD5: 38f188b85d3a24427f6d1e16bc781116
+
+
+Processing 711109154.xbe [144/209]
+Title ID HEX: 0x4541000D
+Title ID DEC: 1161887757
+Serial Num: EA-013
+Title Name: Agent Under Fire "
+Publisher guess: Electronic Arts (EA)
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FE799E) Retail
+Cert Timestamp: Fri Feb 22 08:02:51 2002
+MD5: ff55c0b0c86fe26a20926418b97b4ee7
+
+
+Processing 715676312.xbe [145/209]
+Title ID HEX: 0x54510089
+Title ID DEC: 1414594697
+Serial Num: TQ-137
+Title Name: Hot Wheels Stunt Track Challenge
+Publisher guess: THQ
+Region: (3) Japan + USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000003
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8DFCF07) Retail
+Cert Timestamp: Mon Sep 27 21:56:31 2004
+MD5: fba39421ae10260c85f4d1281f12f96a
+
+
+Processing 716843631.xbe [146/209]
+Title ID HEX: 0x4B420006
+Title ID DEC: 1262616582
+Serial Num: KB-006
+Title Name: Yager
+Publisher guess: Kemco
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8EE1A17) Retail
+Cert Timestamp: Fri Jul 16 06:16:57 2004
+MD5: f15dc3fc804f50bd6564c28195eebd8f
+
+
+Processing 718117840.xbe [147/209]
+Title ID HEX: 0x4D53006E
+Title ID DEC: 1297285230
+Serial Num: MS-110
+Title Name: Forza Motorsport
+Publisher guess: Microsoft Game Studios
+Region: (7) PAL + Japan + USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x80000004) Unused high bit (8)? + 64MB RAM limit
+Entry Point: (0xA8DAD91E) Retail
+Cert Timestamp: Thu Mar 31 07:55:17 2005
+MD5: f20e294c5da2619f55e93c6080f2a3b7
+
+
+Processing 724158989.xbe [148/209]
+Title ID HEX: 0x4D53004A
+Title ID DEC: 1297285194
+Serial Num: MS-074
+Title Name: PSO
+Publisher guess: Microsoft Game Studios
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000004
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8CD4805) Retail
+Cert Timestamp: Tue Mar 18 08:12:32 2003
+MD5: a2100c6d5645ae62f621f5e273fcccbb
+
+
+Processing 730432759.xbe [149/209]
+Title ID HEX: 0x4D4A0012
+Title ID DEC: 1296695314
+Serial Num: MJ-018
+Title Name: Psychonauts
+Publisher guess: Majesco Entertainment
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E2FC7A) Retail
+Cert Timestamp: Thu Mar 31 05:12:13 2005
+MD5: 41855bb2700b5a56c3d89f5cff7877df
+
+
+Processing 734485805.xbe [150/209]
+Title ID HEX: 0x4947003C
+Title ID DEC: 1229389884
+Serial Num: IG-060
+Title Name: Unreal II
+Publisher guess: Infogrames
+Region: (3) Japan + USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FFEF95) Retail
+Cert Timestamp: Wed Jan 21 07:49:32 2004
+MD5: d3dcb17f795e44cc8b782f966defd5f3
+
+
+Processing 735498598.xbe [151/209]
+Title ID HEX: 0x4143001A
+Title ID DEC: 1094909978
+Serial Num: AC-026
+Title Name: Gladiator: SoV
+Publisher guess: Acclaim Entertainment
+Region: (1) USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E84DDD) Retail
+Cert Timestamp: Sat Oct 11 06:43:01 2003
+MD5: d80f1e0f1795f8500987c244655577aa
+
+
+Processing 737272518.xbe [152/209]
+Title ID HEX: 0x4D530051
+Title ID DEC: 1297285201
+Serial Num: MS-081
+Title Name: Conker: Live and Reloaded
+Publisher guess: Microsoft Game Studios
+Region: (1) USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000002
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x80000004) Unused high bit (8)? + 64MB RAM limit
+Entry Point: (0xA8BEA742) Retail
+Cert Timestamp: Wed May 04 05:35:51 2005
+MD5: bef7653560b9638667ea8f72ed63bfd4
+
+
+Processing 738383003.xbe [153/209]
+Title ID HEX: 0x4156004E
+Title ID DEC: 1096155214
+Serial Num: AV-078
+Title Name: DOOM 3 RoE
+Publisher guess: Activision
+Region: (7) PAL + Japan + USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000002
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8C50C7A) Retail
+Cert Timestamp: Thu Sep 15 05:54:29 2005
+MD5: 908edf4b3f50f84db2d231d459f900a6
+
+
+Processing 745360076.xbe [154/209]
+Title ID HEX: 0x45530009
+Title ID DEC: 1163067401
+Serial Num: ES-009
+Title Name: Hitman2: Silent Assassin
+Publisher guess: Eidos Interactive
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x0000000E
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FD31AA) Retail
+Cert Timestamp: Fri Nov 22 00:05:10 2002
+MD5: f18f50ee7b832488b51e972959c8422f
+
+
+Processing 746313835.xbe [155/209]
+Title ID HEX: 0x42530011
+Title ID DEC: 1112735761
+Serial Num: BS-017
+Title Name: IHRA Sportsman
+Publisher guess: Bethesda Softworks
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E65C14) Retail
+Cert Timestamp: Sat Aug 13 06:03:12 2005
+MD5: e0001ec7f297a566ec9aa2c7e64fcdba
+
+
+Processing 746639731.xbe [156/209]
+Title ID HEX: 0x43430011
+Title ID DEC: 1128464401
+Serial Num: CC-017
+Title Name: Megaman Anniversary Collection
+Publisher guess: Capcom
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x80000005) Unused high bit (8)? + 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8A0C159) Retail
+Cert Timestamp: Thu Feb 17 06:58:47 2005
+MD5: 4c6e6b5c26444929fcb5395e445d4ced
+
+
+Processing 758665316.xbe [157/209]
+Title ID HEX: 0x49470022
+Title ID DEC: 1229389858
+Serial Num: IG-034
+Title Name: Enter The Matrix
+Publisher guess: Infogrames
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000007
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8DBAB3C) Retail
+Cert Timestamp: Sat Apr 26 03:23:22 2003
+MD5: 53cf3720e1e7716dbc97f21850b2193f
+
+
+Processing 761243172.xbe [158/209]
+Title ID HEX: 0x41590004
+Title ID DEC: 1096351748
+Serial Num: AY-004
+Title Name: Dreamfall
+Publisher guess: Aspyr Media
+Region: (3) Japan + USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8F88371) Retail
+Cert Timestamp: Tue Mar 21 07:19:59 2006
+MD5: a6c95a8d34726ea21929b51b77740ed6
+
+
+Processing 766045007.xbe [159/209]
+Title ID HEX: 0x5454000F
+Title ID DEC: 1414791183
+Serial Num: TT-015
+Title Name: Grand Theft Auto: Vice City
+Publisher guess: Take-Two Interactive Software
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000005
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8E51AE2) Retail
+Cert Timestamp: Wed Dec 24 00:15:13 2003
+MD5: 996c29a41eb99c7877565110bc635e9b
+
+
+Processing 766856891.xbe [160/209]
+Title ID HEX: 0x4D4A0002
+Title ID DEC: 1296695298
+Serial Num: MJ-002
+Title Name: Totaled
+Publisher guess: Majesco Entertainment
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FB3B6F) Retail
+Cert Timestamp: Thu Jul 25 06:10:12 2002
+MD5: ccf45cdbc10160da8bcffe31070d24d7
+
+
+Processing 773062140.xbe [161/209]
+Title ID HEX: 0x4947007D
+Title ID DEC: 1229389949
+Serial Num: IG-125
+Title Name: Getting Up: Contents Under Pressure
+Publisher guess: Infogrames
+Region: (7) PAL + Japan + USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8FD4712) Retail
+Cert Timestamp: Wed Jan 11 20:36:00 2006
+MD5: c712aa68a1c8217e71d869393c8a5cb6
+
+
+Processing 773678520.xbe [162/209]
+Title ID HEX: 0x41560042
+Title ID DEC: 1096155202
+Serial Num: AV-066
+Title Name: Greg Hastings' Tournament Paintball
+Publisher guess: Activision
+Region: (7) PAL + Japan + USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F2ADB3) Retail
+Cert Timestamp: Fri Nov 05 07:53:42 2004
+MD5: c7511fe9ec09828a8ffb7ba3c4fc0fef
+
+
+Processing 776268287.xbe [163/209]
+Title ID HEX: 0x49470012
+Title ID DEC: 1229389842
+Serial Num: IG-018
+Title Name: Zapper
+Publisher guess: Infogrames
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000003
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8F35A5D) Retail
+Cert Timestamp: Fri Sep 20 07:13:45 2002
+MD5: 9881ede9e7433a0a0040fa5ebeec60bd
+
+
+Processing 787517926.xbe [164/209]
+Title ID HEX: 0x52440001
+Title ID DEC: 1380188161
+Serial Num: RD-001
+Title Name: Yourself!Fitness
+Publisher guess: responDesign
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000302
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x80000004) Unused high bit (8)? + 64MB RAM limit
+Entry Point: (0xA8ED73FC) Retail
+Cert Timestamp: Fri Dec 03 12:34:14 2004
+MD5: fe7da66d339adca17396955eff928c0d
+
+
+Processing 789238311.xbe [165/209]
+Title ID HEX: 0x4D530023
+Title ID DEC: 1297285155
+Serial Num: MS-035
+Title Name: Sneakers
+Publisher guess: Microsoft Game Studios
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F51232) Retail
+Cert Timestamp: Sat Jul 27 05:38:49 2002
+MD5: 14d108bdd21368a38cdf8e4dc7f6063d
+
+
+Processing 790689234.xbe [166/209]
+Title ID HEX: 0x41560002
+Title ID DEC: 1096155138
+Serial Num: AV-002
+Title Name: Kelly Slater's Pro Surfer
+Publisher guess: Activision
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000003
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8E6BD72) Retail
+Cert Timestamp: Thu Sep 12 18:37:26 2002
+MD5: afa7becd84b56f174235bae60e2ba864
+
+
+Processing 797621182.xbe [167/209]
+Title ID HEX: 0x4E4D0003
+Title ID DEC: 1313669123
+Serial Num: NM-003
+Title Name: SOULCALIBUR2
+Publisher guess: Namco
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000801
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8EC0388) Retail
+Cert Timestamp: Sat Jun 28 05:59:29 2003
+MD5: 96c4c12948035f77474f10250751b9e0
+
+
+Processing 803116158.xbe [168/209]
+Title ID HEX: 0x42530005
+Title ID DEC: 1112735749
+Serial Num: BS-005
+Title Name: Morrowind Game of the Year
+Publisher guess: Bethesda Softworks
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000005
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8FDEE34) Retail
+Cert Timestamp: Mon May 31 18:14:07 2004
+MD5: ece8aac7818e0c454fbe3c75a3b0c33b
+
+
+Processing 809182398.xbe [169/209]
+Title ID HEX: 0x54510106
+Title ID DEC: 1414594822
+Serial Num: TQ-262
+Title Name: Destroy All Humans! 2
+Publisher guess: THQ
+Region: (7) PAL + Japan + USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F3F890) Retail
+Cert Timestamp: Tue Sep 12 05:14:07 2006
+MD5: 0f2725f5e89184523f6d4a901632a0c0
+
+
+Processing 809480761.xbe [170/209]
+Title ID HEX: 0x544D0012
+Title ID DEC: 1414332434
+Serial Num: TM-018
+Title Name: World Racing 2
+Publisher guess: TDK Mediactive
+Region: (7) PAL + Japan + USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FF4893) Retail
+Cert Timestamp: Mon Aug 15 21:42:41 2005
+MD5: 419db8087c0d870afb2dc635299e2586
+
+
+Processing 821367370.xbe [171/209]
+Title ID HEX: 0x5451001C
+Title ID DEC: 1414594588
+Serial Num: TQ-028
+Title Name: Tetris Worlds Live
+Publisher guess: THQ
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000021
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8F40B85) Retail
+Cert Timestamp: Thu Sep 04 02:51:23 2003
+MD5: d968b33a275852dc9b7dc1e89908423c
+
+
+Processing 821591660.xbe [172/209]
+Title ID HEX: 0x544D000B
+Title ID DEC: 1414332427
+Serial Num: TM-011
+Title Name: Corvette
+Publisher guess: TDK Mediactive
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F2CCD1) Retail
+Cert Timestamp: Fri Nov 07 07:59:04 2003
+MD5: b611aa252534fabee91f649f61fc8b44
+
+
+Processing 830511666.xbe [173/209]
+Title ID HEX: 0x58490004
+Title ID DEC: 1481179140
+Serial Num: XI-004
+Title Name: Black Stone
+Publisher guess: XPEC Entertainment and Idea Factory
+Region: (5) PAL + USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8EC7DF6) Retail
+Cert Timestamp: Sat Dec 14 07:38:11 2002
+MD5: c131ff28ab2785ed436ce5c86ca1af49
+
+
+Processing 833163590.xbe [174/209]
+Title ID HEX: 0x55530013
+Title ID DEC: 1431502867
+Serial Num: US-019
+Title Name: RainbowSix 3
+Publisher guess: Ubisoft
+Region: (7) PAL + Japan + USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x80000001) Unused high bit (8)? + Mount Utility Drive
+Entry Point: (0xA8F5A7CC) Retail
+Cert Timestamp: Fri Oct 10 06:23:36 2003
+MD5: f50c1ad9a899c2f497d28bdb2ce7a2d2
+
+
+Processing 840274683.xbe [175/209]
+Title ID HEX: 0x5454000E
+Title ID DEC: 1414791182
+Serial Num: TT-014
+Title Name: Grand Theft Auto III
+Publisher guess: Take-Two Interactive Software
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000005
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8FE9DE3) Retail
+Cert Timestamp: Wed Dec 24 00:15:29 2003
+MD5: 5be4648d0ed1b0a9719a81129f1d5b8e
+
+
+Processing 845445417.xbe [176/209]
+Title ID HEX: 0x5345000F
+Title ID DEC: 1397030927
+Serial Num: SE-015
+Title Name: ToeJam & Earl III
+Publisher guess: SEGA
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00001104
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000000) No flags set
+Entry Point: (0xA8FD6C66) Retail
+Cert Timestamp: Tue Dec 10 07:46:30 2002
+MD5: 59444859d5c47e491913f40474c0846b
+
+
+Processing 853667887.xbe [177/209]
+Title ID HEX: 0x4D530005
+Title ID DEC: 1297285125
+Serial Num: MS-005
+Title Name: Amped
+Publisher guess: Microsoft Game Studios
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FD0C91) Retail
+Cert Timestamp: Fri Jan 18 23:07:21 2002
+MD5: fd39e26b316f1c449686be576b998f28
+
+
+Processing 867467776.xbe [178/209]
+Title ID HEX: 0x5655000E
+Title ID DEC: 1448411150
+Serial Num: VU-014
+Title Name: Enclave
+Publisher guess: Vivendi Universal Games
+Region: (1) USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E28FEB) Retail
+Cert Timestamp: Sat Jul 06 04:57:42 2002
+MD5: 58e2bf02680b464283de785fb4dba2bc
+
+
+Processing 870761459.xbe [179/209]
+Title ID HEX: 0x43430005
+Title ID DEC: 1128464389
+Serial Num: CC-005
+Title Name: GROUP-S
+Publisher guess: Capcom
+Region: (3) Japan + USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000005
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000004) 64MB RAM limit
+Entry Point: (0xA8FD6934) Retail
+Cert Timestamp: Thu Aug 14 05:50:08 2003
+MD5: bb3c54691936c28ae665e1679b2d9c23
+
+
+Processing 873163769.xbe [180/209]
+Title ID HEX: 0x545100EF
+Title ID DEC: 1414594799
+Serial Num: TQ-239
+Title Name: Juiced
+Publisher guess: THQ
+Region: (7) PAL + Japan + USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E6A6E1) Retail
+Cert Timestamp: Thu Mar 31 23:26:05 2005
+MD5: 3f4399a5947e98b9681ddf4f08241a56
+
+
+Processing 873766752.xbe [181/209]
+Title ID HEX: 0x4D53004B
+Title ID DEC: 1297285195
+Serial Num: MS-075
+Title Name: Project Gotham Racing 2
+Publisher guess: Microsoft Game Studios
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x80000004) Unused high bit (8)? + 64MB RAM limit
+Entry Point: (0xA8E5739C) Retail
+Cert Timestamp: Thu Oct 16 10:05:59 2003
+MD5: 170b9966dd56a74607c488292e955eb0
+
+
+Processing 873861970.xbe [182/209]
+Title ID HEX: 0x41560030
+Title ID DEC: 1096155184
+Serial Num: AV-048
+Title Name: Deer Hunt 2004 Season
+Publisher guess: Activision
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00001101
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FDA368) Retail
+Cert Timestamp: Fri Aug 15 06:14:08 2003
+MD5: 80fd9168846c3fa9ee3eee6c849c4d2c
+
+
+Processing 875025581.xbe [183/209]
+Title ID HEX: 0x55530008
+Title ID DEC: 1431502856
+Serial Num: US-008
+Title Name: FarCry Instincts
+Publisher guess: Ubisoft
+Region: (7) PAL + Japan + USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x80000005) Unused high bit (8)? + 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8B6E04B) Retail
+Cert Timestamp: Sat Sep 10 10:22:59 2005
+MD5: 5c5074ac7d75b764393cf7ac4cb34169
+
+
+Processing 875782260.xbe [184/209]
+Title ID HEX: 0x55530006
+Title ID DEC: 1431502854
+Serial Num: US-006
+Title Name: Ghost Recon
+Publisher guess: Ubisoft
+Region: (1) USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x80000005) Unused high bit (8)? + 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FD0751) Retail
+Cert Timestamp: Fri Oct 25 06:39:35 2002
+MD5: 13c74b967337d393b8500ed5a871968e
+
+
+Processing 878628450.xbe [185/209]
+Title ID HEX: 0x49470022
+Title ID DEC: 1229389858
+Serial Num: IG-034
+Title Name: Enter The Matrix
+Publisher guess: Infogrames
+Region: (2) Japan
+Rating: (0) RP - ALL
+Version: 0x00006704
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8DBABDC) Retail
+Cert Timestamp: Sat May 24 06:35:50 2003
+MD5: 0a1be292fe814128ab6d8893d11c0ffb
+
+
+Processing 881296988.xbe [186/209]
+Title ID HEX: 0x4541023B
+Title ID DEC: 1161888315
+Serial Num: EA-571
+Title Name: Madden NFL 09
+Publisher guess: Electronic Arts (EA)
+Region: (3) Japan + USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000004) 64MB RAM limit
+Entry Point: (0xA8C831C7) Retail
+Cert Timestamp: Mon Jun 23 18:30:43 2008
+MD5: 95b0eb7b189a2b3583658effee406087
+
+
+Processing 887856251.xbe [187/209]
+Title ID HEX: 0x4D530010
+Title ID DEC: 1297285136
+Serial Num: MS-016
+Title Name: Blood Wake
+Publisher guess: Microsoft Game Studios
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F1B6F4) Retail
+Cert Timestamp: Thu Nov 29 06:08:18 2001
+MD5: 63877aabba68101e122194a289a36e3f
+
+
+Processing 900207802.xbe [188/209]
+Title ID HEX: 0x45410012
+Title ID DEC: 1161887762
+Serial Num: EA-018
+Title Name: Buffy: The Vampire Slayer
+Publisher guess: Electronic Arts (EA)
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8ABC909) Retail
+Cert Timestamp: Tue Jul 30 09:11:43 2002
+MD5: 55653c59a64388cfb0539f55e2c6edc0
+
+
+Processing 904115794.xbe [189/209]
+Title ID HEX: 0x4B4E001E
+Title ID DEC: 1263403038
+Serial Num: KN-030
+Title Name: Yu-Gi-Oh! The Dawn of Destiny
+Publisher guess: Konami
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000003
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8EE4BF5) Retail
+Cert Timestamp: Wed Feb 18 07:54:39 2004
+MD5: 29ba2d6212fdc5810896d69c81df47b6
+
+
+Processing 905281064.xbe [190/209]
+Title ID HEX: 0x45410026
+Title ID DEC: 1161887782
+Serial Num: EA-038
+Title Name: 007": NightFire"
+Publisher guess: Electronic Arts (EA)
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F2E507) Retail
+Cert Timestamp: Thu Oct 24 07:19:50 2002
+MD5: bca5f7cccd764e02dbe7e724904827bb
+
+
+Processing 913802815.xbe [191/209]
+Title ID HEX: 0x5553003B
+Title ID DEC: 1431502907
+Serial Num: US-059
+Title Name: Prince of Persia WW
+Publisher guess: Ubisoft
+Region: (7) PAL + Japan + USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8C130E7) Retail
+Cert Timestamp: Thu Nov 11 22:26:21 2004
+MD5: 32190bf112d1c51fdb093eeb85fb2ccf
+
+
+Processing 924510222.xbe [192/209]
+Title ID HEX: 0x41560018
+Title ID DEC: 1096155160
+Serial Num: AV-024
+Title Name: Pitfall: The Lost Expedition
+Publisher guess: Activision
+Region: (1) USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8EA6990) Retail
+Cert Timestamp: Thu Dec 11 08:23:33 2003
+MD5: 469a81727db8159755617abd7d41735d
+
+
+Processing 924598540.xbe [193/209]
+Title ID HEX: 0x4E4D0013
+Title ID DEC: 1313669139
+Serial Num: NM-019
+Title Name: Street Racing Syndicate
+Publisher guess: Namco
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000004) 64MB RAM limit
+Entry Point: (0xA8DF197D) Retail
+Cert Timestamp: Thu Aug 05 03:14:18 2004
+MD5: 7dc49476bc24514db7a18c67f66b6116
+
+
+Processing 938049786.xbe [194/209]
+Title ID HEX: 0x4D53000A
+Title ID DEC: 1297285130
+Serial Num: MS-010
+Title Name: Sudeki
+Publisher guess: Microsoft Game Studios
+Region: (7) PAL + Japan + USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8DA90A8) Retail
+Cert Timestamp: Fri Jul 02 05:52:45 2004
+MD5: 227b190dbd1f517b237591ef88217cdf
+
+
+Processing 946446338.xbe [195/209]
+Title ID HEX: 0x56550042
+Title ID DEC: 1448411202
+Serial Num: VU-066
+Title Name: 50 Cent: Bulletproof
+Publisher guess: Vivendi Universal Games
+Region: (7) PAL + Japan + USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8FD47DF) Retail
+Cert Timestamp: Sat Oct 08 06:54:21 2005
+MD5: 11818733452e3b981e4b9c28450237ad
+
+
+Processing 946992488.xbe [196/209]
+Title ID HEX: 0x4D53000C
+Title ID DEC: 1297285132
+Serial Num: MS-012
+Title Name: Kakuto Chojin
+Publisher guess: Microsoft Game Studios
+Region: (2) Japan
+Rating: (0) RP - ALL
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F39F66) Retail
+Cert Timestamp: Wed Dec 04 13:06:08 2002
+MD5: 2aa21f8c693bd00b237b3c226fdf73a7
+
+
+Processing 953155589.xbe [197/209]
+Title ID HEX: 0x534300FB
+Title ID DEC: 1396900091
+Serial Num: SC-251
+Title Name: Just Cause
+Publisher guess: SCi Games
+Region: (7) PAL + Japan + USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FD6B7D) Retail
+Cert Timestamp: Tue Aug 01 21:48:04 2006
+MD5: f6d32d9768af8b91f28ff2745e03aa57
+
+
+Processing 956636595.xbe [198/209]
+Title ID HEX: 0x53570001
+Title ID DEC: 1398210561
+Serial Num: SW-001
+Title Name: Enclave
+Publisher guess: Swing! Deutschland
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8E280AB) Retail
+Cert Timestamp: Wed Jun 12 20:04:29 2002
+MD5: f8cff757ee3e992cda1d0cfb11ca7595
+
+
+Processing 967166481.xbe [199/209]
+Title ID HEX: 0x4D530004
+Title ID DEC: 1297285124
+Serial Num: MS-004
+Title Name: Halo
+Publisher guess: Microsoft Game Studios
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000001
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FD08E6) Retail
+Cert Timestamp: Thu Jan 24 22:16:15 2002
+MD5: a3f43ea966047345d0d242eb63d604f2
+
+
+Processing 968903214.xbe [200/209]
+Title ID HEX: 0x4541038B
+Title ID DEC: 1161888651
+Serial Num: EA-907
+Title Name: 
+Publisher guess: Electronic Arts (EA)
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000002
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8DDE8CD) Retail
+Cert Timestamp: Fri Sep 23 03:21:41 2005
+MD5: 2da64a90f21a33e1d0e9956b877f99c7
+
+
+Processing 970626566.xbe [201/209]
+Title ID HEX: 0x44430003
+Title ID DEC: 1145241603
+Serial Num: DC-003
+Title Name: Painkiller
+Publisher guess: DreamCatcher Interactive
+Region: (1) USA / Canada
+Rating: (2) M - Mature
+Version: 0x00000004
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive
+Entry Point: (0xA8FF9746) Retail
+Cert Timestamp: Fri Jun 30 05:00:03 2006
+MD5: c1594a5528cdf2a16424be571249f95f
+
+
+Processing 973881277.xbe [202/209]
+Title ID HEX: 0x4D57002D
+Title ID DEC: 1297547309
+Serial Num: MW-045
+Title Name: Midway Arcade Treasures 3
+Publisher guess: Midway Games
+Region: (5) PAL + USA / Canada
+Rating: (4) E - Everyone
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FDABDC) Retail
+Cert Timestamp: Mon Sep 05 18:30:04 2005
+MD5: 09235a714c2469dbd6c3738564aa6681
+
+
+Processing 976578746.xbe [203/209]
+Title ID HEX: 0x55530019
+Title ID DEC: 1431502873
+Serial Num: US-025
+Title Name: Splinter Cell 2
+Publisher guess: Ubisoft
+Region: (7) PAL + Japan + USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000002
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000004) 64MB RAM limit
+Entry Point: (0xA8E2C711) Retail
+Cert Timestamp: Fri Feb 27 21:26:36 2004
+MD5: a2b7a02127d199717610991f44d16531
+
+
+Processing 976907593.xbe [204/209]
+Title ID HEX: 0x4947003D
+Title ID DEC: 1229389885
+Serial Num: IG-061
+Title Name: Trivial Pursuit: Unhinged
+Publisher guess: Infogrames
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000001
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x80000005) Unused high bit (8)? + 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8FACD17) Retail
+Cert Timestamp: Sat Mar 06 07:41:27 2004
+MD5: 0dc24bdd3b08dbcebb448f6820f66563
+
+
+Processing 979634882.xbe [205/209]
+Title ID HEX: 0x46490002
+Title ID DEC: 1179189250
+Serial Num: FI-002
+Title Name: Futurama
+Publisher guess: Fox Interactive
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8F3D376) Retail
+Cert Timestamp: Tue Jul 08 19:15:01 2003
+MD5: 59e57078232206de2ed96e5ef23a29dc
+
+
+Processing 987386702.xbe [206/209]
+Title ID HEX: 0x45430004
+Title ID DEC: 1162018820
+Serial Num: EC-004
+Title Name: Heroes of the Pacific
+Publisher guess: Encore inc
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000002
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000001) Mount Utility Drive
+Entry Point: (0xA8E0CBEF) Retail
+Cert Timestamp: Wed Aug 03 19:45:42 2005
+MD5: 03d3b85cab03c23d40ccc044b3d0cd7c
+
+
+Processing 989000405.xbe [207/209]
+Title ID HEX: 0x4D57000D
+Title ID DEC: 1297547277
+Serial Num: MW-013
+Title Name: Gravity  Games
+Publisher guess: Midway Games
+Region: (4) PAL
+Rating: (0) RP - ALL
+Version: 0x00000002
+Media Type: (0x00000002) XBOX DVD
+Init Flags: (0x00000004) 64MB RAM limit
+Entry Point: (0xA8EE738E) Retail
+Cert Timestamp: Fri Aug 16 19:02:39 2002
+MD5: c370166cc491817bb7d731fb38c3b91b
+
+
+Processing 989911046.xbe [208/209]
 Title ID HEX: 0x4D570032
 Title ID DEC: 1297547314
 Serial Num: MW-050
@@ -3100,5 +3324,21 @@ Init Flags: (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility D
 Entry Point: (0xA8FD73E4) Retail
 Cert Timestamp: Sat Oct 08 06:54:11 2005
 MD5: 100ea634a04dc0e51ba67aa3e93fde49
+
+
+Processing 992035971.xbe [209/209]
+Title ID HEX: 0x5454008C
+Title ID DEC: 1414791308
+Serial Num: TT-140
+Title Name: Zathura
+Publisher guess: Take-Two Interactive Software
+Region: (1) USA / Canada
+Rating: (3) T - Teen
+Version: 0x00000101
+Media Type: (0x00000202) MEDIA_BOARD? + XBOX DVD
+Init Flags: (0x00000005) 64MB RAM limit + Mount Utility Drive
+Entry Point: (0xA8EC24F7) Retail
+Cert Timestamp: Sat Sep 17 06:40:14 2005
+MD5: e4a66d22e4a7f25b782b6b0a851fe2b7
 
 
