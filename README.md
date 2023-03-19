@@ -19,9 +19,7 @@ I do need to log TUs at some point, but just logging all the main games is going
 You can also find an alt copy of this list at [https://rentry.org/wpqaz](https://rentry.org/wpqaz)  
 And you can find all the icons in the icon folder in this GitHub.
 
-**GameList.csv** is almost the same as the markdown list, but no game icons. Just data.  
+**GameList.tsv** is almost the same as the markdown list, but no game icons. Just data.  
 It can be searched and easily viewed with GitHubs table viewer thing.  
-Please note, some characters like " from 007 and , from Ed, Edd n Eddy had to be removed from the title names to be able to generate a valid csv file.
-
-**GameList.txt** is a raw text dump from my "tools".  
-Might be useful if for some reason you can't ingest the csv into your project.... or you wanna cross reference the title names I had to cut up to fit into the csv in the first place.
+Please note, the charactor `"` had to be removed from the title names to be able to generate a valid tsv file.
+You can cross reference this change with the md or txt lists as they did not have to be removed from there.
