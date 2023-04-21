@@ -1,7 +1,7 @@
 # MobCat's original xbox game ID list
 Og xbox Title ID list
-Last Updated 20230421
-List contains 396 titles so far.
+Last Updated 20230422
+List contains 397 titles so far.
 A *very* long key for this table can be found [Here](https://github.com/MobCat/MobCats-original-xbox-game-list/blob/main/ListKey.md).
 Still working on some things and better tools, so let me know if anything looks weird.
 
@@ -403,4 +403,5 @@ Still working on some things and better tools, so let me know if anything looks 
 | ![0x53450021](https://raw.githubusercontent.com/MobCat/MobCats-original-xbox-game-list/main/icon/53450021-TitleImage.png) | 0x53450021 | SE-033 | segaGTOnline | SEGA | (1) USA / Canada | (3) T - Teen | 0x00000008 | (0x00000202) MEDIA_BOARD? + XBOX DVD | (0x00000005) 64MB RAM limit + Mount Utility Drive | (0xA8E4CCB7) Retail | Thu Dec 11 09:05:36 2003 | B3030A508C963ED329A49D3DE9639BAD | http://redump.org/disc/19271/ (Europe), http://redump.org/disc/56168/ (Japan), http://redump.org/disc/36970/ (USA) |
 | ![0x53550007](https://raw.githubusercontent.com/MobCat/MobCats-original-xbox-game-list/main/icon/53550007-TitleImage.png) | 0x53550007 | SU-007 | エンジェリック・コンサート | Success Corporation | (2) Japan | (0) RP - ALL | 0x00000001 | (0x00000002) XBOX DVD | (0x00000005) 64MB RAM limit + Mount Utility Drive | (0xA8FFE83E) Retail | Wed Jan 22 12:11:55 2003 | D12C652C8E4D85E6964A4B1E489EE717 | http://redump.org/disc/33854/ (Japan) |
 | ![0x53550008](https://raw.githubusercontent.com/MobCat/MobCats-original-xbox-game-list/main/icon/53550008-TitleImage.png) | 0x53550008 | SU-008 | ビストロ・きゅーぴっと２ | Success Corporation | (2) Japan | (0) RP - ALL | 0x00000001 | (0x00000002) XBOX DVD | (0x00000004) 64MB RAM limit | (0xA8F7CF84) Retail | Tue Jun 10 09:07:36 2003 | 03C5CEAE232D05C60397CABBFA417D4D | http://redump.org/disc/55988/ (Japan) |
+| ![0x544B0001](https://raw.githubusercontent.com/MobCat/MobCats-original-xbox-game-list/main/icon/544b0001-TitleImage.png) | 0x544B0001 | TK-001 | マジデスファイト！ | Takuyo | (2) Japan | (0) RP - ALL | 0x00000002 | (0x00000002) XBOX DVD | (0x00000005) 64MB RAM limit + Mount Utility Drive | (0xA8F71AE2) Retail | Thu Jun 13 12:08:59 2002 | D44301F2D8501B7CA58DD9B037C4ED4D | http://redump.org/disc/56162/ (Japan) |
 | ![0x58500001](https://raw.githubusercontent.com/MobCat/MobCats-original-xbox-game-list/main/icon/58500001-TitleImage.png) | 0x58500001 | XP-001 | 鬼疫 | XPEC Entertainment | (2) Japan | (0) RP - ALL | 0x00000001 | (0x00000202) MEDIA_BOARD? + XBOX DVD | (0x00000001) Mount Utility Drive | (0xA8E01160) Retail | Sat Apr 03 08:07:07 2004 | 5B25B09445AC92845031981AFA455143 | http://redump.org/disc/70189/ (Taiwan) |
