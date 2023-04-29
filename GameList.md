@@ -1,10 +1,10 @@
 # MobCat's original xbox game ID list
-Og xbox Title ID list
-Last Updated 20230429
-List contains 495 titles so far.
-A *very* long key for this table can be found [Here](https://github.com/MobCat/MobCats-original-xbox-game-list/blob/main/ListKey.md).
-Still working on some things and better tools, so let me know if anything looks weird.
-
+Og xbox Title ID list<br>
+Last Updated 20230429<br>
+List contains 495 titles so far.<br>
+A *very* long key for this table can be found [Here](https://github.com/MobCat/MobCats-original-xbox-game-list/blob/main/ListKey.md).<br>
+Still working on some things and better tools, so let me know if anything looks weird.<br>
+You can also use middle click and drag to scroll horizontally<br><br>
 
 | Title Image | Title ID HEX | Serial Number | Title Name | Publisher | Region | Rating | Version | Media Type | Init Flags | Entry Point | Cert Timestamp | MD5 Checksum |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
