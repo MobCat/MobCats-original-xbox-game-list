@@ -7,7 +7,7 @@ Still working on some things and better tools, so let me know if anything looks 
 
 
 | Title Image | Title ID HEX | Serial Number | Title Name | Publisher | Region | Rating | Version | Media Type | Init Flags | Entry Point | Cert Timestamp | MD5 Checksum |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | ![0x4541038B](https://raw.githubusercontent.com/MobCat/MobCats-original-xbox-game-list/main/icon/4541038b-TitleImage.png) | 0x4541038B | EA-907 |  | Electronic Arts (EA) | (1) USA / Canada | (3) T - Teen | 0x00000002 | (0x00000202) MEDIA_BOARD? + XBOX DVD | (0x00000007) 64MB RAM limit + Format Utility Drive + Mount Utility Drive | (0xA8DDE8CD) Retail | Fri Sep 23 03:21:41 2005 | 2DA64A90F21A33E1D0E9956B877F99C7 |
 | ![0x4343000D](https://raw.githubusercontent.com/MobCat/MobCats-original-xbox-game-list/main/icon/4343000d-TitleImage.png) | 0x4343000D | CC-013 |  | Capcom | (7) PAL + Japan + USA / Canada | (0) RP - ALL | 0x00000003 | (0x00000002) XBOX DVD | (0x00000005) 64MB RAM limit + Mount Utility Drive | (0xA8EE6572) Retail | Sat Nov 08 05:55:16 2003 | C2A1FD4BBAF4A3414809025614C48AB4 |
 | ![0x43430009](https://raw.githubusercontent.com/MobCat/MobCats-original-xbox-game-list/main/icon/43430009-TitleImage.png) | 0x43430009 | CC-009 |  | Capcom | (7) PAL + Japan + USA / Canada | (3) T - Teen | 0x00000001 | (0x00000202) Chihiro_MEDIA_BOARD + XBOX DVD | (0x00000005) 64MB RAM limit + Mount Utility Drive | (0xA8EE9CDE) Retail | Fri Jan 23 06:51:24 2004 | BA744CBB670C642CE21E5E488CE35092 |
