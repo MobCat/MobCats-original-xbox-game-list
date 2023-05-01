@@ -1,18 +1,18 @@
-**Title Image**  
+**\[Title Image\]**  
 Icon of the game converted from save data on the xbox. This has some issues and bugs dew to old tools...  
 The icon should actually be embedded into the xbe itself, however no tools exist to extract it, only the default post boot microsoft text.
 
-**Title ID HEX**  
+**\[Title ID HEX\]**  
 The hex converted Serial Number  
 We brake the SN into 2 parts and remove the -  
 The front half, the letters are simple ascii to hex converted.  
 The back half is decimal to hex converted.  
 So MS-074 would become 4D53-004A then we drop the - and add the 0x to denote it is a hex code to get 0x4D53004A
 
-**Title ID DEC**  
+**\[Title ID DEC\]**  
 The integer of the hex ID number, this is used for some dev things, but most of the time you can just enter the hex by prefixing it with 0x
 
-**Serial Number**  
+**\[Serial Number\]**  
 This SN is given to the game by the MS cert process, it is an abbreviation of who is publishing the game, and then how many games  
 said publisher has published. So AV-081 is the 81st game Activision has published for the original xbox.  
 This number does get weird however when the publishers abbreviation has already been taken so something close had to be picked.  
@@ -21,7 +21,7 @@ The publisher has published more then 999 games and they need a new abbreviation
 Or the developer published there own game like responDesign.  
 As far as I know it starts at 001, no 000 games have been found or documented.
 
-**Title Name**  
+**\[Title Name\]**  
 The name the developer gave the xbe. May not be respective of what the game is actually called.  
 Eg. TOCA race driver 2 and V8 Super cars 2 are both titled as just Race Driver 2... Because they are the same game, just with different settings.  
 But also games that have a GoTY version or other sub headings probably wont be included in the title name.  
@@ -51,17 +51,12 @@ This table is set to the US ESRB rating by default, a rating number is also incl
 So this game is not affected by xbox parental controls.  
 ESRB Table  
 (0) RP - ALL, (1) AO - Adult, (2) M - Mature, (3) T - Teen, (4) E - Everyone, (5) K-A - Kids to Adults, (6) EC - Early Childhood  
-ACB (Australian Classification Board) Table \[citation needed\]  
-(0) CTC - Check the Classification, (1) MA 15+ Mature Accompanied, (2) M - Mature, (3) PG - Parental Guidance (4) G - General, (5) ???, (6) ???  
-For the ACB how games where rated changed after the xbox came out. for eg. You were not even allowed to sell R18+ games in Australia until like the 7th console gen. When online stores like steam really picked up, where you don't have to rate your games, or put them on a retail shelve where the children might see the box art and be scared for life.  
-And there was "issues" with selling AO games in the US. So most devs and publishers will try and push the game down to an M to get it actually on store shelves.  
+There was "issues" with selling AO games in the US. So most devs and publishers will try and push the game down to an M to get it actually on store shelves.  
 So currently no (1) rated game has been found, we have already checked all the obvious games like manhunt, Fahrenheit, The Punisher, etc.  
 (GTA SA was re-rated and then re-re-rated, but never recompiled in this time so the rating, according to the xbox never changed from (2))  
-The rating tables do not exactly line up from different regions, and more so now days as the ratings changed. So more testing and documentation will be required to fix this table and build more tables.  
-It's a little bit annoying because in the new system the ESRB M17+ does line up to R18+ in ACB, but no other boards like PEGI, RARA or USK have a rating for that.  
-Just goes from 16 to 18. And I'm not sure if it was always like this as ratings over time change. We need rating data from 2001...  
-Citation, All of this rambling could be pointless as from a little testing on the 1.00.5659 dash, parental controls for both games and movies only show when  
-the xbox region is set to (1) North America. Setting it to (2) Asia only gives you parental controls for movies, the option for games is missing. And setting it to (4) Rest of the world completely removes the parental controls setting from the settings menu. Soooo yeah maybe parental controls only work or is used for NTSC-UC games, idk...
+  
+From a little more testing on the 1.00.5659 dash, parental controls for both games and movies only show when  
+the xbox region is set to (1) North America. Setting it to (2) Asia only gives you parental controls for movies, the option for games is missing. And setting it to (4) Rest of the world AKA PAL, completely removes the parental controls setting from the settings menu. So parental controls for games seem to only be used for NTSC-UC games.
 
 **\[Version\]**  
 This info may not be that useful or arbitrary as it was developer set. So they can set it to whatever they want. Or not set it to anything at all.  
