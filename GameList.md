@@ -1,6 +1,6 @@
 # MobCat's original xbox game ID list
 Og xbox Title ID list<br>
-Last Updated 20230505<br>
+Last Updated 20230506<br>
 List contains 563 titles so far.<br>
 A *very* long key for this table can be found [Here](https://github.com/MobCat/MobCats-original-xbox-game-list/blob/main/ListKey.md).<br>
 Still working on some things and better tools, so let me know if anything looks weird.<br>
