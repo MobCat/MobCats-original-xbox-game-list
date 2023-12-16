@@ -68,29 +68,32 @@ I have a check set up, so if the disk number ever returns anything other then 0 
 and the version number changes sometimes but not always.
 
 **\[Media Type\]**  
-The media the xbe is set to be allowed to run off. However every basic xbox mod either softmod, hardmod or xbox emulator will bypass this flag.  
-The thinking is just another check for running dev games on retail, or restricting where your dev game can run.  
-For eg, if you set your dev game to only run of CDs or a pressed xbox dvd, as soon as you copied it to your hdd it won't run.  
-Or if you set your retail game to only ever run of a pressed xbox disk, then in theory it will only ever run off a pressed disk.  
-It's also weird how granular the checks are. eg. just about every type of burned media has a flag.  
-So you could set your game to only run off a burnt dual layer dvd rw, and nothing else. including a normal dvd r.  
-The Chihiro arcade media board (200 MEDIA\_BOARD?) appears to be a default setting of later XDKs and all of these flags can be bypassed with a modded xbox   
-Flag table we add them togther to set multible flas at once.  
-0x00000001: HDD  
-0x00000002: XBOX DVD  
-0x00000004: Any CD / DVD  
-0x00000008: CD  
-0x00000010: DVD\_5\_RO  
-0x00000020: DVD\_9\_RO  
-0x00000040: DVD\_5\_RW  
-0x00000080: DVD\_9\_RW  
-0x00000100: USB Dongle?  
-0x00000200: MEDIA\_BOARD?  
-0x40000000: Unlock HDD  
-0x80000000: NONSECURE\_MODE?  
-0x00FFFFFF: MEDIA\_MASK?  
-Some of these flags are unconfirmed or unknown like USB dongle, non secure mode and masked media.  
-All flags minus the media masked flag set at once is 0x400001FF.
+The media the xbe is set to be allowed to run off. However every basic xbox mod either softmod, hardmod or xbox emulator will bypass this flag.  <br>
+The thinking is just another check for running dev games on retail (outside of the signing key), or restricting where your dev game can run.  <br>
+For eg, if you set your dev game to only run off CDs or a pressed xbox dvd, as soon as you copied it to your hdd it won't run. <br> 
+Or if you set your retail game to only ever run off a pressed xbox disk, then in theory it will only ever run off a pressed disk.  <br>
+It's also weird how granular the checks are. eg. just about every type of burned media has a flag.  <br>
+So you could set your game to only run off a burnt dual layer dvd rw, and nothing else. including a normal dvd r.  <br>
+To set multiple flags at once like Chihiro media board and xbox dvd we just add them together, so 0x00000202 in that case.<br>
+All flags minus the masked media and non-secure mode flags set at once is 0x400003FF.<br>
+Another common media type flag is 0x400001FF.<br>
+0x00000001: HDD  <br>
+0x00000002: XBOX DVD  <br>
+0x00000004: Any CD / DVD  <br>
+0x00000008: CD  <br>
+0x00000010: DVD\_5\_RO  <br>
+0x00000020: DVD\_9\_RO  <br>
+0x00000040: DVD\_5\_RW  <br>
+0x00000080: DVD\_9\_RW  <br>
+0x00000100: USB Dongle <br>
+0x00000200: Chihiro\_MEDIA\_BOARD <br>
+0x40000000: Unlock HDD  <br>
+0x80000000: NONSECURE\_MODE?  <br>
+0x00FFFFFF: MEDIA\_MASK?  <br>
+Some of these flags are unconfirmed or unknown like non secure mode and masked media.  <br>
+USB Dongle refers to the xbox dvd media remote, the dvd player software lives in and runs from the dongle you plug into the console. So the media has to be signed to run like that.<br>
+Chihiro MEDIA BOARD refers to the Chihiro arcade cabinets. This appears to be a default setting for later XDKs post 5455. More common with 5849.<br>
+
 
 **\[Init Flags\]**  
 Initialization flags for the xbe. So when the xbe boots it knows to format and mount the cache drive, or not use the extra ram of a devkit.  
@@ -114,6 +117,10 @@ X is used as a placeholder as the exact memory address is never the same, just t
 A timestamp of when the xbe's certificate was generated, this is not a release date, but it's close enough. And will give you an idea of when the game was made.  
 Like for eg. the Chihiro arcade media board thing, we can confirm that any game that has it is from around 2003+ and games that don't, are made at launch or up until then.  
 I need to do some more homework to see what XDK revision came out then that devs had to upgrade to and test out this default flag.
+
+**\[XDK Version\]**
+This is the version of the xbox develment kit that was used to compile this defult.xbe
+Sometimes a game will have miltible 
 
 **\[MD5 Checksum\]**  
 This is a unique MD5 checksum of the xbe this info was pulled from. If your xbe has the same checksum but not the same info, we have issues...
