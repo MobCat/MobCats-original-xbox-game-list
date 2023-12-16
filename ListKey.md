@@ -22,12 +22,12 @@ Or the developer published there own game like responDesign.
 As far as I know it starts at 001, no 000 games have been found or documented.
 
 **\[Title Name\]**  
-The name the developer gave the xbe. May not be respective of what the game is actually called.  
+The name the developer gave the xbe. May not be respective of what the game is actually called by the public.  
 Eg. TOCA race driver 2 and V8 Super cars 2 are both titled as just Race Driver 2... Because they are the same game, just with different settings.  
 But also games that have a GoTY version or other sub headings probably wont be included in the title name.  
-This does have Unicode to ASCII convert issues dew to old tools.  So it needs to be updated.  
-Also some characters had to be stripped from the csv to keep GitHub happy.  
-I'm not happy with this, but it will have to do for now.
+If the title is missing a name, or it is not very descriptive like DJFFNY your best bet is to get the games Serial Number, in this case EA-073<br>
+and ctrl+f if it in [this](https://raw.githubusercontent.com/MobCat/MobCats-original-xbox-game-list/main/redump-xbox.json) json file I made for re-dump games.<br>
+This may be automated at some point, but there isn't enough exactly correlating information from redump and my list to get the titles on the right versions of the game at this time.<br>
 
 **\[Publisher\]**  
 This is a guess based of the SN, not all publishers have been confirmed or known.    
@@ -46,13 +46,14 @@ The number at the start in an int convert from the hex flag, and is intended to 
 So 3 would be USA / Canada + Japan, 5 would be USA + PAL, 7 would be all of them and so on.
 
 **\[Rating\]**  
-This table is set to the US ESRB rating by default, a rating number is also included so a table can be built for your region.    
+This table is set to the US ESRB rating by default, a rating number is also included so a table can be built for your region.
+(However this rating system is only ever used for US xbox games, and is otherwise ignored or not added by other region games and consoles)<br>    
 (0) RP - ALL is a little bit of a misnomer. RP does stand for Rating Pending, However in this case, it just means no rating was set for this xbe.  
 So this game is not affected by xbox parental controls.  
 ESRB Table  
 (0) RP - ALL, (1) AO - Adult, (2) M - Mature, (3) T - Teen, (4) E - Everyone, (5) K-A - Kids to Adults, (6) EC - Early Childhood  
 There was "issues" with selling AO games in the US. So most devs and publishers will try and push the game down to an M to get it actually on store shelves.  
-So currently no (1) rated game has been found, we have already checked all the obvious games like manhunt, Fahrenheit, The Punisher, etc.  
+So currently no (1) rated legitimately published game has been found. We have already checked all the obvious games like manhunt, Fahrenheit, The Punisher, etc.  
 (GTA SA was re-rated and then re-re-rated, but never recompiled in this time so the rating, according to the xbox never changed from (2))  
   
 From a little more testing on the 1.00.5659 dash, parental controls for both games and movies only show when  
@@ -118,9 +119,13 @@ A timestamp of when the xbe's certificate was generated, this is not a release d
 Like for eg. the Chihiro arcade media board thing, we can confirm that any game that has it is from around 2003+ and games that don't, are made at launch or up until then.  
 I need to do some more homework to see what XDK revision came out then that devs had to upgrade to and test out this default flag.
 
-**\[XDK Version\]**
-This is the version of the xbox develment kit that was used to compile this defult.xbe
-Sometimes a game will have miltible 
+**\[XDK Version\]**<br>
+This is the version of the xbox development kit that was used to compile this default.xbe
+Sometimes a game will have multiple XDK vers listed on my list.
+This is because sometimes a developer may not have there XDK fully up to date for various reasons.
+So some libraries used will be older then others, you will have to use the tools to view which libraries are compiled for witch XDK.
+For the most part, and especially now days 20 years on, this will not impact gameplay.
+The xbox will just load those compiled libraries from the xbe as is, and as needed, and the xbox will just play them fine  (v1.6 xbox issues aside which is kinda unrelated to this).
 
 **\[MD5 Checksum\]**  
 This is a unique MD5 checksum of the xbe this info was pulled from. If your xbe has the same checksum but not the same info, we have issues...
