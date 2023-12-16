@@ -9,17 +9,24 @@ Games that use multiple xbes like morrowind, Unreal II, a lot of compellation di
 or any game that has a Title Update, so that is actually what's booting not the default xbe may produce different metadata.  
 Because of this I'm not documenting anything that's not a "default.xbe" for now, It will just devolve into madness quickly.  
 Like if I where also to dump and log all the save game icons, not just the title icons.  
-I do need to log TUs at some point, but just logging all the main games is going to be enough work.
+I do need to log TUs at some point, but just logging all the default.xbe from games is going to be enough work.
 
-# Lists in this repo
+# December 2023 Update
+Merry Christmas I guess.<br>
+So just getting back into this yet again so time to update some things<br>
+as the list is now over 600 games strong it has out grown github as well as that's to much data for the table rendering feature<br>
+So I'm mostly using this repo as file storage and you can view the list now on my website [Over Here](https://www.mobcat.zip/XboxIDs/).<br>
 
-**ListKey.md** is well, the key for the table. It explains what the categories in the list are.
+At some point I will make the tools to generate this list available, but they need a lot of clean up and scope creep has set in so I got a lot more to add.<br>
+(And some tools to just remake from python to go or c idk yet)<br>
 
-**GameList.md** is the nice list, with icons and stuff.  
-You can also find an alt copy of this list at [https://rentry.org/wpqaz](https://rentry.org/wpqaz)  
-And you can find all the icons in the icon folder in this GitHub.
+# File lists
+So in this repo there are 2 main folders, `xbx` and `icon`.<br>
+`xbx` is the raw original game icon ripped from the xbox<br>
+`icon` is the xbx icon converted into a png where possible<br>
+If you would like to download the whole database file, this can be done from my website, listed above.<br><br>
 
-**GameList.tsv** is almost the same as the markdown list, but no game icons. Just data.  
-It can be searched and easily viewed with GitHubs table viewer thing.  
-Please note, the charactor `"` had to be removed from the title names to be able to generate a valid tsv file.
-You can cross reference this change with the md or txt lists as they did not have to be removed from there.
+Because of the state of the currant tool set, not all xbx icons can be converted into pngs as later games where compiled with newer XDKs
+that the tools do not account for or know how to read properly.<br>
+And for these later games, the xbxs can be ripped right from the xbe itself without needing to run the game first.<br>
+But yeah still need to finish making those tools...
