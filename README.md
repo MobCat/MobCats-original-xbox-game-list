@@ -30,3 +30,11 @@ Because of the state of the currant tool set, not all xbx icons can be converted
 that the tools do not account for or know how to read properly.<br>
 And for these later games, the xbxs can be ripped right from the xbe itself without needing to run the game first.<br>
 But yeah still need to finish making those tools...
+
+# Notes
+It appears that all CDX Menu games like MS-32973 (4D5380CD) "Halo 2 Multiplayer Map Pack (World) (En,Ja,Fr,De,Es,It,Zh,Ko)" <br>
+do not contain title icons. Imbedded or otherwise, even know these titles are compiled with the 5849 XDK, which allows for imbedded title icons.<br><br>
+
+XL-32788 (584C8014) "Forza Motorsport + Xbox Live Arcade (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)" Is known about, however is not on this list because of the 
+aforementioned CDX issues and that we are only documenting the default.xbe and no other xbe on the disk.
+(So we would be documenting the CDX menu itself, not the games it loads)
