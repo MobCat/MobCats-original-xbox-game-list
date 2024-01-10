@@ -32,9 +32,12 @@ And for these later games, the xbxs can be ripped right from the xbe itself with
 But yeah still need to finish making those tools...
 
 # Notes
-It appears that all CDX Menu games like MS-32973 (4D5380CD) "Halo 2 Multiplayer Map Pack (World) (En,Ja,Fr,De,Es,It,Zh,Ko)" <br>
+It appears that all CDX Menu games like MS-32973 (4D5380CD) `Halo 2 Multiplayer Map Pack (World) (En,Ja,Fr,De,Es,It,Zh,Ko)` <br>
 do not contain title icons. Imbedded or otherwise, even know these titles are compiled with the 5849 XDK, which allows for imbedded title icons.<br><br>
 
-XL-32788 (584C8014) "Forza Motorsport + Xbox Live Arcade (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)" Is known about, however is not on this list because of the 
-aforementioned CDX issues and that we are only documenting the default.xbe and no other xbe on the disk.
-(So we would be documenting the CDX menu itself, not the games it loads)
+XL-32788 (584C8014) `Forza Motorsport + Xbox Live Arcade (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)` Is known about, however is not on this list because of the<br>
+aforementioned CDX issues and that we are only documenting the default.xbe and no other xbe on the disk.<br>
+(So we would be documenting the CDX menu itself, not the games it loads)<br><br>
+
+A dump of the 1.0 copy of `Grand Theft Auto - Vice City (Japan)` is assumed to exist, however only the `Grand Theft Auto - Vice City (Japan) (Rev 1)` is available.<br>
+As soon as this 1.0 copy turns up, I will add it.
