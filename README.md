@@ -33,11 +33,16 @@ But yeah still need to finish making those tools...
 
 # Notes
 It appears that all CDX Menu games like MS-32973 (4D5380CD) `Halo 2 Multiplayer Map Pack (World) (En,Ja,Fr,De,Es,It,Zh,Ko)` <br>
-do not contain title icons. Imbedded or otherwise, even know these titles are compiled with the 5849 XDK, which allows for imbedded title icons.<br><br>
+Do not contain title icons. Imbedded or otherwise, even know these titles are compiled with the 5849 XDK, which allows for imbedded title icons.<br>
+Also a lot of the time, the developer won't even change the title name from the default sample code `CDX` name. Because of this we will not be documenting CDX demos just yet.<br>
+We will need to add a few more bits of info to our list like filenames so we don't end up with like 30 entries that are just `CDX` with no icons.<br><br>
 
 XL-32788 (584C8014) `Forza Motorsport + Xbox Live Arcade (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)` Is known about, however is not on this list because of the<br>
 aforementioned CDX issues and that we are only documenting the default.xbe and no other xbe on the disk.<br>
 (So we would be documenting the CDX menu itself, not the games it loads)<br><br>
+
+LA-0016 (4C410010) `LucasArts Xbox Experience Volume 01 (USA)`<br>
+is another CDX demo pack that is known about but not on my list.<br><br>
 
 A dump of the 1.0 copy of `Grand Theft Auto - Vice City (Japan)` is assumed to exist, however only the `Grand Theft Auto - Vice City (Japan) (Rev 1)` is available.<br>
 As soon as this 1.0 copy turns up, I will add it.
