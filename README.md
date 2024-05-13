@@ -46,3 +46,14 @@ is another CDX demo pack that is known about but not on my list.<br><br>
 
 A dump of the 1.0 copy of `Grand Theft Auto - Vice City (Japan)` is assumed to exist, however only the `Grand Theft Auto - Vice City (Japan) (Rev 1)` is available.<br>
 As soon as this 1.0 copy turns up, I will add it.
+
+MS-042 (4D53002A) Midtown Madness 3 <br>
+`Midtown Madness 3 (USA)`<br>
+`Midtown Madness 3 (Japan)`<br>
+`Midtown Madness 3 (Europe, Australia) (En,Fr,De,Es,It)`<br>
+`Midtown Madness 3 (Asia)`<br>
+The title ID and other basic info is correct, however the file is not clean so the checksum is incorrect <br>
+(this is an issue with how extract-xiso extracts some redump iso where sometimes it edits / reorders some bytes. <sup>\[citation needed]</sup><br>
+The game will boot fine, but wont preform the binary diff xlive update.<br>
+xdvdfs is a little better but it has its own problems where its a raw extractor, not a converter. So the disk structure is not maintained, and there is no convert from redump to xiso. Just get the files out of the redump and put them in a clean xiso.<br>
+This will be cleaned up in v2 of this list when we become more of a database not just a title ID list.
