@@ -45,7 +45,7 @@ LA-0016 (4C410010) `LucasArts Xbox Experience Volume 01 (USA)`<br>
 is another CDX demo pack that is known about but not on my list.<br><br>
 
 A dump of the 1.0 copy of `Grand Theft Auto - Vice City (Japan)` is assumed to exist, however only the `Grand Theft Auto - Vice City (Japan) (Rev 1)` is available.<br>
-As soon as this 1.0 copy turns up, I will add it.
+As soon as this 1.0 copy turns up, I will add it.<br><br>
 
 MS-042 (4D53002A) Midtown Madness 3 <br>
 `Midtown Madness 3 (USA)`<br>
@@ -56,4 +56,9 @@ The title ID and other basic info is correct, however the file is not clean so t
 (this is an issue with how extract-xiso extracts some redump iso where sometimes it edits / reorders some bytes. <sup>\[citation needed]</sup><br>
 The game will boot fine, but wont preform the binary diff xlive update.<br>
 xdvdfs is a little better but it has its own problems where its a raw extractor, not a converter. So the disk structure is not maintained, and there is no convert from redump to xiso. Just get the files out of the redump and put them in a clean xiso.<br>
-This will be cleaned up in v2 of this list when we become more of a database not just a title ID list.
+This will be cleaned up in v2 of this list when we become more of a database not just a title ID list.<br><br>
+
+TC-013 (5443000D) Ninja Gaiden Black (Japan) <br>
+`Ninja Gaiden Black (Japan) (En,Ja).iso`<br>
+Is on a list of available xbox isos to download, however it is currently unavailable for me to download. It is also unconfirmed this version is even real.<br>
+I'm putting it here more as a note, not sure if it's real, but if it is, then we know about it, but it's missing like `Grand Theft Auto - Vice City (Japan)`.
