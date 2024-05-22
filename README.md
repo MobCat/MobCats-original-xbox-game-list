@@ -66,3 +66,11 @@ I'm putting it here more as a note, not sure if it's real, but if it is, then we
 Official Xbox Magazine (OGX) cover disks<br>
 These have been skipped for now, we will get back to them but they are CDX games, so I need to add that data category to the list<br>
 I would also like to find a complete redump iso set, for all regions of this before I work on it.<br><br>
+
+(53450010) NCAA Football 2K3<br>
+Is known about but missing.<br>
+Not sure why, this seems like it would be a common game.<br><br>
+
+(45460001) Nobunaga Mahjong<br>
+`SincyouMj`<br>
+Is known about but missing. As this is a Japanese game, a dump may not exist yet or is hard to find.<br><br>
