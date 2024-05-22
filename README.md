@@ -61,4 +61,8 @@ This will be cleaned up in v2 of this list when we become more of a database not
 TC-013 (5443000D) Ninja Gaiden Black (Japan) <br>
 `Ninja Gaiden Black (Japan) (En,Ja).iso`<br>
 Is on a list of available xbox isos to download, however it is currently unavailable for me to download. It is also unconfirmed this version is even real.<br>
-I'm putting it here more as a note, not sure if it's real, but if it is, then we know about it, but it's missing like `Grand Theft Auto - Vice City (Japan)`.
+I'm putting it here more as a note, not sure if it's real, but if it is, then we know about it, but it's missing like `Grand Theft Auto - Vice City (Japan)`.<br><br>
+
+Official Xbox Magazine (OGX) cover disks<br>
+These have been skipped for now, we will get back to them but they are CDX games, so I need to add that data category to the list<br>
+I would also like to find a complete redump iso set, for all regions of this before I work on it.<br><br>
