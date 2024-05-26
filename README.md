@@ -110,3 +110,9 @@ I would also like to find a complete redump iso set, for all regions of this bef
 (45460001) Nobunaga Mahjong<br>
 `SincyouMj`<br>
 Is known about but missing. As this is a Japanese game, a dump may not exist yet or may be hard to find.<br><br>
+
+CC-011 (4343000B) Pro Cast Sports Fishing Game<br>
+Contains a title icon conflict. In Japan (XMID: CC01101J) The game is known as Lakemasters Bass Fishing Game,<br>
+but In the US (CC01102A) and PAL (CC01103E), the game is called Pro Cast Sports Fishing Game. And both games have unique title icons to reflect this as the title icon is just the games logo text.<br>
+<i>however</i> because of how the xbox, and in turn I am storing title icons, `/E/UData/4343000b/SaveImage.xbx` Icon and the savedata for this game will overwrite each other and conflict.<br>
+Meaning that the title image we have saved will only be for CC01101J, as all the tools, and the xbox it's self things we have already played and dump this games save data. I currently do not have a solution for this.
