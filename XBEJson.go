@@ -171,14 +171,14 @@ func availablePatches(titleID string) []Patch {
 func entryPointDecode(entryPoint uint32) string {
 	entryPointStr := fmt.Sprintf("%X", entryPoint)[:2]
 	if entryPointStr == "E6" {
-        return "Beta"
-    } else if entryPointStr == "94" {
-        return "Debug"
-    } else if entryPointStr == "A8" {
-        return "Retail"
-    } else {
-        return "Unknown"
-    }
+		return "Beta"
+	} else if entryPointStr == "94" {
+		return "Debug"
+	} else if entryPointStr == "A8" {
+		return "Retail"
+	} else {
+		return "Unknown"
+	}
 }
 
 // Convert epoch time back to a timestamp string
@@ -208,11 +208,11 @@ var mediaDecode = map[uint32]string{
 }
 var initDecode = map[uint32]string{
 	0x00000000: "No flags set",
-    0x00000001: "Mount Utility Drive",  //
-    0x00000002: "Format Utility Drive", //
-    0x00000004: "64MB RAM limit",       // Limit game from useing more then 64MB of ram on dev kits for testing. Applys to retail consoles aswell
-    0x00000008: "Don't setup HDD",      //
-    0x80000000: "Unused high bit (8)?", // No idea what this is, but it's flagged on a lot of games.
+	0x00000001: "Mount Utility Drive",  //
+	0x00000002: "Format Utility Drive", //
+	0x00000004: "64MB RAM limit",       // Limit game from useing more then 64MB of ram on dev kits for testing. Applys to retail consoles aswell
+	0x00000008: "Don't setup HDD",      //
+	0x80000000: "Unused high bit (8)?", // No idea what this is, but it's flagged on a lot of games.
 }
 var regionDecode = map[uint32]string{
 	0x00000001: "USA / Canada",
@@ -249,8 +249,8 @@ var ratingDecode = map[uint32]string{
 // We probs also should have the script load this data from an external file so we don't have to re-compile *every* time we need to update this.
 // But again this is only an issue for in-dev. Once the list is done, we can just hardcode it and use pubList[intal]
 func lookupPublisher(intal string, titleID string) string {
-    var pubList = map[string]string{
-        "AC": "Acclaim Entertainment",
+	var pubList = map[string]string{
+		"AC": "Acclaim Entertainment",
 		"AH": "ARUSH Entertainment",
 		"AQ": "Aqua System",
 		"AS": "ASK",
@@ -357,29 +357,29 @@ func lookupPublisher(intal string, titleID string) string {
 		"XR": "Panorama",
 		"YB": "YBM Sisa (South-Korea)",
 		"ZD": "Zushi Games (formerly Zoo Digital Publishing)",
-    }
+	}
 
-    val, ok := pubList[intal]
-    if !ok {
-        panic(fmt.Sprintf("\n!!!ERROR!!!\nPublisher %q not found for %q", intal, titleID))
-    }
+	val, ok := pubList[intal]
+	if !ok {
+		panic(fmt.Sprintf("\n!!!ERROR!!!\nPublisher %q not found for %q", intal, titleID))
+	}
 
-    return val
+	return val
 }
 
 // Actual function to decode flags using the maps.
 func decodeDIPSwitch(hexFlag uint32, dictionary map[uint32]string) string {
-    var components []string
-    for bit := 31; bit >= 0; bit-- {
-        if flag := uint32(1 << uint(bit)); hexFlag&flag != 0 {
-            if component, ok := dictionary[flag]; ok {
-                components = append(components, component)
-                hexFlag -= flag
-            }
-        }
-    }
-    //return components // retunrs the list, as well a list..
-    return strings.Join(components, " + ")
+	var components []string
+	for bit := 31; bit >= 0; bit-- {
+		if flag := uint32(1 << uint(bit)); hexFlag&flag != 0 {
+			if component, ok := dictionary[flag]; ok {
+				components = append(components, component)
+				hexFlag -= flag
+			}
+		}
+	}
+	//return components // retunrs the list, as well a list..
+	return strings.Join(components, " + ")
 }
 
 func main() {
@@ -412,23 +412,23 @@ func main() {
 	// Uses that number to decode all of them from the xbe
 	libraryInfo, err := readXBELibraries(file, int(libCntNum), header.LibraryVersionsAddress, header.BaseAddress)
 	if err != nil {
-	    fmt.Println("Error reading XBE libraries:", err)
-	    return
+		fmt.Println("Error reading XBE libraries:", err)
+		return
 	}
 	libBuildvers := []string{}
-    if len(libraryInfo.Libraries) > 0 {
-    	for _, library := range libraryInfo.Libraries {
+	if len(libraryInfo.Libraries) > 0 {
+		for _, library := range libraryInfo.Libraries {
 			libBuildvers = append(libBuildvers, strconv.Itoa(int(library.BuildVersion)))
 		}
 		// Remove duplicates from libBuildvers
 		seen := make(map[string]bool)
 		j := 0
 		for i, v := range libBuildvers {
-		    if !seen[v] {
-		        seen[v] = true
-		        libBuildvers[j] = libBuildvers[i]
-		        j++
-		    }
+			if !seen[v] {
+				seen[v] = true
+				libBuildvers[j] = libBuildvers[i]
+				j++
+			}
 		}
 		libBuildvers = libBuildvers[:j]
 	
@@ -446,17 +446,17 @@ func main() {
 
 	// Not sure if I should build an error catch just for revolt
 	// Convert upper 4 of title id
-    hexBytes, _ := hex.DecodeString(titleID[:4])
-    asciiStr := string(hexBytes)
-    // Convert lower 4 of title id
-    decNum, _ := strconv.ParseInt(titleID[4:], 16, 32)
-    fmt.Printf("\"Serial_Num\": \"%s-%03d\",\n", asciiStr, decNum)
+	hexBytes, _ := hex.DecodeString(titleID[:4])
+	asciiStr := string(hexBytes)
+	// Convert lower 4 of title id
+	decNum, _ := strconv.ParseInt(titleID[4:], 16, 32)
+	fmt.Printf("\"Serial_Num\": \"%s-%03d\",\n", asciiStr, decNum)
 
-    // XMID Xbox Manufacturing ID? Used to ID what disk you have, more persific then just title ID.
-    // Can be found in redump as a Rings Mastering Code
-    versionHexStr := fmt.Sprintf("%08X", certificate.Version)
-    versionDecimal, _ := strconv.ParseInt(versionHexStr[len(versionHexStr)-2:], 16, 32)
-    fmt.Printf("\"XMID\": \"%s%03d%02d%s\",\n", asciiStr, decNum, versionDecimal, XMIDregionDecode[certificate.GameRegion])
+	// XMID Xbox Manufacturing ID? Used to ID what disk you have, more persific then just title ID.
+	// Can be found in redump as a Rings Mastering Code
+	versionHexStr := fmt.Sprintf("%08X", certificate.Version)
+	versionDecimal, _ := strconv.ParseInt(versionHexStr[len(versionHexStr)-2:], 16, 32)
+	fmt.Printf("\"XMID\": \"%s%03d%02d%s\",\n", asciiStr, decNum, versionDecimal, XMIDregionDecode[certificate.GameRegion])
 
 	titleName := utf16.Decode(certificate.TitleName[:])
 	titleNameStr := strings.TrimRight(string(titleName), "\x00")
