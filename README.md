@@ -107,10 +107,6 @@ Official Xbox Magazine (OGX) cover disks<br>
 These have been skipped for now, we will get back to them but they are CDX games, so I need to add that data category to the list<br>
 I would also like to find a complete redump iso set, for all regions of this before I work on it.<br><br>
 
-(45460001) Nobunaga Mahjong<br>
-`SincyouMj`<br>
-Is known about but missing. As this is a Japanese game, a dump may not exist yet or may be hard to find.<br><br>
-
 CC-011 (4343000B) Pro Cast Sports Fishing Game<br>
 Contains a title icon conflict. In Japan (XMID: CC01101J) The game is known as Lakemasters Bass Fishing Game,<br>
 but In the US (CC01102A) and PAL (CC01103E), the game is called Pro Cast Sports Fishing Game. And both games have unique title icons to reflect this as the title icon is just the games logo text.<br>
