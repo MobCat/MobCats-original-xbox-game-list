@@ -251,6 +251,7 @@ var ratingDecode = map[uint32]string{
 func lookupPublisher(intal string, titleID string) string {
 	var pubList = map[string]string{
 		"AC": "Acclaim Entertainment",
+		"AD": "Andamiro USA Corp.",
 		"AH": "ARUSH Entertainment",
 		"AQ": "Aqua System",
 		"AS": "ASK",
@@ -299,13 +300,13 @@ func lookupPublisher(intal string, titleID string) string {
 		"IX": "InXile Entertainment",
 		"JA": "Jaleco",
 		"JW": "JoWooD",
-		"KA": "Konami (Osaka?)", //Jikkyou world socker 2002
+		"KA": "Konami", // Osaka only? Only found on Jikkyou world socker 2002 so far
 		"KB": "Kemco",
 		"KI": "Kids Station Inc.",
 		"KK": "Kiki Co., Ltd.",
 		"KN": "Konami",
 		"KO": "KOEI",
-		"KU": "Kobi and/or GAE (formerly Global A Entertainment)",
+		"KU": "Kobi and/or GAE", // formerly Global A Entertainment
 		"LA": "LucasArts",
 		"LS": "Black Bean Games", // Publishing arm of Leader S.p.A.
 		"MD": "Metro3D",
@@ -331,12 +332,12 @@ func lookupPublisher(intal string, titleID string) string {
 		"SN": "SNK",
 		"SP": "SouthPeak Interactive",
 		"SS": "Simon & Schuster",
-		"ST": "Studio 9", // Zillernet, unconfirmed as I cant find solid english info on this title. Like a high res conver scan.
+		"ST": "Studio 9", // Zillernet, unconfirmed as I can't find solid english info on this title. Like a high res conver scan.
 		"SU": "Success Corporation",
 		"SW": "Swing! Deutschland",
 		"TA": "Takara",
 		"TC": "Tecmo",
-		"TD": "The 3DO Company", // or just 3DO
+		"TD": "The 3DO Company", // Or just 3DO
 		"TK": "Takuyo",
 		"TM": "TDK Mediactive",
 		"TQ": "THQ",
@@ -344,9 +345,9 @@ func lookupPublisher(intal string, titleID string) string {
 		"TT": "Take-Two Interactive Software",
 		"US": "Ubisoft",
 		"VC": "Victor Interactive Software",
-		"VN": "Vivendi Universal (just took Interplays publishing rights)",
+		"VN": "Vivendi Universal", // Just took Interplays publishing rights
 		"VU": "Vivendi Universal Games",
-		"VV": "Vivendi Universal Games (PAL?)",
+		"VV": "Vivendi Universal Games", // PAL Only?
 		"WE": "Wanadoo Edition",
 		"WR": "Warner Bros. Interactive Entertainment",
 		"XI": "XPEC Entertainment and Idea Factory",
@@ -355,8 +356,8 @@ func lookupPublisher(intal string, titleID string) string {
 		"XM": "Evolved Games",
 		"XP": "XPEC Entertainment",
 		"XR": "Panorama",
-		"YB": "YBM Sisa (South-Korea)",
-		"ZD": "Zushi Games (formerly Zoo Digital Publishing)",
+		"YB": "YBM Sisa", // South-Korea
+		"ZD": "Zushi Games", // Formerly Zoo Digital Publishing
 	}
 
 	val, ok := pubList[intal]
