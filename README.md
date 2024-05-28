@@ -116,3 +116,8 @@ Contains a title icon conflict. In Japan (XMID: CC01101J) The game is known as L
 but In the US (CC01102A) and PAL (CC01103E), the game is called Pro Cast Sports Fishing Game. And both games have unique title icons to reflect this as the title icon is just the games logo text.<br>
 <i>however</i> because of how the xbox, and in turn I am storing title icons, `/E/UData/4343000b/SaveImage.xbx` Icon and the savedata for this game will overwrite each other and conflict.<br>
 Meaning that the title image we have saved will only be for CC01101J, as all the tools, and the xbox it's self things we have already played and dump this games save data. I currently do not have a solution for this.
+
+IG-021 (49470015)<br>
+Another title ID conflict, this one shares the same issues as a well known game we will cover soon but in the US (IG02104A) is called APEX and has custom in-game art and icons to reflect this<br>
+In PAL regions (IG02103E) This game is called Racing Evoluzione<br>
+The game play, game engine, all of that stuff is the same, the menu art and logos are just skinned differently based on regions.<br>
