@@ -36,6 +36,24 @@
         "Sectors": "3820880",
         "Size": "7825162240"
     },
+    "EA06603J": {
+        "Region": [
+            "Asia"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Serial": "EA-066",
+        "Added": "2024-05-07 12:25",
+        "Name": "007: Everything or Nothing",
+        "Link": "http://redump.org/disc/114466/",
+        "CRC-32": "3820880",
+        "MD5": "0b4140d576a95f9e9b8785db8e0f0b7a",
+        "SHA-1": "306777161312f9896398b43e305280aa2c66ba4d",
+        "Filename": "007 - Everything or Nothing (Asia)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
     "EA06602E": {
         "Region": [
             "Europe"
@@ -91,6 +109,24 @@
         "MD5": "2ffbdc405f045861297e4fc7d2bd0dbf",
         "SHA-1": "1854ecc58e1ac1d59fa66b415bdf7437b74e8fa2",
         "Filename": "007 - Everything or Nothing (USA)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
+    "EA12105J": {
+        "Region": [
+            "Asia"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Serial": "EA-121",
+        "Added": "2024-05-07 12:26",
+        "Name": "007: From Russia with Love",
+        "Link": "http://redump.org/disc/114467/",
+        "CRC-32": "3820880",
+        "MD5": "d7e3565c7d464788efb4687f1a746843",
+        "SHA-1": "2bce720dcc7f06fd884d603c1d74a742146e24e2",
+        "Filename": "007 - From Russia with Love (Asia)",
         "Sectors": "3820880",
         "Size": "7825162240"
     },
@@ -236,6 +272,41 @@
         "Sectors": "3820880",
         "Size": "7825162240"
     },
+    "IM00113E": {
+        "Region": [
+            "UK"
+        ],
+        "Serial": "IM-001",
+        "Added": "2023-02-14 23:42",
+        "Modified": "2024-03-26 07:47",
+        "Name": "The Official Xbox 50 Best Games",
+        "Link": "http://redump.org/disc/101979/",
+        "CRC-32": "3820880",
+        "MD5": "5b003eb75669e1081e896cce59e168a7",
+        "SHA-1": "6975a437e6c4aca61773c650fc9b730a60ac0b0c",
+        "Filename": "Official Xbox 50 Best Games, The (UK)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
+    "IM00115E": {
+        "Region": [
+            "UK"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Serial": "IM-001",
+        "Added": "2024-03-26 07:36",
+        "Modified": "2024-03-27 02:45",
+        "Name": "The Official Xbox Live Disc",
+        "Link": "http://redump.org/disc/113163/",
+        "CRC-32": "3820880",
+        "MD5": "f9c71494cdd57948186744ef9c210ec7",
+        "SHA-1": "9c1d2894b8c640faa9b3f31628751d6148dec1bb",
+        "Filename": "Official Xbox Live Disc, The (UK)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
     "IM00102E": {
         "Region": [
             "Europe",
@@ -278,6 +349,25 @@
         "Sectors": "3820880",
         "Size": "7825162240"
     },
+    "IM00114E": {
+        "Region": [
+            "UK"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Serial": "IM-001",
+        "Added": "2024-03-27 02:32",
+        "Modified": "2024-03-27 03:16",
+        "Name": "The Official Xbox Playable Cheats",
+        "Link": "http://redump.org/disc/113171/",
+        "CRC-32": "3820880",
+        "MD5": "def3e67560b71e059cb95e7c8e457cb4",
+        "SHA-1": "e4b051d1bfb11f6841010ee5aa87f316f12125d2",
+        "Filename": "Official Xbox Playable Cheats, The (UK)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
     "IM00112E": {
         "Region": [
             "UK"
@@ -313,22 +403,6 @@
         "MD5": "3e6eae27819c03d380946eb18d690f5f",
         "SHA-1": "f5956569b55c2f03df1cd2f12f6bdab5c4a7b77a",
         "Filename": "Offizielle Xbox-Magazin, Das - Cover-DVD 08-2002 (Germany)",
-        "Sectors": "3820880",
-        "Size": "7825162240"
-    },
-    "IM00113E": {
-        "Region": [
-            "UK"
-        ],
-        "Serial": "IM-001",
-        "Added": "2023-02-14 23:42",
-        "Modified": "2024-03-26 07:47",
-        "Name": "The Official Xbox 50 Best Games",
-        "Link": "http://redump.org/disc/101979/",
-        "CRC-32": "3820880",
-        "MD5": "5b003eb75669e1081e896cce59e168a7",
-        "SHA-1": "6975a437e6c4aca61773c650fc9b730a60ac0b0c",
-        "Filename": "Official Xbox 50 Best Games, The (UK)",
         "Sectors": "3820880",
         "Size": "7825162240"
     },
@@ -778,6 +852,21 @@
         "MD5": "9ed0c217dc400418ad30033f11dd6291",
         "SHA-1": "002e645e07d6846b70d94e0c73c28f5108b03e9b",
         "Filename": "AirForce Delta II (Japan) (En,Ja)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
+    "KN00201A": {
+        "Region": [
+            "USA"
+        ],
+        "Serial": "KN-002",
+        "Added": "2023-12-29 14:42",
+        "Name": "AirForce Delta Storm",
+        "Link": "http://redump.org/disc/110985/",
+        "CRC-32": "3820880",
+        "MD5": "3db80b76e5db5facb92e181ff4b1cd64",
+        "SHA-1": "de39287b2470e94d2039e416cd15ba347a5e5c15",
+        "Filename": "AirForce Delta Storm (USA)",
         "Sectors": "3820880",
         "Size": "7825162240"
     },
@@ -1599,25 +1688,6 @@
         "MD5": "adff2c5b3679d1e7493528ad79e67efa",
         "SHA-1": "1b73e9a05948b7ba8e3d9eaa6b7671366fc97384",
         "Filename": "Arena Football (USA)",
-        "Sectors": "3820880",
-        "Size": "7825162240"
-    },
-    "LA01305J": {
-        "Region": [
-            "Asia"
-        ],
-        "Languages": [
-            "English"
-        ],
-        "Serial": "LA-013",
-        "Added": "2012-01-17 14:24",
-        "Modified": "2016-02-07 18:11",
-        "Name": "Armed and Dangerous",
-        "Link": "http://redump.org/disc/23018/",
-        "CRC-32": "3820880",
-        "MD5": "b4c47ef58c853790fb4023926357872a",
-        "SHA-1": "de44893c78cc7a641969eb9625d805f90431d9ba",
-        "Filename": "Armed and Dangerous (Asia)",
         "Sectors": "3820880",
         "Size": "7825162240"
     },
@@ -12697,6 +12767,24 @@
         "Sectors": "3820880",
         "Size": "7825162240"
     },
+    "TC00406J": {
+        "Region": [
+            "Asia"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Serial": "TC-004",
+        "Added": "2024-02-10 14:28",
+        "Name": "Fatal Frame: Zero",
+        "Link": "http://redump.org/disc/111851/",
+        "CRC-32": "3820880",
+        "MD5": "e2a1574b8178ba0a531d3918a8a533c5",
+        "SHA-1": "ae4fc19fb947d016ba7c953eb37a689900aedc86",
+        "Filename": "Fatal Frame - Zero (Asia)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
     "TC00402J": {
         "Region": [
             "Japan"
@@ -13928,32 +14016,6 @@
         "Sectors": "3820880",
         "Size": "7825162240"
     },
-    "XL02070W": {
-        "Region": [
-            "USA"
-        ],
-        "Languages": [
-            "Chinese",
-            "English",
-            "French",
-            "German",
-            "Italian",
-            "Japanese",
-            "Korean",
-            "Spanish"
-        ],
-        "Serial": "XL-020",
-        "Added": "2009-02-21 17:56",
-        "Modified": "2023-07-18 21:41",
-        "Name": "Forza Motorsport",
-        "Link": "http://redump.org/disc/6132/",
-        "CRC-32": "3820880",
-        "MD5": "80e477d5ca9585ab1c121c9913a85848",
-        "SHA-1": "f06f7c5156271dee1fb714800c7fdbe3f8c57dda",
-        "Filename": "Forza Motorsport + Xbox Live Arcade (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)",
-        "Sectors": "3820880",
-        "Size": "7825162240"
-    },
     "MS11070L": {
         "Region": [
             "USA",
@@ -13997,6 +14059,32 @@
         "MD5": "443ef3bea56ff5cbc21d196045f0eb34",
         "SHA-1": "4054a0568d49fb1224078ed1d1d7cab59287a8d5",
         "Filename": "Forza Motorsport (World) (En,Ja,Fr,De,Es,It,Zh,Ko)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
+    "XL02070W": {
+        "Region": [
+            "USA"
+        ],
+        "Languages": [
+            "Chinese",
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Korean",
+            "Spanish"
+        ],
+        "Serial": "XL-020",
+        "Added": "2009-02-21 17:56",
+        "Modified": "2023-07-18 21:41",
+        "Name": "Forza Motorsport + Xbox Live Arcade",
+        "Link": "http://redump.org/disc/6132/",
+        "CRC-32": "3820880",
+        "MD5": "80e477d5ca9585ab1c121c9913a85848",
+        "SHA-1": "f06f7c5156271dee1fb714800c7fdbe3f8c57dda",
+        "Filename": "Forza Motorsport + Xbox Live Arcade (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)",
         "Sectors": "3820880",
         "Size": "7825162240"
     },
@@ -16447,6 +16535,26 @@
         "MD5": "0a64d22462dfaa3d8b170c475e17118d",
         "SHA-1": "9ee804930f6f421e1a20b8e3470e2cc0f9a762b6",
         "Filename": "Halo 2 (Japan) (En,Ja,Fr,De,Es,It,Zh,Ko)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
+    "MS10008W": {
+        "Region": [
+            "Korea"
+        ],
+        "Languages": [
+            "English",
+            "Korean"
+        ],
+        "Serial": "MS-100",
+        "Added": "2024-03-24 02:57",
+        "Modified": "2024-03-26 07:56",
+        "Name": "Halo 2",
+        "Link": "http://redump.org/disc/113087/",
+        "CRC-32": "3820880",
+        "MD5": "14967dc5477568ea7d0a3c737e5583e9",
+        "SHA-1": "bac94c62db093eb1ace2a688161defd0c535b237",
+        "Filename": "Halo 2 (Korea) (En,Ko)",
         "Sectors": "3820880",
         "Size": "7825162240"
     },
@@ -25624,6 +25732,22 @@
         "Sectors": "3820880",
         "Size": "7825162240"
     },
+    "TQ00103A": {
+        "Region": [
+            "USA"
+        ],
+        "Serial": "TQ-001",
+        "Added": "2023-09-26 06:19",
+        "Modified": "2023-10-08 14:00",
+        "Name": "New Legends",
+        "Link": "http://redump.org/disc/108479/",
+        "CRC-32": "3820880",
+        "MD5": "e5a3495d077daf55a8a94b3426e3b011",
+        "SHA-1": "2d77a45fbee91c6bc26847b1722036cf51176820",
+        "Filename": "New Legends (USA) (Demo)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
     "MS03501J": {
         "Region": [
             "Japan"
@@ -28168,23 +28292,6 @@
         "Sectors": "3820880",
         "Size": "7825162240"
     },
-    "IM01603E": {
-        "Region": [
-            "Europe",
-            "Australia"
-        ],
-        "Serial": "IM-016",
-        "Added": "2019-09-16 20:37",
-        "Modified": "2024-04-19 10:07",
-        "Name": "Official Xbox Magazine Game Disc 16",
-        "Link": "http://redump.org/disc/65077/",
-        "CRC-32": "3820880",
-        "MD5": "1e73fd49580a9119592449b069c57e84",
-        "SHA-1": "deb69e4161171e59ea3307c13202a30a66f6a2cd",
-        "Filename": "Official Xbox Magazine Game Disc 16 (Europe, Australia)",
-        "Sectors": "3820880",
-        "Size": "7825162240"
-    },
     "IM01602E": {
         "Region": [
             "Europe"
@@ -28204,6 +28311,23 @@
         "MD5": "bb58daa259bdd40199d332b140ba8440",
         "SHA-1": "806fea362e7c38a35f84d4af4795e4b98d56fa52",
         "Filename": "Official Xbox Magazine Game Disc 16 (Europe) (En,Fr,Es,It)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
+    "IM01603E": {
+        "Region": [
+            "Europe",
+            "Australia"
+        ],
+        "Serial": "IM-016",
+        "Added": "2019-09-16 20:37",
+        "Modified": "2024-04-19 10:07",
+        "Name": "Official Xbox Magazine Game Disc 16",
+        "Link": "http://redump.org/disc/65077/",
+        "CRC-32": "3820880",
+        "MD5": "1e73fd49580a9119592449b069c57e84",
+        "SHA-1": "deb69e4161171e59ea3307c13202a30a66f6a2cd",
+        "Filename": "Official Xbox Magazine Game Disc 16 (Europe, Australia)",
         "Sectors": "3820880",
         "Size": "7825162240"
     },
@@ -33948,6 +34072,30 @@
         "Sectors": "3820880",
         "Size": "7825162240"
     },
+    "XL00803J": {
+        "Region": [
+            "Japan"
+        ],
+        "Languages": [
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Spanish"
+        ],
+        "Serial": "XL-008",
+        "Added": "2023-05-15 11:36",
+        "Modified": "2023-09-17 19:29",
+        "Name": "Re-Volt",
+        "Link": "http://redump.org/disc/104042/",
+        "CRC-32": "3820880",
+        "MD5": "0322ec9624afd6c2f753b2e818c7771b",
+        "SHA-1": "bddbe73b4a4bf423f513ccea6c477f28a97ec60f",
+        "Filename": "Re-Volt (Japan) (En,Ja,Fr,De,Es,It) (Beta)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
     "XL00802W": {
         "Region": [
             "USA"
@@ -35288,7 +35436,7 @@
         "Sectors": "3820880",
         "Size": "7825162240"
     },
-    "NULL": {
+    "VU02302A": {
         "Region": [
             "USA"
         ],
@@ -35543,6 +35691,26 @@
         "MD5": "f08dbe2fe56cf135edf3f686a5b9aa09",
         "SHA-1": "a190a7a9c8ad854e01eb592057de214d5afb2bed",
         "Filename": "Sega GT 2002 + JSRF - Jet Set Radio Future (Europe, Australia) (En,Fr,De,Es,It)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
+    "MS06107J": {
+        "Region": [
+            "Korea"
+        ],
+        "Languages": [
+            "English",
+            "Japanese"
+        ],
+        "Serial": "MS-061",
+        "Added": "2024-05-11 01:33",
+        "Modified": "2024-05-22 06:36",
+        "Name": "Sega GT 2002 + JSRF: Jet Set Radio Future",
+        "Link": "http://redump.org/disc/114596/",
+        "CRC-32": "3820880",
+        "MD5": "995ae5511c882814f6e16dc7261fac9c",
+        "SHA-1": "bf59a763a0486889d1a7c030f352fb72292679e7",
+        "Filename": "Sega GT 2002 + JSRF - Jet Set Radio Future (Korea) (En,Ja)",
         "Sectors": "3820880",
         "Size": "7825162240"
     },
@@ -36249,6 +36417,25 @@
         "MD5": "c3a3fc47dffa364e0e5223b9b04afbeb",
         "SHA-1": "33927c3b3d5e61ee93a3f607f9a87dee229c1362",
         "Filename": "Shrek 2 (USA, Japan)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
+    "AV05509E": {
+        "Region": [
+            "UK"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Serial": "AV-055",
+        "Added": "2023-09-25 17:11",
+        "Modified": "2023-09-26 20:47",
+        "Name": "Shrek 2",
+        "Link": "http://redump.org/disc/108473/",
+        "CRC-32": "3820880",
+        "MD5": "fccf4ed7293eae18baf779e520bc45e7",
+        "SHA-1": "6d9195b78f85d46eec0dac224777afd0cf970ece",
+        "Filename": "Shrek 2 (UK)",
         "Sectors": "3820880",
         "Size": "7825162240"
     },
@@ -37879,7 +38066,7 @@
         "Serial": "EA-130",
         "Added": "2020-08-18 17:10",
         "Modified": "2023-07-31 16:45",
-        "Name": "SSX On Tour",
+        "Name": "SSX on Tour",
         "Link": "http://redump.org/disc/72381/",
         "CRC-32": "3820880",
         "MD5": "73b403d15de74ae8ed8774ce2259940c",
@@ -37895,7 +38082,7 @@
         "Serial": "EA-130",
         "Added": "2012-07-01 12:27",
         "Modified": "2023-07-31 16:45",
-        "Name": "SSX On Tour",
+        "Name": "SSX on Tour",
         "Link": "http://redump.org/disc/24840/",
         "CRC-32": "3820880",
         "MD5": "9b9c23eaca951f2de37a2607cc33787e",
@@ -37914,7 +38101,7 @@
         "Serial": "EA-130",
         "Added": "2010-05-31 00:02",
         "Modified": "2023-07-31 16:46",
-        "Name": "SSX On Tour",
+        "Name": "SSX on Tour",
         "Link": "http://redump.org/disc/13640/",
         "CRC-32": "3820880",
         "MD5": "2ab6dd52d87911fd38f6212cc0319b08",
@@ -45943,6 +46130,21 @@
         "Sectors": "3820880",
         "Size": "7825162240"
     },
+    "XK02001A": {
+        "Region": [
+            "USA"
+        ],
+        "Serial": "XK-020",
+        "Added": "2023-10-31 00:09",
+        "Name": "Xbox Demo Disc Version 2.5",
+        "Link": "http://redump.org/disc/109748/",
+        "CRC-32": "3820880",
+        "MD5": "bf6f592ad8d0e02d8f24854f99073d1c",
+        "SHA-1": "99fecb1348563d37dc491ad3586bd0fb22f2ab6b",
+        "Filename": "Xbox Demo Disc Version 2.5 (USA)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
     "XK02002A": {
         "Region": [
             "USA"
@@ -46455,6 +46657,24 @@
         "MD5": "6e2af8f2c48afff31ddbeee51ec301e3",
         "SHA-1": "07d7700f0931de143de4bfd265f2b8ea49ac5482",
         "Filename": "Xbox Demo Disk Version 13 (Europe)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
+    "XK01301J": {
+        "Region": [
+            "Japan"
+        ],
+        "Languages": [
+            "Japanese"
+        ],
+        "Serial": "XK-013",
+        "Added": "2024-01-30 02:29",
+        "Name": "Xbox-ism: New Year 2003",
+        "Link": "http://redump.org/disc/111614/",
+        "CRC-32": "3820880",
+        "MD5": "00ee3a4fdc0029f33b16e6ba7fcbfebe",
+        "SHA-1": "3bfa0b91120b2405e5d0e1240268b999525de4fd",
+        "Filename": "Xbox-ism - New Year 2003 (Japan)",
         "Sectors": "3820880",
         "Size": "7825162240"
     },
