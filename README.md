@@ -38,7 +38,8 @@ We take the SN and remove the -<br>
 We take the build ver, truncate it to the last tow hex 0A, then convert that into dec 10<br>
 We take the region code and look it up on a list<br>
 '1': 'A', '2': 'J', '3': 'K', '4': 'E', '5': 'L', '7': 'W'<br>
-<sup>\[citation needed] 6 is missing or unknown</sup><br>
+<sup>\6 is an invalid combination of hex flags. If the math checked out, it would be E + J.<br>
+But it Could also be A + J + K. Or any combo to make 6. So the math doesn't check. Invalid region</sup><br>
 Then we concatenate them all together. MS100 10 W<br><br>
 
 Xbes do have the title Icons imbedded in the xbe, however no tool curently exist to pull it<br>
