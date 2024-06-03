@@ -34,6 +34,8 @@ import (
 	"unicode/utf16"   // So our title names are actually correct and not broken from bad ascii converts.
 	"strconv"         //
 	"time"            // Convert Epoch timestrings
+	//"crypto/md5"      // Make a checksum of the xbe
+	//"io"
 )
 
 type XBEHeader struct {
@@ -306,6 +308,7 @@ func lookupPublisher(intal string, titleID string) string {
 		"KK": "Kiki Co., Ltd.",
 		"KN": "Konami",
 		"KO": "KOEI",
+		"KT": "Konami Tokyo",
 		"KU": "Kobi and/or GAE", // formerly Global A Entertainment
 		"LA": "LucasArts",
 		"LS": "Black Bean Games", // Publishing arm of Leader S.p.A.
@@ -384,10 +387,12 @@ func decodeDIPSwitch(hexFlag uint32, dictionary map[uint32]string) string {
 }
 
 func main() {
+	// Procuess command args
 	if len(os.Args) < 2 {
 		fmt.Println("Usage: XBEJson <XBE file>")
 		return
 	}
+	// Open file
 	file, err := os.Open(os.Args[1])
 	if err != nil {
 		fmt.Println("Error opening file:", err)
@@ -395,19 +400,41 @@ func main() {
 	}
 	defer file.Close()
 
+	// Make checksum.
+	// Im not sold on this yet. Not sure if it slows down the exe time.
+	// But we are also splitting hairs of millis here. for the most part
+	// it will depend on how big the file is.
+	/*
+	hash := md5.New()
+	if _, err := io.Copy(hash, file); err != nil {
+		fmt.Println("Error calculating checksum:", err)
+		return
+	}
+	MD5checksum := hash.Sum(nil)
+
+	// Reset file pointer to the beginning after doing checksum
+	// TODO: Find a way to do checksum and our read at the same time.
+	if _, err := file.Seek(0, io.SeekStart); err != nil {
+		fmt.Println("Error seeking file:", err)
+		return
+	}
+	*/
+
+	// Procuess XBE headder
 	header, err := readXBEHeader(file)
 	if err != nil {
 		fmt.Println("Error reading XBE header:", err)
 		return
 	}
 
+	// Procuess XBE Cert
 	certificate, err := readXBECertificate(file, header.CertificateAddress, header.BaseAddress)
 	if err != nil {
 		fmt.Println("Error reading XBE certificate:", err)
 		return
 	}
 
-	// Gets number of libs used in file
+	// Gets number of XDK libs used in file
 	libCntStr := fmt.Sprintf("%X", header.NumberOfLibraryVersions)
 	libCntNum, _ := strconv.ParseInt(libCntStr, 16, 32)
 	// Uses that number to decode all of them from the xbe
@@ -438,14 +465,18 @@ func main() {
 	}
 
 	// THIS IS NOT HOW YOU BUILD A JSON
-	// But im lazy, a noob, and technically this works, and thats the best kind of works.
+	// But im lazy, a noob, and technically this works, and that's the best kind of works.
+	// MobCat from a year an a half in the future.
+	// So yeah I looked it up, and I don't like it.
+	// We have to do this dance of setup new json or setup structs, fmt.Sprintf stuff into it, and then print the json.
+	// We are doing the formatting and printing at the same time here without setting up even more structs. 
+	// sooo ours seems trash, and it is, but it's easier to follow.
 	fmt.Println("{")
 	titleID := fmt.Sprintf("%08X", certificate.TitleID)
 	titleIDl := strings.ToLower(titleID)
 	fmt.Printf("\"Title_Image\": \"![0x%s](https://raw.githubusercontent.com/MobCat/MobCats-original-xbox-game-list/main/icon/%s-TitleImage.png)\",\n", titleID, titleIDl)
 	fmt.Printf("\"Title_ID_HEX\": \"0x%s\",\n", titleID)
 
-	// Not sure if I should build an error catch just for revolt
 	// Convert upper 4 of title id
 	hexBytes, _ := hex.DecodeString(titleID[:4])
 	asciiStr := string(hexBytes)
@@ -483,6 +514,8 @@ func main() {
 	fmt.Printf("\"Cert_Timestamp\": \"%s\",\n", epochConvert(certificate.TimeDate))
 
 	fmt.Printf("\"XDK_Ver\": \"%s\"\n", strings.Join(libBuildvers, ", "))
+
+	//fmt.Printf("\"MD5_Checksum\": \"%x\"\n", MD5checksum)
 
 	fmt.Println("}")
 
