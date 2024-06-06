@@ -473,8 +473,10 @@ func main() {
 	// sooo ours seems trash, and it is, but it's easier to follow.
 	fmt.Println("{")
 	titleID := fmt.Sprintf("%08X", certificate.TitleID)
-	titleIDl := strings.ToLower(titleID)
-	fmt.Printf("\"Title_Image\": \"![0x%s](https://raw.githubusercontent.com/MobCat/MobCats-original-xbox-game-list/main/icon/%s-TitleImage.png)\",\n", titleID, titleIDl)
+	//titleIDl := strings.ToLower(titleID)
+	//Deprecated: No longer doing this Markdown thingy, also alowing for images to be stord on difrent cdns now
+	// https://Your.cdn/WhateverYouWant/icon/titleID[4:]/titleID.png
+	//fmt.Printf("\"Title_Image\": \"![0x%s](https://raw.githubusercontent.com/MobCat/MobCats-original-xbox-game-list/main/icon/%s-TitleImage.png)\",\n", titleID, titleIDl)
 	fmt.Printf("\"Title_ID_HEX\": \"0x%s\",\n", titleID)
 
 	// Convert upper 4 of title id
