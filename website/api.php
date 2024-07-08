@@ -1,7 +1,11 @@
 <?php
-// load local db
+// Load local db
 $db = new SQLite3('titleIDs.db');
 
+// Load $CNDPrefix and $CNDDirLst from central config
+require_once('config.php');
+
+// Pre defs 
 $error = "";
 $result = array();
 
@@ -12,11 +16,6 @@ $valid_params = array(
     'xmid' => 'XMID',
     'md5'  => 'MD5_Checksum',
 );
-
-// Alow for host to set raw url prefix
-// Now i'm thinking about it, we probs should just include these from a central config.php... maybe lator.
-$CNDPrefix = "https://raw.githubusercontent.com/MobCat/MobCats-original-xbox-game-list/main/";
-$CNDDirLst = "https://api.github.com/repos/MobCat/MobCats-original-xbox-game-list/git/trees/main?recursive=1";
 
 // Load our git dir list from external source.. aka url.
 function fetchJsonData($url) {
