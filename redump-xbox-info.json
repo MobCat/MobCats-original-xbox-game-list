@@ -1691,6 +1691,25 @@
         "Sectors": "3820880",
         "Size": "7825162240"
     },
+    "LA01305J": {
+        "Region": [
+            "Asia"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Serial": "LA-013",
+        "Added": "2012-01-17 14:24",
+        "Modified": "2016-02-07 18:11",
+        "Name": "Armed and Dangerous",
+        "Link": "http://redump.org/disc/23018/",
+        "CRC-32": "3820880",
+        "MD5": "b4c47ef58c853790fb4023926357872a",
+        "SHA-1": "de44893c78cc7a641969eb9625d805f90431d9ba",
+        "Filename": "Armed and Dangerous (Asia)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
     "LA01302E": {
         "Region": [
             "Europe"
@@ -5297,6 +5316,21 @@
         "MD5": "c2f190738970392a3e7735da6287af78",
         "SHA-1": "8aee3fdd4b972c42447abce5aee20594fbc0aaa2",
         "Filename": "Dr. Seuss' The Cat in the Hat (USA, Japan)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
+    "EA09203J": {
+        "Region": [
+            "Asia"
+        ],
+        "Serial": "EA-092",
+        "Added": "2024-06-14 12:48",
+        "Name": "Catwoman",
+        "Link": "http://redump.org/disc/115574/",
+        "CRC-32": "3820880",
+        "MD5": "ec487ce5eeaf236409b74e40fe7a6c0d",
+        "SHA-1": "b0c52886fe2211649d6ce4774231c2b683db6d9b",
+        "Filename": "Catwoman (Asia)",
         "Sectors": "3820880",
         "Size": "7825162240"
     },
@@ -16270,7 +16304,7 @@
         ],
         "Serial": "MS-004",
         "Added": "2012-12-18 03:49",
-        "Modified": "2019-03-11 22:28",
+        "Modified": "2024-07-03 05:06",
         "Name": "Halo",
         "Link": "http://redump.org/disc/27160/",
         "CRC-32": "3820880",
@@ -16398,7 +16432,7 @@
         ],
         "Serial": "MS-004",
         "Added": "2012-12-18 03:58",
-        "Modified": "2020-07-02 20:14",
+        "Modified": "2024-07-03 05:06",
         "Name": "Halo: Combat Evolved",
         "Link": "http://redump.org/disc/27162/",
         "CRC-32": "3820880",
@@ -16528,7 +16562,7 @@
         ],
         "Serial": "MS-100",
         "Added": "2015-01-10 02:43",
-        "Modified": "2023-09-14 11:42",
+        "Modified": "2024-07-03 05:07",
         "Name": "Halo 2",
         "Link": "http://redump.org/disc/33858/",
         "CRC-32": "3820880",
@@ -16543,18 +16577,24 @@
             "Korea"
         ],
         "Languages": [
+            "Chinese",
             "English",
-            "Korean"
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Korean",
+            "Spanish"
         ],
         "Serial": "MS-100",
         "Added": "2024-03-24 02:57",
-        "Modified": "2024-03-26 07:56",
+        "Modified": "2024-07-11 23:54",
         "Name": "Halo 2",
         "Link": "http://redump.org/disc/113087/",
         "CRC-32": "3820880",
         "MD5": "14967dc5477568ea7d0a3c737e5583e9",
         "SHA-1": "bac94c62db093eb1ace2a688161defd0c535b237",
-        "Filename": "Halo 2 (Korea) (En,Ko)",
+        "Filename": "Halo 2 (Korea) (En,Ja,Fr,De,Es,It,Zh,Ko)",
         "Sectors": "3820880",
         "Size": "7825162240"
     },
@@ -19606,7 +19646,7 @@
     },
     "RA00102E": {
         "Region": [
-            "USA"
+            "Europe"
         ],
         "Languages": [
             "English",
@@ -19617,13 +19657,13 @@
         ],
         "Serial": "RA-001",
         "Added": "2022-05-19 10:42",
-        "Modified": "2023-11-17 21:54",
+        "Modified": "2024-07-08 03:09",
         "Name": "Lamborghini",
         "Link": "http://redump.org/disc/93369/",
         "CRC-32": "3820880",
         "MD5": "95c9d978faaa6a0b51258d1d1d5c15ee",
         "SHA-1": "532ff20afef9025acb45246196db08da674fcfbd",
-        "Filename": "Lamborghini (USA) (En,Fr,De,Es,It) (Beta) (2002-12-10)",
+        "Filename": "Lamborghini (Europe) (En,Fr,De,Es,It) (Beta) (2002-12-10)",
         "Sectors": "3820880",
         "Size": "7825162240"
     },
@@ -20856,7 +20896,7 @@
         ],
         "Serial": "IG-014",
         "Added": "2011-11-08 20:22",
-        "Modified": "2020-09-01 22:30",
+        "Modified": "2024-06-03 18:14",
         "Name": "Magic: The Gathering: Battlegrounds",
         "Link": "http://redump.org/disc/21694/",
         "CRC-32": "3820880",
@@ -32152,6 +32192,22 @@
         "Sectors": "3820880",
         "Size": "7825162240"
     },
+    "GV00750W": {
+        "Region": [
+            "France"
+        ],
+        "Serial": "GV-007",
+        "Added": "2024-06-14 12:37",
+        "Modified": "2024-06-16 15:09",
+        "Name": "Pariah",
+        "Link": "http://redump.org/disc/115572/",
+        "CRC-32": "3820880",
+        "MD5": "55b437687ae7ffdc7c631456cbe1e3a8",
+        "SHA-1": "3cfc890e135c04d72d36b0d86513f8d73f31ee97",
+        "Filename": "Pariah (France) (Demo)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
     "GV00101W": {
         "Region": [
             "USA",
@@ -33626,6 +33682,21 @@
         "Sectors": "3820880",
         "Size": "7825162240"
     },
+    "MS02105J": {
+        "Region": [
+            "Korea"
+        ],
+        "Serial": "MS-021",
+        "Added": "2024-06-20 15:19",
+        "Name": "Quantum Redshift",
+        "Link": "http://redump.org/disc/115752/",
+        "CRC-32": "3820880",
+        "MD5": "3248ad151c8a75a25312be33f394836e",
+        "SHA-1": "d30369e8a52ec69e0f2d48641b537e2a600775f9",
+        "Filename": "Quantum Redshift (Korea)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
     "MS02104A": {
         "Region": [
             "USA"
@@ -34072,6 +34143,30 @@
         "Sectors": "3820880",
         "Size": "7825162240"
     },
+    "XL00802W": {
+        "Region": [
+            "Europe"
+        ],
+        "Languages": [
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Spanish"
+        ],
+        "Serial": "XL-008",
+        "Added": "2022-05-19 10:08",
+        "Modified": "2024-07-08 03:09",
+        "Name": "Re-Volt",
+        "Link": "http://redump.org/disc/93368/",
+        "CRC-32": "3820880",
+        "MD5": "05795e6ab95b01c3b85012045bad4a4d",
+        "SHA-1": "f876eaa6e5f36e58ed99bfeca73d471b6867c54e",
+        "Filename": "Re-Volt (Europe) (En,Ja,Fr,De,Es,It) (Beta) (2002-08-06)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
     "XL00803J": {
         "Region": [
             "Japan"
@@ -34093,30 +34188,6 @@
         "MD5": "0322ec9624afd6c2f753b2e818c7771b",
         "SHA-1": "bddbe73b4a4bf423f513ccea6c477f28a97ec60f",
         "Filename": "Re-Volt (Japan) (En,Ja,Fr,De,Es,It) (Beta)",
-        "Sectors": "3820880",
-        "Size": "7825162240"
-    },
-    "XL00802W": {
-        "Region": [
-            "USA"
-        ],
-        "Languages": [
-            "English",
-            "French",
-            "German",
-            "Italian",
-            "Japanese",
-            "Spanish"
-        ],
-        "Serial": "XL-008",
-        "Added": "2022-05-19 10:08",
-        "Modified": "2023-11-17 21:59",
-        "Name": "Re-Volt",
-        "Link": "http://redump.org/disc/93368/",
-        "CRC-32": "3820880",
-        "MD5": "05795e6ab95b01c3b85012045bad4a4d",
-        "SHA-1": "f876eaa6e5f36e58ed99bfeca73d471b6867c54e",
-        "Filename": "Re-Volt (USA) (En,Ja,Fr,De,Es,It) (Beta) (2002-08-06)",
         "Sectors": "3820880",
         "Size": "7825162240"
     },
@@ -37016,7 +37087,7 @@
         ],
         "Serial": "SN-001",
         "Added": "2018-04-04 21:51",
-        "Modified": "2023-03-16 16:42",
+        "Modified": "2024-06-29 22:23",
         "Name": "SNK vs. Capcom: SVC Chaos",
         "Link": "http://redump.org/disc/50484/",
         "CRC-32": "3820880",
@@ -38049,6 +38120,24 @@
         "Sectors": "3820880",
         "Size": "7825162240"
     },
+    "EA13004J": {
+        "Region": [
+            "Asia"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Serial": "EA-130",
+        "Added": "2024-06-08 04:30",
+        "Name": "SSX on Tour",
+        "Link": "http://redump.org/disc/115377/",
+        "CRC-32": "3820880",
+        "MD5": "125297fb03e2aaf94b217b6bd56a2fd6",
+        "SHA-1": "72655e3c36ed39fbb4d805770d00056f63e20ec9",
+        "Filename": "SSX on Tour (Asia)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
     "EA13003E": {
         "Region": [
             "Europe"
@@ -38570,7 +38659,7 @@
         ],
         "Serial": "LA-020",
         "Added": "2012-01-11 21:05",
-        "Modified": "2013-06-23 12:59",
+        "Modified": "2024-06-03 17:40",
         "Name": "Star Wars: Knights of the Old Republic II: The Sith Lords",
         "Link": "http://redump.org/disc/22927/",
         "CRC-32": "3820880",
@@ -41351,7 +41440,7 @@
         ],
         "Serial": "ES-010",
         "Added": "2011-02-07 21:22",
-        "Modified": "2020-08-20 00:38",
+        "Modified": "2024-06-03 17:11",
         "Name": "TimeSplitters 2",
         "Link": "http://redump.org/disc/17919/",
         "CRC-32": "3820880",
@@ -44735,22 +44824,6 @@
         "Sectors": "3820880",
         "Size": "7825162240"
     },
-    "TT13503E": {
-        "Region": [
-            "Europe"
-        ],
-        "Serial": "TT-135",
-        "Added": "2012-07-16 07:48",
-        "Modified": "2019-09-24 22:32",
-        "Name": "World Poker Tour",
-        "Link": "http://redump.org/disc/25085/",
-        "CRC-32": "3820880",
-        "MD5": "f4d94644058190997a22222aadfb18c7",
-        "SHA-1": "87ef6f2d5fc95c7b22b94e244e6db278ffb68546",
-        "Filename": "World Poker Tour (Europe) (En,Fr,De)",
-        "Sectors": "3820880",
-        "Size": "7825162240"
-    },
     "TT13501A": {
         "Region": [
             "USA"
@@ -47772,6 +47845,25 @@
         "MD5": "d5edf96baa0607e8c490cce06aa7759d",
         "SHA-1": "2716b7ecd9ba8d6ba9b4151cad3aedbc0a9d12c4",
         "Filename": "Zillernet (Korea)",
+        "Sectors": "3820880",
+        "Size": "7825162240"
+    },
+    "MS06803J": {
+        "Region": [
+            "Japan"
+        ],
+        "Languages": [
+            "Japanese"
+        ],
+        "Serial": "MS-068",
+        "Added": "2024-07-12 09:32",
+        "Modified": "2024-07-12 10:06",
+        "Name": "Zunou Taisen Live",
+        "Link": "http://redump.org/disc/116368/",
+        "CRC-32": "3820880",
+        "MD5": "1a4c67397962a56f874517425a481b8c",
+        "SHA-1": "d87dcb0091ed10fee63cbaa3241ac88ebe7aec2a",
+        "Filename": "Zunou Taisen Live (Japan) (Beta)",
         "Sectors": "3820880",
         "Size": "7825162240"
     }
