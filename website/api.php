@@ -11,10 +11,11 @@ $result = array();
 
 // Valid params for ?sn or ?id etc. Map them to a db lookup.
 $valid_params = array(
-    'sn'   => 'Serial_Num',
-    'id'   => 'Title_ID_HEX',
-    'xmid' => 'XMID',
-    'md5'  => 'MD5_Checksum',
+    'sn'     => 'Serial_Num',
+    'id'     => 'Title_ID',
+    'xmid'   => 'XMID',
+    'xbemd5' => 'XBE_MD5',
+    'redump' => 'Redump_MD5',
 );
 
 // Load our git dir list from external source.. aka url.
@@ -52,10 +53,15 @@ function searchPathInJson($jsonData, $searchPath) {
 // "" This is probs in no way safe or secure, we are just basic lenth and type checking..
 function validateAndProcessInput($param, $value) {
     switch ($param) {
-        case 'md5':
+        case 'xbemd5':
             // Check if length is 32 and contains only hexadecimal characters
             if (strlen($value) === 32 && ctype_xdigit($value)) {
                 return strtoupper($value);
+            }
+            break;
+        case 'redump':
+            if (strlen($value) === 32 && ctype_xdigit($value)) {
+                return strtolower($value);
             }
             break;
         case 'sn':
@@ -138,8 +144,9 @@ foreach ($valid_params as $param => $column) {
                             } else {
                                 $postFix = substr($row['XMID'], 0, 2) . "/" . $row['XMID'] . "-". $i . ".jpg";
                             }
-                            $titleXBX       = "xbx/".strtolower(substr($row['Title_ID_HEX'], 2))."-TitleImage.xbx";
-                            $titleIcon      = "icon/".strtolower(substr($row['Title_ID_HEX'], 2))."-TitleImage.png";
+
+                            $titleXBX       = "xbx/".substr($row['Title_ID'], 2, 4)."/".substr($row['Title_ID'], 2).".xbx";
+                            $titleIcon      = "icon/".substr($row['Title_ID'], 2, 4)."/".substr($row['Title_ID'], 2).".png";
                             $titleThumbnail = "thumbnail/".$postFix;
                             $titleCover     = "cover/".$postFix;
                             $titleDisc      = "disc/".$postFix;
