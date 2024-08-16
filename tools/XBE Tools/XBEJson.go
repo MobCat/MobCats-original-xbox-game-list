@@ -365,6 +365,7 @@ func lookupPublisher(intal string, titleID string) string {
 		"XM": "Evolved Games",
 		"XP": "XPEC Entertainment",
 		"XR": "Panorama",
+		"XX": "Xbox Promotional",
 		"YB": "YBM Sisa",
 		"ZD": "Zushi Games",
 		"\xff\xd0": "Xbox Internal",
