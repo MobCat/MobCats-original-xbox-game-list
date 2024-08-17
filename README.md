@@ -55,16 +55,16 @@ Crushing them into a jpg will lose this alpha layer data.<br>
 The final bit of data we need is a better title name as the imbedded one is missing or truncated a lot of the time, we pull this data from dbox<br>
 by looking up the md5 hash of our extracted xbe on there website. This also adds a 3rd party cross reference to our data to make sure it was extracted correctly.<br>
 
-# Augest 2024 Update
+# August 2024 Update
 The `0x` prefix for `Title_ID` was <i>finally</i> removed from the database.<br>
 We still have `0x` prefixes for other hex values in the database, but I finally decided to remove the prefix for Title IDs.<br>
 In hindsight this was just silly and me being very pragmatic or picky about the data.<br>
 The Title ID is technically a hex code, we should store it as hex. And the stupid old crusty XISO attacher builder I was using at the time 
 required the Title ID to be in decimal or use the `0x` prefix.<br>
-(for context, this XISO attacher builder that shell not be named didn't even support Unicode title names. So it would not build attachers and crash for about 35% of the xbox library..)<br>
+(for context, this XISO attacher builder that shall not be named didn't even support Unicode title names. So it would not build attachers and crash for about 35% of the xbox library..)<br>
 (We have our own attacher builder now.. almost.. still got some issues of my own to sort out..)<br>
 However this `0x` prefix is not the standard for the community, and most people don't care about the data being <i>technically correct</i>.<br>
-This will brake some compatibility with other services, but most of these service brakes will only occur because we where stripping the `0x` prefix.<br>
+This will break some compatibility with other services, but most of these service brakes will only occur because we where stripping the `0x` prefix.<br>
 Now we don't have to do extra work, to remove extra data nobody was using in the first place.<br>
 So we just have to fix those services to not remove the pointless data we where not using and we will be fine<br>
 But it's gonna take a while to track down all the loose ends.<br><br>
