@@ -3,7 +3,7 @@
 $db = new SQLite3('titleIDs.db');
 
 // Load $CNDPrefix and $CNDDirLst from central config
-require_once('config.php');
+require_once('settings/GBR.php');
 
 // Pre defs 
 $error = "";
@@ -76,13 +76,8 @@ function validateAndProcessInput($param, $value) {
             break;
         case 'id':
             // Check if length is 8 and contains only hexadecimal characters
-            //TODO: Gonna remove the 0x prefix from the data in the db at some point. it's kinda silly and not used anymore.
-            //Left over formatting from like 2 years ago...
-            if (stripos($value, '0x') === 0) {
-                $value = substr($value, 2);
-            }
             if (strlen($value) === 8 && ctype_xdigit($value)) {
-                return '0x' . strtoupper($value);
+                return strtoupper($value);
             }
             break;
         case 'xmid':
@@ -145,8 +140,8 @@ foreach ($valid_params as $param => $column) {
                                 $postFix = substr($row['XMID'], 0, 2) . "/" . $row['XMID'] . "-". $i . ".jpg";
                             }
 
-                            $titleXBX       = "xbx/".substr($row['Title_ID'], 2, 4)."/".substr($row['Title_ID'], 2).".xbx";
-                            $titleIcon      = "icon/".substr($row['Title_ID'], 2, 4)."/".substr($row['Title_ID'], 2).".png";
+                            $titleXBX       = "xbx/".substr($row['Title_ID'], 0, 4)."/".$row['Title_ID'].".xbx";
+                            $titleIcon      = "icon/".substr($row['Title_ID'], 0, 4)."/".$row['Title_ID'].".png";
                             $titleThumbnail = "thumbnail/".$postFix;
                             $titleCover     = "cover/".$postFix;
                             $titleDisc      = "disc/".$postFix;
@@ -176,7 +171,7 @@ foreach ($valid_params as $param => $column) {
 // It will just error out, we ignore this error and jump to a new page. And stop the page from doing anything further
 // This does seem to brake Invalid params error though? lol idk..
 if (!$processedValue) {
-    header("Location: https://mobcat.zip/XboxIDs/APIDocs.htm");
+    header("Location: https://mobcat.zip/XboxIDs/documentation/?id=2");
     die();
 }
 
