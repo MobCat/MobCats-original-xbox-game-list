@@ -49,6 +49,7 @@ function searchPathInJson($jsonData, $searchPath) {
     return false;
 }
 
+
 // "Valadate" user input from url args
 // "" This is probs in no way safe or secure, we are just basic lenth and type checking..
 function validateAndProcessInput($param, $value) {
@@ -92,6 +93,57 @@ function validateAndProcessInput($param, $value) {
     return null;
 }
 
+// Quick fizbug for checking db stats.
+if (isset($_GET['stats'])) {
+    // Get CND info
+    $gitJson = fetchJsonData($CNDDirLst);
+
+    // Get stats on uploaded covers.
+    $pathTypes = ['cover/', 'disc/', 'thumbnail/', 'manual/'];
+    $counts = array_fill_keys($pathTypes, 0);
+    $sizes = array_fill_keys($pathTypes, 0);
+
+    // Iterate through the tree array to count paths and sum sizes
+    foreach ($gitJson['tree'] as $item) {
+        foreach ($pathTypes as $pathType) {
+            if (strpos($item['path'], $pathType) === 0) {
+                // Check if the path is a complete path
+                if ($item['type'] === 'blob') {
+                    $counts[$pathType]++;
+                    $sizes[$pathType] += $item['size'];
+                }
+                break;
+            }
+        }
+    }
+
+    // Get DB info
+    $sumResult = $db->query('SELECT COUNT(*) as totalRows, COUNT(Cover_Stats) as nonNullCoverStats, COUNT(DISTINCT Serial_Num) as uniqueSerialNum  FROM TitleIDs');
+    $sumRow = $sumResult->fetchArray(SQLITE3_ASSOC);
+
+    // Manually build a json struct, but fuck it we ball
+    $stats = [
+        'alive' => true,
+        'updated'  => filemtime('titleIDs.db'),
+        'titleIDs' => $sumRow['uniqueSerialNum'],
+        'titleChecksums' => $sumRow['totalRows'],
+        'thumbnails' => [
+            'count'  => $counts['thumbnail/'],
+            'size'   => $sizes['thumbnail/'],
+        ],
+        'covers' => [
+            'count' => $counts['cover/'],
+            'size'  => $sizes['cover/'],
+        ],
+        'discs' => [
+            'count' => $counts['disc/'],
+            'size'  => $sizes['disc/'],
+        ]
+    ];
+    header('Content-Type: application/json; charset=utf-8');
+    echo json_encode($stats);
+    die();
+}
 
 foreach ($valid_params as $param => $column) {
     if (isset($_GET[$param])) {
