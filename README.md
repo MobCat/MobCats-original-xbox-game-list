@@ -55,6 +55,13 @@ Crushing them into a jpg will lose this alpha layer data.<br>
 The final bit of data we need is a better title name as the imbedded one is missing or truncated a lot of the time, we pull this data from dbox<br>
 by looking up the md5 hash of our extracted xbe on there website. This also adds a 3rd party cross reference to our data to make sure it was extracted correctly.<br>
 
+# July 2025 Update
+Yeah, it's been awhile. life things. also the database is in the "finished project car" phase.<br>
+I have most of every game you could ever think of, just need to add the rest of the stuff you don't think about like cdx and oxm... And so many many duppes for football/socker games..<br>
+So the car runs and drives, and is some how road legal. But it could do with a new headliner and some other small things...<br>
+I'm mostly wrighting this update as <a href="https://www.reddit.com/r/originalxbox/comments/1m90loe/comment/n58iko5/">BombBloke on reddit</a> came out of no where and made a new xbx icon converter that seems to handle the newer xbx icos.<br>
+Which is awesome, huge thanks to them. This has been an issue in the community for almost 20 years.
+
 # August 2024 Update
 The `0x` prefix for `Title_ID` was <i>finally</i> removed from the database.<br>
 We still have `0x` prefixes for other hex values in the database, but I finally decided to remove the prefix for Title IDs.<br>
